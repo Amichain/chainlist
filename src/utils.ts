@@ -16,8 +16,8 @@ export const getChain = (chainId: number | string): Chain | null => {
 	if(typeof chainId === 'number') {
 		chainId = chainId.toString()
 	}
-	for(const [iconPath, chain] of Object.entries(allChains) as [string, Chain][]) {
-		if(iconPath.endsWith(`/${chainId}.json`)) {
+	for(const [chainPath, chain] of Object.entries(allChains) as [string, Chain][]) {
+		if(chainPath.endsWith(`/${chainId}.json`)) {
 			return chain
 		}
 	}
