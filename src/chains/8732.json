@@ -1,0 +1,22 @@
+{
+    "chainId": 8732,
+    "name": "Bullions Smart Chain",
+    "rpc": [
+        "https://rpc.bullionsx.org",
+        "https://8732.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Bullionscan",
+            "url": "https://bullionscan.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Bullions",
+        "symbol": "BLN",
+        "decimals": 18
+    },
+    "website": "https://www.bullionsx.io",
+    "icon": null
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 990,
+    "name": "eLiberty Mainnet",
+    "rpc": [
+        "https://rpc.eliberty.ngo",
+        "https://990.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "eLiberty Mainnet",
+            "url": "https://explorer.eliberty.ngo"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "eLiberty",
+        "symbol": "$EL",
+        "decimals": 18
+    },
+    "website": "https://eliberty.ngo",
+    "icon": null
+}

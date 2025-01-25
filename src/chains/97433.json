@@ -1,0 +1,23 @@
+{
+    "chainId": 97433,
+    "name": "The Growth Protocol",
+    "rpc": [
+        "https://97433.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-tgp-e865e.avax-test.network/ext/bc/8YNzNAkTL41pLXVYJUrnY93khJRZoAApiJ7x2PnNRsCHeqZ7w/rpc?token=b4bf9b79de9e4e9250a627de3f4642a8d308fcadd01a5204838b22e6699b6ca1"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://subnets-test.avax.network/tgp"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CERES",
+        "symbol": "CERES",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "97433.png",
+    "testnet": true
+}

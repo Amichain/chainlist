@@ -1,0 +1,22 @@
+{
+    "chainId": 8921733,
+    "name": "Helix Test",
+    "rpc": [
+        "https://8921733.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://helix-test.calderachain.xyz/http"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "helix-test explorer",
+            "url": "https://helix-test.calderaexplorer.xyz/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

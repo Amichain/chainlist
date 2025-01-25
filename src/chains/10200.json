@@ -1,0 +1,37 @@
+{
+    "chainId": 10200,
+    "name": "Gnosis Chiado Testnet",
+    "rpc": [
+        "https://rpc.chiadochain.net",
+        "https://rpc.chiado.gnosis.gateway.fm",
+        "https://gnosis-chiado-rpc.publicnode.com",
+        "https://gnosis-chiado.drpc.org",
+        "https://10200.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://rpc.chiadochain.net/wss",
+        "wss://gnosis-chiado-rpc.publicnode.com",
+        "wss://gnosis-chiado.drpc.org"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout-chiadochain",
+            "url": "https://blockscout.chiadochain.net"
+        },
+        {
+            "name": "blockscout",
+            "url": "https://gnosis-chiado.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Chiado xDAI",
+        "symbol": "XDAI",
+        "decimals": 18
+    },
+    "website": "https://docs.gnosischain.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://gnosisfaucet.com"
+    ]
+}

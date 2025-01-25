@@ -1,0 +1,23 @@
+{
+    "chainId": 34949059,
+    "name": "citronus-citro",
+    "rpc": [
+        "https://rpc.citro-testnet.t.raas.gelato.cloud"
+    ],
+    "ws": [
+        "wss://testnet-ws.eh-dev.app"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://test.citronus.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Citronus",
+        "symbol": "CITRO",
+        "decimals": 18
+    },
+    "website": "https://raas.gelato.network/rollups/details/public/citronus-citro",
+    "icon": "34949059.png"
+}

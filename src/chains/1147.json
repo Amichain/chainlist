@@ -1,0 +1,26 @@
+{
+    "chainId": 1147,
+    "name": "Flag Testnet",
+    "rpc": [
+        "https://testnet-rpc.flagscan.xyz",
+        "https://1147.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Flag Testnet Explorer",
+            "url": "https://testnet-explorer.flagscan.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Flag Testnet",
+        "symbol": "FLAG",
+        "decimals": 18
+    },
+    "website": "https://testnet-explorer.flagscan.xyz",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.flagscan.xyz"
+    ]
+}

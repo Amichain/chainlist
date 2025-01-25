@@ -1,0 +1,14 @@
+{
+    "chainId": 1582,
+    "name": "Bubs Testnet",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "gETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

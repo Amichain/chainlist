@@ -1,0 +1,22 @@
+{
+    "chainId": 2907,
+    "name": "Elux Chain",
+    "rpc": [
+        "https://rpc.eluxscan.com",
+        "https://2907.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://eluxscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Elux Chain",
+        "symbol": "ELUX",
+        "decimals": 18
+    },
+    "website": "https://eluxscan.com",
+    "icon": null
+}

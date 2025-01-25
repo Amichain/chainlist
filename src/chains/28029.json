@@ -1,0 +1,17 @@
+{
+    "chainId": 28029,
+    "name": "bg-testnet",
+    "rpc": [
+        "https://28029.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-bgtestnet-f985c.avax-test.network/ext/bc/2pY6nfj3GKvCr5pt77bH78TpomGak5RBut9NdrRBcC63QoWRvV/rpc?token=6c909ebd27b14e4a6f8032fdb3363e6f61309ee4043da92db68eb3268dc0b7d0"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "bg-testnet Token",
+        "symbol": "BLOCK",
+        "decimals": 18
+    },
+    "icon": "28029.svg",
+    "testnet": true
+}

@@ -1,0 +1,21 @@
+{
+    "chainId": 425,
+    "name": "Stenix Mainnet",
+    "rpc": [
+        "https://stenix.network/pub"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "stenscan",
+            "url": "https://stenscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Stenix",
+        "symbol": "STEN",
+        "decimals": 18
+    },
+    "website": "https://stenix.org",
+    "icon": null
+}

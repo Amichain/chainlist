@@ -1,0 +1,25 @@
+{
+    "chainId": 220,
+    "name": "Scalind Testnet",
+    "rpc": [
+        "https://rpc-sepolia.scalind.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "scalind",
+            "url": "https://explorer-sepolia.scalind.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Flag",
+        "symbol": "Flag",
+        "decimals": 18
+    },
+    "website": "https://scalind.com",
+    "icon": "220.jpg",
+    "testnet": true,
+    "faucets": [
+        "https://faucet.scalind.com"
+    ]
+}

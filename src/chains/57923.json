@@ -1,0 +1,17 @@
+{
+    "chainId": 57923,
+    "name": "QI0614I1",
+    "rpc": [
+        "https://57923.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0614I1 Token",
+        "symbol": "GZD",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

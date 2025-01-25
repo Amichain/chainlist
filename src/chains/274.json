@@ -1,0 +1,24 @@
+{
+    "chainId": 274,
+    "name": "LaChain",
+    "rpc": [
+        "https://rpc1.mainnet.lachain.network",
+        "https://rpc2.mainnet.lachain.network",
+        "https://lachain.rpc-nodes.cedalio.dev",
+        "https://274.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "LaChain Explorer",
+            "url": "https://explorer.lachain.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "LaCoin",
+        "symbol": "LAC",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": "274.svg"
+}

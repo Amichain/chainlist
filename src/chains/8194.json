@@ -1,0 +1,24 @@
+{
+    "chainId": 8194,
+    "name": "Torus Testnet",
+    "rpc": [
+        "https://rpc.testnet.toruschain.com",
+        "https://8194.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://testnet.toruscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "tTQF",
+        "symbol": "TTQF",
+        "decimals": 18
+    },
+    "website": "https://docs.toruschain.com",
+    "icon": "8194.png",
+    "testnet": true,
+    "faucets": []
+}

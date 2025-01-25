@@ -1,0 +1,22 @@
+{
+    "chainId": 728126428,
+    "name": "Tron Mainnet",
+    "rpc": [
+        "https://rpc.ankr.com/tron_jsonrpc",
+        "https://api.trongrid.io/jsonrpc"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "tronscan",
+            "url": "https://tronscan.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Tron",
+        "symbol": "TRX",
+        "decimals": 6
+    },
+    "website": "https://tron.network",
+    "icon": null
+}

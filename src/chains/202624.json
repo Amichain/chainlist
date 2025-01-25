@@ -1,0 +1,26 @@
+{
+    "chainId": 202624,
+    "name": "Jellie",
+    "rpc": [
+        "https://jellie-rpc.twala.io/",
+        "https://202624.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://jellie-rpc-wss.twala.io/"
+    ],
+    "explorers": [
+        {
+            "name": "Jellie Blockchain Explorer",
+            "url": "https://jellie.twala.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Twala Coin",
+        "symbol": "TWL",
+        "decimals": 18
+    },
+    "website": "https://twala.io/",
+    "icon": "202624.png",
+    "testnet": true,
+    "faucets": []
+}

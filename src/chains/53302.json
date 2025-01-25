@@ -1,0 +1,28 @@
+{
+    "chainId": 53302,
+    "name": "Superseed Sepolia Testnet",
+    "rpc": [
+        "https://sepolia.superseed.xyz",
+        "https://53302.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://sepolia.superseed.xyz"
+    ],
+    "explorers": [
+        {
+            "name": "seedscout",
+            "url": "https://sepolia-explorer.superseed.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://www.superseed.xyz",
+    "icon": "53302.png",
+    "testnet": true,
+    "faucets": [
+        "https://sepoliafaucet.com"
+    ]
+}

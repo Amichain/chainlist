@@ -1,0 +1,21 @@
+{
+    "chainId": 26100,
+    "name": "Ferrum Quantum Portal Network",
+    "rpc": [
+        "https://qpn.svcs.ferrumnetwork.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ferrumscout",
+            "url": "https://explorer.ferrumnetwork.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ferrum",
+        "symbol": "qpFRM",
+        "decimals": 18
+    },
+    "website": "https://ferrum.network",
+    "icon": null
+}

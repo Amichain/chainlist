@@ -1,0 +1,23 @@
+{
+    "chainId": 534,
+    "name": "Candle",
+    "rpc": [
+        "https://candle-rpc.com/",
+        "https://rpc.cndlchain.com",
+        "https://534.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "candleexplorer",
+            "url": "https://candleexplorer.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CANDLE",
+        "symbol": "CNDL",
+        "decimals": 18
+    },
+    "website": "https://candlelabs.org/",
+    "icon": null
+}

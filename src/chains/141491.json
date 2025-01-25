@@ -1,0 +1,23 @@
+{
+    "chainId": 141491,
+    "name": "Bitharvest Chain Testnet",
+    "rpc": [
+        "https://rpc-testnet.bthscan.io/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Bitharvest Testnet Scan",
+            "url": "https://testnet.bthscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Bitharvest Testnet Native Token",
+        "symbol": "BTH",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

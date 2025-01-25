@@ -1,0 +1,24 @@
+{
+    "chainId": 373737,
+    "name": "HAPchain Testnet",
+    "rpc": [
+        "https://jsonrpc-test.hap.land",
+        "https://373737.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "HAP EVM Explorer (Blockscout)",
+            "url": "https://blockscout-test.hap.land"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "HAP",
+        "symbol": "HAP",
+        "decimals": 18
+    },
+    "website": "https://hap.land",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

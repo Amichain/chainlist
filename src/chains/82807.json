@@ -1,0 +1,17 @@
+{
+    "chainId": 82807,
+    "name": "zFirst AvaCloud Subnet Thirdweb",
+    "rpc": [
+        "https://82807.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/f2ea180d-0fda-4b06-9b2e-53a65d3fd789"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "zFirst AvaCloud Subnet Thirdweb",
+        "symbol": "YOOO",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

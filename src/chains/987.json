@@ -1,0 +1,22 @@
+{
+    "chainId": 987,
+    "name": "BinaryChain Mainnet",
+    "rpc": [
+        "https://rpc.binarychain.org",
+        "https://987.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "BinaryChain Explorer",
+            "url": "https://explorer.binarychain.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BINARY",
+        "symbol": "BNRY",
+        "decimals": 18
+    },
+    "website": "https://binarychain.org",
+    "icon": null
+}

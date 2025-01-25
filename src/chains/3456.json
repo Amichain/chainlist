@@ -1,0 +1,26 @@
+{
+    "chainId": 3456,
+    "name": "LayerEdge testnet",
+    "rpc": [
+        "https://testnet-rpc.layeredge.io",
+        "https://3456.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "LayerEdge Testnet Explorer",
+            "url": "https://testnet-explorer.layeredge.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "decimals": 18
+    },
+    "website": "https://www.layeredge.io",
+    "icon": "3456.svg",
+    "testnet": true,
+    "faucets": [
+        "https://testnet-faucet.layeredge.io"
+    ]
+}

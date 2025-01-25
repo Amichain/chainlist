@@ -1,0 +1,16 @@
+{
+    "chainId": 2089,
+    "name": "Algol",
+    "rpc": [],
+    "ws": [
+        "wss://fullnode.algol.cntrfg.com"
+    ],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Algol",
+        "symbol": "ALGL",
+        "decimals": 18
+    },
+    "website": "https://centrifuge.io",
+    "icon": null
+}

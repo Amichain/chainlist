@@ -1,0 +1,17 @@
+{
+    "chainId": 40798,
+    "name": "qr0109y1p",
+    "rpc": [
+        "https://40798.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0109y1p/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "qr0109y1p Token",
+        "symbol": "KZP",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

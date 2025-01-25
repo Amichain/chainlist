@@ -1,0 +1,17 @@
+{
+    "chainId": 10050,
+    "name": "QR0327S1D Testnet",
+    "rpc": [
+        "https://10050.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0327s1dt/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0327S1D Testnet Token",
+        "symbol": "WZL",
+        "decimals": 18
+    },
+    "icon": "10050.svg",
+    "testnet": true
+}

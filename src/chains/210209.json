@@ -1,0 +1,16 @@
+{
+    "chainId": 210209,
+    "name": "Sorian",
+    "rpc": [
+        "https://rpc.sorian.io"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Sorian",
+        "symbol": "SOR",
+        "decimals": 18
+    },
+    "website": "https://sorian.io",
+    "icon": null
+}

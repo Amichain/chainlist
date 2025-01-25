@@ -1,0 +1,17 @@
+{
+    "chainId": 78170,
+    "name": "MXS Games Testnet",
+    "rpc": [
+        "https://78170.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/mxsgameste/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "MXS Games Testnet Token",
+        "symbol": "XSEED",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

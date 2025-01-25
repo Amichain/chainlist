@@ -1,0 +1,17 @@
+{
+    "chainId": 78,
+    "name": "PrimusChain mainnet",
+    "rpc": [
+        "https://ethnode.primusmoney.com/mainnet",
+        "https://78.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Primus Ether",
+        "symbol": "PETH",
+        "decimals": 18
+    },
+    "website": "https://primusmoney.com",
+    "icon": "78.png"
+}

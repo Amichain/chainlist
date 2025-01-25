@@ -1,0 +1,26 @@
+{
+    "chainId": 99099,
+    "name": "eLiberty Testnet",
+    "rpc": [
+        "https://testnet-rpc.eliberty.ngo",
+        "https://99099.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "eLiberty Testnet",
+            "url": "https://testnet.eliberty.ngo"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "eLiberty",
+        "symbol": "$EL",
+        "decimals": 18
+    },
+    "website": "https://eliberty.ngo",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.eliberty.ngo"
+    ]
+}

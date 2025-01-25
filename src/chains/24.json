@@ -1,0 +1,17 @@
+{
+    "chainId": 24,
+    "name": "KardiaChain Mainnet",
+    "rpc": [
+        "https://rpc.kardiachain.io",
+        "https://24.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "KardiaChain",
+        "symbol": "KAI",
+        "decimals": 18
+    },
+    "website": "https://kardiachain.io",
+    "icon": "24.png"
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 27550,
+    "name": "QIM2405065 NO INTEROP NO SIM",
+    "rpc": [
+        "https://27550.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qim2405065/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QIM2405065 NO INTEROP NO SIM Token",
+        "symbol": "BLY",
+        "decimals": 18
+    },
+    "icon": "27550.svg",
+    "testnet": true
+}

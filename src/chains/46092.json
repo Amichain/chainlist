@@ -1,0 +1,17 @@
+{
+    "chainId": 46092,
+    "name": "QI0213I1",
+    "rpc": [
+        "https://46092.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-test.io/f0aae4b1-a373-43ed-9e61-ba61d42131bb"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0213I1 Token",
+        "symbol": "ORR",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

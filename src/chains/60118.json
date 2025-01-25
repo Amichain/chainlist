@@ -1,0 +1,17 @@
+{
+    "chainId": 60118,
+    "name": "Lith",
+    "rpc": [
+        "https://60118.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/lith/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Lith Token",
+        "symbol": "NXPC",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

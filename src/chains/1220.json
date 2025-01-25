@@ -1,0 +1,14 @@
+{
+    "chainId": 1220,
+    "name": "Flag Testnet",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "FLAG",
+        "symbol": "FLAG",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

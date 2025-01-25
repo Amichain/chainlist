@@ -1,0 +1,17 @@
+{
+    "chainId": 41425,
+    "name": "QR0205I1",
+    "rpc": [
+        "https://41425.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0205i1/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0205I1 Token",
+        "symbol": "PVW",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 91513,
+    "name": "Jambon Universe",
+    "rpc": [
+        "https://91513.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/jambonuvrs/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Jambon Universe Token",
+        "symbol": "NIX",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

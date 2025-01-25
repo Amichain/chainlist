@@ -1,0 +1,16 @@
+{
+    "chainId": 83278,
+    "name": "Esa",
+    "rpc": [
+        "http://65.108.151.70:8545"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Esa",
+        "symbol": "Esa",
+        "decimals": 18
+    },
+    "website": "https://esculap.us",
+    "icon": null
+}

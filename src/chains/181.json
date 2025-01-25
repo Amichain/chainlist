@@ -1,0 +1,17 @@
+{
+    "chainId": 181,
+    "name": "Waterfall Network",
+    "rpc": [
+        "https://rpc.waterfall.network/",
+        "https://181.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "WATER",
+        "symbol": "WATER",
+        "decimals": 18
+    },
+    "website": "https://waterfall.network",
+    "icon": "181.svg"
+}

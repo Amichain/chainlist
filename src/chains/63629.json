@@ -1,0 +1,18 @@
+{
+    "chainId": 63629,
+    "name": "QR1010T2TS",
+    "rpc": [
+        "https://63629.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qr1010t2ts-x13ed.avax-test.network/ext/bc/3LFqZXSskQrHDFvJ7PioPcAYDPCXwsB3KRhSd8TkdKTodpuqE/rpc?token=934378aec340fa42db9fbc9ae77792d874c5c5c0b3cac896c45f6fcc2f94e143"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR1010T2TS Token",
+        "symbol": "WOWZA",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,26 @@
+{
+    "chainId": 150,
+    "name": "Six Protocol Testnet",
+    "rpc": [
+        "https://rpc-evm.fivenet.sixprotocol.net",
+        "https://150.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "SIX Scan fivenet",
+            "url": "https://sixscan.io/fivenet"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SIX testnet evm token",
+        "symbol": "tSIX",
+        "decimals": 18
+    },
+    "website": "https://six.network/",
+    "icon": "150.png",
+    "testnet": true,
+    "faucets": [
+        "https://faucet.sixprotocol.net"
+    ]
+}

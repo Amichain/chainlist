@@ -1,0 +1,17 @@
+{
+    "chainId": 33795,
+    "name": "QaUser9260",
+    "rpc": [
+        "https://33795.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser9260 Token",
+        "symbol": "SBM",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 9779,
+    "name": "PepeNetwork Mainnet",
+    "rpc": [
+        "https://rpc-mainnet.pepenetwork.io",
+        "https://9779.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Pepe Explorer",
+            "url": "https://explorer.pepenetwork.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Pepe",
+        "symbol": "WPEPE",
+        "decimals": 18
+    },
+    "website": "https://pepenetwork.io",
+    "icon": null
+}

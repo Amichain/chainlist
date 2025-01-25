@@ -1,0 +1,21 @@
+{
+    "chainId": 918,
+    "name": "SlerfChain Mainnet",
+    "rpc": [
+        "https://rpc.slerfchain.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "SlerfChain Scan",
+            "url": "https://scan.slerfchain.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "WSLERF",
+        "symbol": "WSLERF",
+        "decimals": 18
+    },
+    "website": "https://slerfchain.xyz",
+    "icon": null
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 72647,
+    "name": "QaUser3938",
+    "rpc": [
+        "https://72647.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser3938 Token",
+        "symbol": "HTO",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

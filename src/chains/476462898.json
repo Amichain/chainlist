@@ -1,0 +1,26 @@
+{
+    "chainId": 476462898,
+    "name": "Skopje Testnet",
+    "rpc": [
+        "https://skopje-rpc.gptprotocol.io",
+        "https://476462898.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://skopje-explorer.gptprotocol.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SkpGPT",
+        "symbol": "SkpGPT",
+        "decimals": 18
+    },
+    "website": "https://gptprotocol.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://skopje-faucet.gptprotocol.io"
+    ]
+}

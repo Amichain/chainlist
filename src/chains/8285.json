@@ -1,0 +1,19 @@
+{
+    "chainId": 8285,
+    "name": "KorthoTest",
+    "rpc": [
+        "https://www.krotho-test.net",
+        "https://8285.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Kortho Test",
+        "symbol": "KTO",
+        "decimals": 11
+    },
+    "website": "https://www.kortho.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

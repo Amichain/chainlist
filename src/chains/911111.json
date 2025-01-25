@@ -1,0 +1,24 @@
+{
+    "chainId": 911111,
+    "name": "Henez",
+    "rpc": [
+        "https://911111.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://henez-testnet.rpc.caldera.xyz/http"
+    ],
+    "ws": [
+        "wss://henez-testnet.rpc.caldera.xyz/ws"
+    ],
+    "explorers": [
+        {
+            "name": "Henez Testnet explorer",
+            "url": "https://henez-testnet.explorer.caldera.xyz/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

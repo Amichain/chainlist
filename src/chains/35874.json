@@ -1,0 +1,22 @@
+{
+    "chainId": 35874,
+    "name": "The Fan Economy",
+    "rpc": [
+        "https://35874.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/fabhub/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Blockexplorer",
+            "url": "https://avascan.info/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Fan Finance",
+        "symbol": "FanFi",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

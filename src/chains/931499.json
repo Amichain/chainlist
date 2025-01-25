@@ -1,0 +1,17 @@
+{
+    "chainId": 931499,
+    "name": "QR0830T1MS",
+    "rpc": [
+        "https://931499.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://mainnet-qr0830t1ms-ubaf3.avax.network/ext/bc/tmX5HjBWUBRzy8wQd7LE5CFMmimCQDz5WH14QzdYJMxcVm1bC/rpc?token=b0f3197a1c1780f20d53776c653c3737037c3d82aa29efa608beeb583a740f5b"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0830T1MS Token",
+        "symbol": "QQQ",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null
+}

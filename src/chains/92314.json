@@ -1,0 +1,17 @@
+{
+    "chainId": 92314,
+    "name": "QIM 2405081",
+    "rpc": [
+        "https://92314.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/f069738d-9c43-497b-96c1-9dda60d647e2"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QIM 2405081 Token",
+        "symbol": "WCC",
+        "decimals": 18
+    },
+    "icon": "92314.svg",
+    "testnet": true
+}

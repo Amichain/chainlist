@@ -1,0 +1,22 @@
+{
+    "chainId": 88800,
+    "name": "ZKasino Mainnet",
+    "rpc": [
+        "https://rpc.zkas.zeeve.net",
+        "https://88800.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Tracehawk",
+            "url": "https://explorer.zkas.zeeve.net"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ZKAS",
+        "symbol": "ZKAS",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

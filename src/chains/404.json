@@ -1,0 +1,24 @@
+{
+    "chainId": 404,
+    "name": "Syndr L3",
+    "rpc": [
+        "https://rpc.syndr.com",
+        "https://404.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://rpc.syndr.com/ws"
+    ],
+    "explorers": [
+        {
+            "name": "Syndr L3 Explorer",
+            "url": "https://explorer.syndr.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://syndr.com",
+    "icon": "404.png"
+}

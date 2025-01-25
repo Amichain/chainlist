@@ -1,0 +1,21 @@
+{
+    "chainId": 2734060341882000,
+    "name": "Frequency",
+    "rpc": [
+        "https://2734060341882000.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://frequency-2734060341882000-1.jsonrpc.sagarpc.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://frequency-2734060341882000-1.sagaexplorer.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "FREQ",
+        "symbol": "FREQ",
+        "decimals": 18
+    },
+    "icon": null
+}

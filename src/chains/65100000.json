@@ -1,0 +1,23 @@
+{
+    "chainId": 65100000,
+    "name": "Autonity Piccadilly (Thames) Testnet",
+    "rpc": [],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "autonity-blockscout",
+            "url": "https://piccadilly.autonity.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Piccadilly Auton",
+        "symbol": "ATN",
+        "decimals": 18
+    },
+    "website": "https://autonity.org/",
+    "icon": "65100000.png",
+    "testnet": true,
+    "faucets": [
+        "https://faucet.autonity.org/"
+    ]
+}

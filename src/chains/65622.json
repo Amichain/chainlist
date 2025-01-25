@@ -1,0 +1,17 @@
+{
+    "chainId": 65622,
+    "name": "Live Stripe Test",
+    "rpc": [
+        "https://65622.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/livestripe/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Live Stripe Test Token",
+        "symbol": "LST",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

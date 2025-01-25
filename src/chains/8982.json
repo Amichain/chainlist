@@ -1,0 +1,22 @@
+{
+    "chainId": 8982,
+    "name": "O Chain",
+    "rpc": [
+        "https://8982.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://o-chain.rpc.caldera.xyz/http"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "O Chain Explorer",
+            "url": "https://o-chain.explorer.caldera.xyz/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "O",
+        "symbol": "O",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

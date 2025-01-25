@@ -1,0 +1,21 @@
+{
+    "chainId": 67390,
+    "name": "SiriusNet",
+    "rpc": [
+        "https://u0tnafcv6j:o2T045sxuCNXL878RDQLp5__Zj-es2cvdjtgkl4etn0@u0v7kwtvtg-u0wj114sve-rpc.us0-aws.kaleido.io/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "siriusnetscan",
+            "url": "https://siriusnet.tryethernal.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "MCD",
+        "symbol": "MCD",
+        "decimals": 18
+    },
+    "website": "https://macaucasinolisboa.xyz",
+    "icon": "67390.png"
+}

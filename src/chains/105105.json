@@ -1,0 +1,22 @@
+{
+    "chainId": 105105,
+    "name": "Stratis Mainnet",
+    "rpc": [
+        "https://rpc.stratisevm.com",
+        "https://105105.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Stratis Explorer",
+            "url": "https://explorer.stratisevm.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Stratis",
+        "symbol": "STRAX",
+        "decimals": 18
+    },
+    "website": "https://www.stratisplatform.com",
+    "icon": null
+}

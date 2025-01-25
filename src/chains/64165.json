@@ -1,0 +1,25 @@
+{
+    "chainId": 64165,
+    "name": "Fantom Sonic Builders Testnet",
+    "rpc": [
+        "https://64165.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.sonic.fantom.network/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Fantom Sonic Builders Testnet",
+            "url": "https://sonicscan.io/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://public-sonic.fantom.network/account"
+    ]
+}

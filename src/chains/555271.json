@@ -1,0 +1,22 @@
+{
+    "chainId": 555271,
+    "name": "Xsolla ZK Sepolia Testnet",
+    "rpc": [
+        "https://555271.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://zkrpc.xsollazk.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Xsolla ZK Explorer",
+            "url": "https://x.la/explorer"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

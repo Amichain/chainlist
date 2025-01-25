@@ -1,0 +1,23 @@
+{
+    "chainId": 18881,
+    "name": "Ultra EVM Network Testnet",
+    "rpc": [
+        "https://evm.test.ultra.eosusa.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Ultra EVM Testnet Explorer",
+            "url": "https://evmexplorer.testnet.ultra.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ultra Token",
+        "symbol": "UOS",
+        "decimals": 18
+    },
+    "website": "https://ultra.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

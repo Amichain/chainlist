@@ -1,0 +1,17 @@
+{
+    "chainId": 17511,
+    "name": "PST 1-17-24",
+    "rpc": [
+        "https://17511.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "PST 1-17-24 Token",
+        "symbol": "MUB",
+        "decimals": 18
+    },
+    "icon": "17511.svg",
+    "testnet": true
+}

@@ -1,0 +1,18 @@
+{
+    "chainId": 41711,
+    "name": "magnetic-azure-barnacle",
+    "rpc": [
+        "https://41711.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-magneticaz-y24e7.avax-test.network/ext/bc/2qZp1Cbdhuqg9fENe5Y1qmZ78jcr7fjKbZ1roHMoTXWgrumzmQ/rpc?token=a9f7132488f5e47db09e8cc0e5a6d088dcd35750a56d326c04261653369a0fc6"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "magnetic-azure-barnacle Token",
+        "symbol": "TBJ",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "41711.svg",
+    "testnet": true
+}

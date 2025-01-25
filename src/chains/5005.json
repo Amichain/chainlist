@@ -1,0 +1,27 @@
+{
+    "chainId": 5005,
+    "name": "Treasurenet Testnet",
+    "rpc": [
+        "https://node0.testnet.treasurenet.io",
+        "https://node1.testnet.treasurenet.io",
+        "https://node2.testnet.treasurenet.io",
+        "https://node3.testnet.treasurenet.io",
+        "https://5005.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Treasurenet EVM BlockExplorer",
+            "url": "https://evmexplorer.testnet.treasurenet.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "UNIT",
+        "symbol": "UNIT",
+        "decimals": 18
+    },
+    "website": "https://www.testnet.treasurenet.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

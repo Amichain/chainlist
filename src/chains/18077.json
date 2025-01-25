@@ -1,0 +1,17 @@
+{
+    "chainId": 18077,
+    "name": "PlayGround",
+    "rpc": [
+        "https://18077.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/playground/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "PlayGround Token",
+        "symbol": "PG",
+        "decimals": 18
+    },
+    "icon": "18077.svg",
+    "testnet": true
+}

@@ -1,0 +1,18 @@
+{
+    "chainId": 4422,
+    "name": "Testnet Pika",
+    "rpc": [
+        "https://testnet-rpc1.pikascan.com"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Testnet Pika",
+        "symbol": "tPKA",
+        "decimals": 18
+    },
+    "website": "https://pikaminter.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

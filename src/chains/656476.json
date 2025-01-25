@@ -1,0 +1,28 @@
+{
+    "chainId": 656476,
+    "name": "EDU Chain Testnet",
+    "rpc": [
+        "https://rpc.open-campus-codex.gelato.digital",
+        "https://656476.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Open Campus Codex",
+            "url": "https://edu-chain-testnet.blockscout.com"
+        },
+        {
+            "name": "Open Campus Codex",
+            "url": "https://opencampus-codex.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "EDU",
+        "symbol": "EDU",
+        "decimals": 18
+    },
+    "website": "https://raas.gelato.network/rollups/details/public/open-campus-codex",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

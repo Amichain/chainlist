@@ -1,0 +1,18 @@
+{
+    "chainId": 3042,
+    "name": "occasional-maroon-owl",
+    "rpc": [
+        "https://3042.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-occasional-xe293.avax-test.network/ext/bc/24x4PxGCbkhBbdAsD7YGAD3QQiDFQbTCPf2xxCGN98UYcEHf7G/rpc?token=e8d1b4564e4f02bfb8b019d3a767d7430713339e4b40e26884850658726e151d"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "occasional-maroon-owl Token",
+        "symbol": "WNA",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "3042.svg",
+    "testnet": true
+}

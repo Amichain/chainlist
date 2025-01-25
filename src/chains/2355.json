@@ -1,0 +1,23 @@
+{
+    "chainId": 2355,
+    "name": "Silicon zkEVM",
+    "rpc": [
+        "https://rpc.silicon.network",
+        "https://silicon-mainnet.nodeinfra.com",
+        "https://2355.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "siliconscope",
+            "url": "https://scope.silicon.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://docs.silicon.network",
+    "icon": null
+}

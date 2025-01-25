@@ -1,0 +1,17 @@
+{
+    "chainId": 57056,
+    "name": "QI0710S1TS",
+    "rpc": [
+        "https://57056.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-bestname10-a4ea7.avax-test.network/ext/bc/M4SdtZY7dfiwdJQdjcT3UL5gXY1RDdvRt5Z8BgACfAdWy8LGY/rpc?token=c052be2f5a4c2a771d71fc4970c42b184ac2e74ad325fdbac02b5556723868c2"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0710S1TS Token",
+        "symbol": "QIA",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

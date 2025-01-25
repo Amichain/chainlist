@@ -1,0 +1,17 @@
+{
+    "chainId": 919517,
+    "name": "QR0508T1TP",
+    "rpc": [
+        "https://919517.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0508t1tp/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0508T1TP Token",
+        "symbol": "AHO",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

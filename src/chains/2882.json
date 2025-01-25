@@ -1,0 +1,17 @@
+{
+    "chainId": 2882,
+    "name": "Chips Network",
+    "rpc": [
+        "https://node.chips.ooo/wasp/api/v1/chains/iota1pp3d3mnap3ufmgqnjsnw344sqmf5svjh26y2khnmc89sv6788y3r207a8fn/evm",
+        "https://2882.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "IOTA",
+        "symbol": "IOTA",
+        "decimals": 18
+    },
+    "website": "https://www.chips.ooo",
+    "icon": null
+}

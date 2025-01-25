@@ -1,0 +1,18 @@
+{
+    "chainId": 40112,
+    "name": "Neva Apache",
+    "rpc": [
+        "https://40112.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://apache.neva.network/",
+        "https://apachebridge.neva.network/l2rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

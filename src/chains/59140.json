@@ -1,0 +1,33 @@
+{
+    "chainId": 59140,
+    "name": "Linea Goerli",
+    "rpc": [
+        "https://rpc.goerli.linea.build",
+        "https://linea-goerli.infura.io/v3/${INFURA_API_KEY}"
+    ],
+    "ws": [
+        "wss://rpc.goerli.linea.build",
+        "wss://linea-goerli.infura.io/ws/v3/${INFURA_API_KEY}"
+    ],
+    "explorers": [
+        {
+            "name": "Etherscan",
+            "url": "https://goerli.lineascan.build"
+        },
+        {
+            "name": "Blockscout",
+            "url": "https://explorer.goerli.linea.build"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Linea Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://linea.build",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucetlink.to/goerli"
+    ]
+}

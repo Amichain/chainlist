@@ -1,0 +1,22 @@
+{
+    "chainId": 940,
+    "name": "PulseChain Testnet",
+    "rpc": [
+        "https://rpc.v2.testnet.pulsechain.com/"
+    ],
+    "ws": [
+        "wss://rpc.v2.testnet.pulsechain.com/"
+    ],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Test Pulse",
+        "symbol": "tPLS",
+        "decimals": 18
+    },
+    "website": "https://pulsechain.com/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.v2.testnet.pulsechain.com/"
+    ]
+}

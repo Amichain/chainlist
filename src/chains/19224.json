@@ -1,0 +1,22 @@
+{
+    "chainId": 19224,
+    "name": "Decentraconnect Social",
+    "rpc": [
+        "https://rpc.decentraconnect.io",
+        "https://19224.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Decentraconnect Social",
+            "url": "https://decentraconnect.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Decentraconnect Social",
+        "symbol": "DCSM",
+        "decimals": 18
+    },
+    "website": "https://docs.decentraconnect.io",
+    "icon": null
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 44850,
+    "name": "QI0318I1 Testnet",
+    "rpc": [
+        "https://44850.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0318I1 Testnet Token",
+        "symbol": "WJN",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 970,
+    "name": "Oort Mainnet",
+    "rpc": [
+        "https://mainnet-rpc.oortech.com",
+        "https://970.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Oort Mainnet Explorer",
+            "url": "https://mainnet-scan.oortech.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Oort",
+        "symbol": "OORT",
+        "decimals": 18
+    },
+    "website": "https://oortech.com",
+    "icon": null
+}

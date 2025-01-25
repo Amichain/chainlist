@@ -1,0 +1,22 @@
+{
+    "chainId": 1942999413,
+    "name": "Humanity Testnet",
+    "rpc": [
+        "https://1942999413.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.testnet.humanity.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://explorer.testnet.humanity.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Testnet HP",
+        "symbol": "tHP",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

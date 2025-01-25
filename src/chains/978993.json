@@ -1,0 +1,17 @@
+{
+    "chainId": 978993,
+    "name": "QR0318T1TS Testnet",
+    "rpc": [
+        "https://978993.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0318t1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0318T1TS Testnet Token",
+        "symbol": "OSF",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

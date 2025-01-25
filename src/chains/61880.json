@@ -1,0 +1,17 @@
+{
+    "chainId": 61880,
+    "name": "QIM2407041 TEST INTEROP 2",
+    "rpc": [
+        "https://61880.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qim2407041-ubbc4.avax-test.network/ext/bc/WGrSsnbtgiCDDwASajQAcoaMyn52xh4a2S4YdeZQT5i2KnG59/rpc?token=60273823b4d4b892fe7f9d7196242868273d7379aadf0c8da4f5b970d741557e"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QIM2407041 TEST INTEROP 2 Token",
+        "symbol": "PJW",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,19 @@
+{
+    "chainId": 67,
+    "name": "DBChain Testnet",
+    "rpc": [
+        "http://test-rpc.dbmbp.com",
+        "https://67.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "DBChain Testnet",
+        "symbol": "DBM",
+        "decimals": 18
+    },
+    "website": "http://test.dbmbp.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

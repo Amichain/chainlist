@@ -1,0 +1,22 @@
+{
+    "chainId": 10241024,
+    "name": "AlienX Mainnet",
+    "rpc": [
+        "https://rpc.alienxchain.io/http",
+        "https://10241024.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "AlienXChain Explorer",
+            "url": "https://explorer.alienxchain.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://alienxchain.io/home",
+    "icon": null
+}

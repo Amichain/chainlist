@@ -1,0 +1,17 @@
+{
+    "chainId": 20141,
+    "name": "Shelby's Testnet",
+    "rpc": [
+        "https://20141.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/c6fcfa18-e711-4f91-b8d4-ad59cfd30316"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Shelby's Testnet Token",
+        "symbol": "FUC",
+        "decimals": 18
+    },
+    "icon": "20141.svg",
+    "testnet": true
+}

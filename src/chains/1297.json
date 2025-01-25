@@ -1,0 +1,27 @@
+{
+    "chainId": 1297,
+    "name": "Bobabase Testnet",
+    "rpc": [
+        "https://bobabase.boba.network",
+        "https://replica.bobabase.boba.network"
+    ],
+    "ws": [
+        "wss://wss.bobabase.boba.network",
+        "wss://replica-wss.bobabase.boba.network"
+    ],
+    "explorers": [
+        {
+            "name": "Bobabase block explorer",
+            "url": "https://blockexplorer.bobabase.boba.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Boba Token",
+        "symbol": "BOBA",
+        "decimals": 18
+    },
+    "website": "https://boba.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

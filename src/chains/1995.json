@@ -1,0 +1,28 @@
+{
+    "chainId": 1995,
+    "name": "edeXa Testnet",
+    "rpc": [
+        "https://testnet.edexa.network/rpc",
+        "https://testnet.edexa.com/rpc",
+        "https://1995.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://io-dataseed1.testnet.edexa.io-market.com/rpc"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "edexa-testnet",
+            "url": "https://explorer.testnet.edexa.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "EDEXA",
+        "symbol": "EDX",
+        "decimals": 18
+    },
+    "website": "https://edexa.network/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.edexa.com/"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 8008148,
+    "name": "Fhenix Nitrogen",
+    "rpc": [
+        "https://8008148.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://api.nitrogen.fhenix.zone"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://explorer.nitrogen.fhenix.zone"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "FHE",
+        "symbol": "FHE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

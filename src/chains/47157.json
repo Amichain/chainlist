@@ -1,0 +1,17 @@
+{
+    "chainId": 47157,
+    "name": "Avaland Testnet",
+    "rpc": [
+        "https://47157.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/avalandtes/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Avaland Testnet Token",
+        "symbol": "AVA",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

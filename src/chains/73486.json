@@ -1,0 +1,17 @@
+{
+    "chainId": 73486,
+    "name": "QIM2405024 NO INTEROP",
+    "rpc": [
+        "https://73486.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QIM2405024 NO INTEROP Token",
+        "symbol": "UZP",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

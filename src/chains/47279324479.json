@@ -1,0 +1,14 @@
+{
+    "chainId": 47279324479,
+    "name": "Xai Goerli Orbit",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Xai Goerli Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

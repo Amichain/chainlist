@@ -1,0 +1,23 @@
+{
+    "chainId": 9999999,
+    "name": "Fluence",
+    "rpc": [
+        "https://rpc.mainnet.fluence.dev/"
+    ],
+    "ws": [
+        "wss://ws.mainnet.fluence.dev/"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://blockscout.mainnet.fluence.dev"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "FLT",
+        "symbol": "FLT",
+        "decimals": 18
+    },
+    "website": "https://fluence.network/",
+    "icon": "9999999.svg"
+}

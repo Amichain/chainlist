@@ -1,0 +1,17 @@
+{
+    "chainId": 53383,
+    "name": "Jambon's Testnet",
+    "rpc": [
+        "https://53383.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/c37c3f83-6d95-4473-b5c7-626fad519f50"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Jambon's Testnet Token",
+        "symbol": "GNF",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

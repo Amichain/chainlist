@@ -1,0 +1,26 @@
+{
+    "chainId": 23295,
+    "name": "Oasis Sapphire Testnet",
+    "rpc": [
+        "https://testnet.sapphire.oasis.io",
+        "https://23295.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://testnet.sapphire.oasis.io/ws"
+    ],
+    "explorers": [
+        {
+            "name": "Oasis Sapphire Testnet Explorer",
+            "url": "https://explorer.oasis.io/testnet/sapphire"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sapphire Test Rose",
+        "symbol": "TEST",
+        "decimals": 18
+    },
+    "website": "https://docs.oasis.io/dapp/sapphire",
+    "icon": "23295.png",
+    "testnet": true,
+    "faucets": []
+}

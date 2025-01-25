@@ -1,0 +1,23 @@
+{
+    "chainId": 73115,
+    "name": "ICB Network",
+    "rpc": [
+        "https://rpc1-mainnet.icbnetwork.info/",
+        "https://rpc2-mainnet.icbnetwork.info/",
+        "https://73115.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ICB Explorer",
+            "url": "https://icbscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ICB Native Token",
+        "symbol": "ICBX",
+        "decimals": 18
+    },
+    "website": "https://icb.network",
+    "icon": null
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 97622,
+    "name": "QI0130I1",
+    "rpc": [
+        "https://97622.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0130I1 Token",
+        "symbol": "NZY",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

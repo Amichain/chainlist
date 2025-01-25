@@ -1,0 +1,31 @@
+{
+    "chainId": 1625,
+    "name": "Gravity Alpha Mainnet",
+    "rpc": [
+        "https://rpc.gravity.xyz",
+        "https://rpc.ankr.com/gravity",
+        "https://1625.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Gravity Alpha Mainnet Explorer",
+            "url": "https://explorer.gravity.xyz"
+        },
+        {
+            "name": "gscan",
+            "url": "https://gscan.xyz"
+        },
+        {
+            "name": "OKLink",
+            "url": "https://www.oklink.com/gravity-alpha"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Gravity",
+        "symbol": "G",
+        "decimals": 18
+    },
+    "website": "https://gravity.xyz",
+    "icon": "1625.svg"
+}

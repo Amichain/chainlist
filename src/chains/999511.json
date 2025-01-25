@@ -1,0 +1,17 @@
+{
+    "chainId": 999511,
+    "name": "QR0227T1TS",
+    "rpc": [
+        "https://999511.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0227t1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0227T1TS Token",
+        "symbol": "YFL",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

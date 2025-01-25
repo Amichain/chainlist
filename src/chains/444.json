@@ -1,0 +1,24 @@
+{
+    "chainId": 444,
+    "name": "Synapse Chain Testnet",
+    "rpc": [
+        "https://sepolia.synapseprotocol.com",
+        "https://444.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Synapse Chain Sepolia",
+            "url": "https://sepolia.synapsescan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia ETH",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://synapseprotocol.com",
+    "icon": "444.webp",
+    "testnet": true,
+    "faucets": []
+}

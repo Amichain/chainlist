@@ -1,0 +1,27 @@
+{
+    "chainId": 7879,
+    "name": "Vexon Testnet",
+    "rpc": [
+        "https://rpc-testnet-asia1.vexonhub.org",
+        "https://rpc-testnet-europe1.vexonhub.org",
+        "https://rpc-testnet-01.vexonhub.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Vexon Testnet Explorer",
+            "url": "https://testnet.vexonhub.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Vexon Testnet Native Token",
+        "symbol": "tVEX",
+        "decimals": 18
+    },
+    "website": "https://vexonhub.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet-drip.vexonhub.org"
+    ]
+}

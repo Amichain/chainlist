@@ -1,0 +1,19 @@
+{
+    "chainId": 210210,
+    "name": "Sorian Testnet",
+    "rpc": [
+        "https://testnet-rpc.sorian.io",
+        "https://testnet.rpc.sorian.io"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Sorian Testnet",
+        "symbol": "tSOR",
+        "decimals": 18
+    },
+    "website": "https://mint.sorian.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

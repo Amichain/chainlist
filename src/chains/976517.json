@@ -1,0 +1,17 @@
+{
+    "chainId": 976517,
+    "name": "QR0507Y1TS",
+    "rpc": [
+        "https://976517.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0507y1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0507Y1TS Token",
+        "symbol": "SQR",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

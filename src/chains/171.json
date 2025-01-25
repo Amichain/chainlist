@@ -1,0 +1,21 @@
+{
+    "chainId": 171,
+    "name": "CO2e Ledger",
+    "rpc": [
+        "https://rpc.co2ledger.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "CO2e Explorer",
+            "url": "https://exp.co2ledger.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CO2e Token",
+        "symbol": "CO2E",
+        "decimals": 18
+    },
+    "website": "https://co2ledger.xyz",
+    "icon": null
+}

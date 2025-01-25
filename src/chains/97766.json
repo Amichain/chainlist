@@ -1,0 +1,21 @@
+{
+    "chainId": 97766,
+    "name": "MetaBenz CHAIN",
+    "rpc": [
+        "https://rpc.metabenzscan.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "MetaBenz CHAIN",
+            "url": "https://metabenzscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "MBC",
+        "symbol": "MBC",
+        "decimals": 18
+    },
+    "website": "https://metabenzscan.com",
+    "icon": null
+}

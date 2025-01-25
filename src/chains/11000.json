@@ -1,0 +1,21 @@
+{
+    "chainId": 11000,
+    "name": "KB Chain",
+    "rpc": [
+        "https://mainnet-rpc.kbcfoundation.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "KBC Explorer",
+            "url": "https://scan.kbcfoundation.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "KBC",
+        "symbol": "KBC",
+        "decimals": 18
+    },
+    "website": "https://kbcfoundation.com",
+    "icon": "11000.png"
+}

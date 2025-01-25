@@ -1,0 +1,25 @@
+{
+    "chainId": 31611,
+    "name": "Mezo Matsnet Testnet",
+    "rpc": [
+        "https://rpc.test.mezo.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.test.mezo.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "decimals": 18
+    },
+    "website": "https://mezo.org/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://mezo.org/matsnet"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "chainId": 171000,
+    "name": "Fair Testnet",
+    "rpc": [
+        "https://rpc-testnet.xfair.ai"
+    ],
+    "ws": [
+        "wss://rpc-testnet.xfair.ai"
+    ],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "FAIR",
+        "symbol": "FAIR",
+        "decimals": 18
+    },
+    "website": "https://xfair.ai",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

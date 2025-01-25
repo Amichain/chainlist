@@ -1,0 +1,21 @@
+{
+    "chainId": 227,
+    "name": "Prom",
+    "rpc": [
+        "https://prom-rpc.eu-north-2.gateway.fm"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://prom-blockscout.eu-north-2.gateway.fm"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Prom",
+        "symbol": "PROM",
+        "decimals": 18
+    },
+    "website": "https://prom.io",
+    "icon": null
+}

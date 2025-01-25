@@ -1,0 +1,17 @@
+{
+    "chainId": 24010,
+    "name": "Stealthnet Testing ",
+    "rpc": [
+        "https://24010.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/stealthnet/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Stealthnet Testing  Token",
+        "symbol": "AVCLDDEV",
+        "decimals": 18
+    },
+    "icon": "24010.svg",
+    "testnet": true
+}

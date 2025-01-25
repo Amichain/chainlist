@@ -1,0 +1,25 @@
+{
+    "chainId": 5080,
+    "name": "Pioneer Zero Chain",
+    "rpc": [
+        "https://rpc.zeroscan.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Pioneer Zero Chain Explorer",
+            "url": "https://zeroscan.org"
+        },
+        {
+            "name": "Pioneer Zero Chain Explorer",
+            "url": "https://zero.pionescan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Pioneer Zero",
+        "symbol": "PZO",
+        "decimals": 18
+    },
+    "website": "https://pionechain.com",
+    "icon": null
+}

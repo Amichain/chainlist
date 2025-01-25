@@ -1,0 +1,14 @@
+{
+    "chainId": 130,
+    "name": "Unichain",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://unichain.org",
+    "icon": null
+}

@@ -1,0 +1,21 @@
+{
+    "chainId": 19516,
+    "name": "SEC Mainnet",
+    "rpc": [
+        "https://rpc.secexplorer.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "SEC Mainnet Explorer",
+            "url": "https://secexplorer.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SEP",
+        "symbol": "SEP",
+        "decimals": 18
+    },
+    "website": "https://smartenergychain.org",
+    "icon": null
+}

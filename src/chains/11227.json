@@ -1,0 +1,24 @@
+{
+    "chainId": 11227,
+    "name": "Jiritsu Testnet Subnet",
+    "rpc": [
+        "https://subnets.avax.network/jiritsutes/testnet/rpc",
+        "https://11227.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "JIRITSUTES Explorer",
+            "url": "https://subnets-test.avax.network/jiritsutes"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "JIRI",
+        "symbol": "TZW",
+        "decimals": 18
+    },
+    "website": "https://jiritsu.network",
+    "icon": "11227.svg",
+    "testnet": true,
+    "faucets": []
+}

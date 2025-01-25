@@ -1,0 +1,23 @@
+{
+    "chainId": 44,
+    "name": "Crab Network",
+    "rpc": [
+        "https://crab-rpc.darwinia.network",
+        "https://crab-rpc.dcdao.box",
+        "https://44.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://crab-scan.darwinia.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Crab Network Native Token",
+        "symbol": "CRAB",
+        "decimals": 18
+    },
+    "website": "https://crab.network/",
+    "icon": "44.svg"
+}

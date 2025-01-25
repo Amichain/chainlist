@@ -1,0 +1,17 @@
+{
+    "chainId": 1216,
+    "name": "intersect",
+    "rpc": [
+        "https://1216.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://mainnet-intersect-e86e3.avax.network/ext/bc/2Ec9g5vbwwoy7MEyjmjjEjuS6FzaeToBm1KVbvDU6HeKsSNVTF/rpc?token=248310a84cafb9f60b847f9928c6f7c0ec8703003d730bc02e3d7ca20724bb31"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "intersect Token",
+        "symbol": "PEARL",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "1216.svg"
+}

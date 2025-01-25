@@ -1,0 +1,22 @@
+{
+    "chainId": 1907,
+    "name": "Bitcichain Mainnet",
+    "rpc": [
+        "https://rpc.bitci.com",
+        "https://1907.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Bitci Explorer",
+            "url": "https://bitciexplorer.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Bitci",
+        "symbol": "BITCI",
+        "decimals": 18
+    },
+    "website": "https://www.bitcichain.com",
+    "icon": null
+}

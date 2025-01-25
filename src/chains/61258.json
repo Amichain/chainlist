@@ -1,0 +1,17 @@
+{
+    "chainId": 61258,
+    "name": "QaUser7821 Testnet",
+    "rpc": [
+        "https://61258.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser7821 Testnet Token",
+        "symbol": "WND",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

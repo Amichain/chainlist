@@ -1,0 +1,17 @@
+{
+    "chainId": 22662,
+    "name": "QA5-03-07 Testnet",
+    "rpc": [
+        "https://22662.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QA5-03-07 Testnet Token",
+        "symbol": "TYP",
+        "decimals": 18
+    },
+    "icon": "22662.svg",
+    "testnet": true
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 95468,
+    "name": "QR0528T1TS",
+    "rpc": [
+        "https://95468.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0528t1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0528T1TS Token",
+        "symbol": "TLK",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

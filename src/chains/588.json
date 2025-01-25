@@ -1,0 +1,23 @@
+{
+    "chainId": 588,
+    "name": "Metis Stardust Testnet",
+    "rpc": [
+        "https://stardust.metis.io/?owner=588"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://stardust-explorer.metis.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "tMetis",
+        "symbol": "METIS",
+        "decimals": 18
+    },
+    "website": "https://www.metis.io",
+    "icon": "588.png",
+    "testnet": true,
+    "faucets": []
+}

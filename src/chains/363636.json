@@ -1,0 +1,22 @@
+{
+    "chainId": 363636,
+    "name": "Digit Soul Smart Chain 2",
+    "rpc": [
+        "https://dgs-rpc.digitsoul.co.th",
+        "https://363636.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Digit Soul Explorer",
+            "url": "https://dgs-exp.digitsoul.co.th"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Digit Coin",
+        "symbol": "DGC",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

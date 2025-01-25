@@ -1,0 +1,22 @@
+{
+    "chainId": 4654,
+    "name": "Creator Testnet",
+    "rpc": [
+        "https://4654.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://creator-testnet.rpc.caldera.xyz/http"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://creator-testnet.explorer.caldera.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

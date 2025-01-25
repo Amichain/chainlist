@@ -1,0 +1,22 @@
+{
+    "chainId": 1490,
+    "name": "Vitruveo Mainnet",
+    "rpc": [
+        "https://rpc.vitruveo.xyz",
+        "https://1490.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Vitruveo Explorer",
+            "url": "https://explorer.vitruveo.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Vitruveo Coin",
+        "symbol": "VTRU",
+        "decimals": 18
+    },
+    "website": "https://www.vitruveo.xyz",
+    "icon": null
+}

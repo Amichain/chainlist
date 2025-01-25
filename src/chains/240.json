@@ -1,0 +1,31 @@
+{
+    "chainId": 240,
+    "name": "Cronos zkEVM Testnet",
+    "rpc": [
+        "https://testnet.zkevm.cronos.org",
+        "https://240.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet.zkevm.cronos.org/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Cronos zkEVM Testnet Explorer",
+            "url": "https://explorer.zkevm.cronos.org/testnet"
+        },
+        {
+            "name": "Blockexplorer",
+            "url": "https://explorer.zkevm.cronos.org/testnet/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Cronos zkEVM Test CRO",
+        "symbol": "zkTCRO",
+        "decimals": 18
+    },
+    "website": "https://docs-zkevm.cronos.org",
+    "icon": "240.png",
+    "testnet": true,
+    "faucets": [
+        "https://zkevm.cronos.org/faucet"
+    ]
+}

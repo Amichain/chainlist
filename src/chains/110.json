@@ -1,0 +1,19 @@
+{
+    "chainId": 110,
+    "name": "Proton Testnet",
+    "rpc": [
+        "https://protontestnet.greymass.com/",
+        "https://110.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Proton",
+        "symbol": "XPR",
+        "decimals": 4
+    },
+    "website": "https://protonchain.com",
+    "icon": "110.png",
+    "testnet": true,
+    "faucets": []
+}

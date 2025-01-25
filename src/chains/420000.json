@@ -1,0 +1,27 @@
+{
+    "chainId": 420000,
+    "name": "Infinaeon",
+    "rpc": [
+        "https://rpc.infinaeon.com",
+        "https://420000.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.nutriemp-chain.link"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "tracehawk",
+            "url": "https://explorer.infinaeon.com"
+        },
+        {
+            "name": "Nutriemp-chain.link",
+            "url": "https://explorer.nutriemp-chain.link"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "GRAMZ",
+        "symbol": "GRAMZ",
+        "decimals": 18
+    },
+    "website": "hhttps://rpc.infinaeon.com",
+    "icon": null
+}

@@ -1,0 +1,16 @@
+{
+    "chainId": 97912060,
+    "name": "ChadChain",
+    "rpc": [
+        "https://rpc.chadchain.org"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "ChadChain",
+        "symbol": "CHAD",
+        "decimals": 18
+    },
+    "website": "https://chadchain.org",
+    "icon": null
+}

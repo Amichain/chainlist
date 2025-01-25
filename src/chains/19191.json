@@ -1,0 +1,26 @@
+{
+    "chainId": 19191,
+    "name": "BlockX Mainnet",
+    "rpc": [
+        "https://web3.blockxnet.com",
+        "https://19191.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "BlockX EVM Explorer (Blockscout)",
+            "url": "https://explorer.blockxnet.com"
+        },
+        {
+            "name": "BlockX Cosmos Explorer (Ping)",
+            "url": "https://ping.blockxnet.com/blockx"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BCX",
+        "symbol": "BCX",
+        "decimals": 18
+    },
+    "website": "https://www.blockxnet.com/",
+    "icon": null
+}

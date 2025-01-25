@@ -1,0 +1,17 @@
+{
+    "chainId": 53123,
+    "name": "Metasky",
+    "rpc": [
+        "https://53123.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/metasky/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Metasky Token",
+        "symbol": "MSK",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,24 @@
+{
+    "chainId": 1200,
+    "name": "Cuckoo Chain",
+    "rpc": [
+        "https://mainnet-rpc.cuckoo.network",
+        "https://1200.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://mainnet-rpc.cuckoo.network"
+    ],
+    "explorers": [
+        {
+            "name": "Cuckoo Chain Explorer",
+            "url": "https://scan.cuckoo.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CuckooAI",
+        "symbol": "CAI",
+        "decimals": 18
+    },
+    "website": "https://cuckoo.network",
+    "icon": null
+}

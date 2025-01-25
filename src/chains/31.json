@@ -1,0 +1,31 @@
+{
+    "chainId": 31,
+    "name": "Rootstock Testnet",
+    "rpc": [
+        "https://public-node.testnet.rsk.co",
+        "https://mycrypto.testnet.rsk.co",
+        "https://31.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "RSK Testnet Explorer",
+            "url": "https://explorer.testnet.rsk.co"
+        },
+        {
+            "name": "Rootstock Blockscout",
+            "url": "https://rootstock-testnet.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Testnet Smart Bitcoin",
+        "symbol": "tRBTC",
+        "decimals": 18
+    },
+    "website": "https://rootstock.io",
+    "icon": "31.png",
+    "testnet": true,
+    "faucets": [
+        "https://faucet.rsk.co/"
+    ]
+}

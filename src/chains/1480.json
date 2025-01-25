@@ -1,0 +1,21 @@
+{
+    "chainId": 1480,
+    "name": "Vana",
+    "rpc": [
+        "https://rpc.vana.org/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Vana Block Explorer",
+            "url": "https://vanascan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Vana",
+        "symbol": "VANA",
+        "decimals": 18
+    },
+    "website": "https://vana.org",
+    "icon": null
+}

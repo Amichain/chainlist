@@ -1,0 +1,17 @@
+{
+    "chainId": 33,
+    "name": "GoodData Mainnet",
+    "rpc": [
+        "https://rpc.goodata.io",
+        "https://33.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "GoodData Mainnet Ether",
+        "symbol": "GooD",
+        "decimals": 18
+    },
+    "website": "https://www.goodata.org",
+    "icon": null
+}

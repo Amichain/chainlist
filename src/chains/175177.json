@@ -1,0 +1,26 @@
+{
+    "chainId": 175177,
+    "name": "Chronicle - Lit Protocol Testnet",
+    "rpc": [
+        "https://chain-rpc.litprotocol.com/http",
+        "https://175177.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Lit Chronicle Explorer",
+            "url": "https://chain.litprotocol.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Test LIT",
+        "symbol": "tstLIT",
+        "decimals": 18
+    },
+    "website": "https://developer.litprotocol.com/v3/network/rollup",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.litprotocol.com"
+    ]
+}

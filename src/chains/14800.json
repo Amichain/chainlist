@@ -1,0 +1,23 @@
+{
+    "chainId": 14800,
+    "name": "Vana Moksha Testnet",
+    "rpc": [
+        "https://rpc.moksha.vana.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Vana Moksha Testnet",
+            "url": "https://vanascan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "VANA",
+        "symbol": "VANA",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 31929,
+    "name": "Worlds OP",
+    "rpc": [
+        "https://31929.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-worlds-hwbmpbzcnh.t.conduit.xyz/"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": "31929.jpg",
+    "testnet": true
+}

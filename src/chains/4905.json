@@ -1,0 +1,17 @@
+{
+    "chainId": 4905,
+    "name": "Jambon's Testnet",
+    "rpc": [
+        "https://4905.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/f4ceb0cc-0d11-4d49-888e-d744e333488a"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Jambon's Testnet Token",
+        "symbol": "XFX",
+        "decimals": 18
+    },
+    "icon": "4905.svg",
+    "testnet": true
+}

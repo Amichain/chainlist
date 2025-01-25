@@ -1,0 +1,17 @@
+{
+    "chainId": 95598,
+    "name": "QI0523I1",
+    "rpc": [
+        "https://95598.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0523I1 Token",
+        "symbol": "TQQ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,27 @@
+{
+    "chainId": 54170,
+    "name": "Graphite Testnet",
+    "rpc": [
+        "https://anon-entrypoint-test-1.atgraphite.com"
+    ],
+    "ws": [
+        "wss://ws-anon-entrypoint-test-1.atgraphite.com"
+    ],
+    "explorers": [
+        {
+            "name": "Graphite Testnet Explorer",
+            "url": "https://test.atgraphite.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Graphite",
+        "symbol": "@G",
+        "decimals": 18
+    },
+    "website": "https://atgraphite.com/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.atgraphite.com/"
+    ]
+}

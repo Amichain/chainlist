@@ -1,0 +1,17 @@
+{
+    "chainId": 19683,
+    "name": "ST 12-07 V1",
+    "rpc": [
+        "https://19683.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-test.io/d26b972e-1832-4d3a-bf7b-d0ce1f4331c2"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "ST 12-07 V1 Token",
+        "symbol": "XRL",
+        "decimals": 18
+    },
+    "icon": "19683.svg",
+    "testnet": true
+}

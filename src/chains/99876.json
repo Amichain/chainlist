@@ -1,0 +1,23 @@
+{
+    "chainId": 99876,
+    "name": "Edge Matrix Chain Testnet",
+    "rpc": [
+        "https://rpc1-testnet.emc.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://testnet.emcscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Edge Matrix Chain Token",
+        "symbol": "EMC",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

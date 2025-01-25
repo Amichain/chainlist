@@ -1,0 +1,26 @@
+{
+    "chainId": 610,
+    "name": "Darwin Devnet",
+    "rpc": [
+        "https://devnet-rpc.darwinchain.ai",
+        "https://610.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Darwin Explorer",
+            "url": "https://explorer.darwinchain.ai"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Darwin Devnet token",
+        "symbol": "DNA",
+        "decimals": 18
+    },
+    "website": "https://darwinchain.ai",
+    "icon": "610.png",
+    "testnet": true,
+    "faucets": [
+        "https://devnet-rpc.darwinchain.ai/faucet"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "chainId": 20256789,
+    "name": "ETP Mainnet",
+    "rpc": [
+        "https://rpc.etpscan.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ETPScan",
+            "url": "https://etpscan.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ETP Chain Native Token",
+        "symbol": "ETP",
+        "decimals": 18
+    },
+    "website": "https://www.etposchain.com",
+    "icon": null
+}

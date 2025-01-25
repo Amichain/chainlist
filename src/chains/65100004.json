@@ -1,0 +1,28 @@
+{
+    "chainId": 65100004,
+    "name": "Autonity Piccadilly (Tiber) Testnet",
+    "rpc": [
+        "https://autonity.rpc.web3cdn.network/testnet",
+        "https://autonity-piccadilly.rpc.subquery.network/public",
+        "https://piccadilly.autonity-apis.com"
+    ],
+    "ws": [
+        "wss://autonity.rpc.web3cdn.network/testnet/ws",
+        "wss://piccadilly-ws.autonity-apis.com"
+    ],
+    "explorers": [
+        {
+            "name": "autonity-blockscout",
+            "url": "https://piccadilly.autonity.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Piccadilly Auton",
+        "symbol": "ATN",
+        "decimals": 18
+    },
+    "website": "https://autonity.org/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

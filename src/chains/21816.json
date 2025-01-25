@@ -1,0 +1,22 @@
+{
+    "chainId": 21816,
+    "name": "omChain Mainnet",
+    "rpc": [
+        "https://seed.omchain.io",
+        "https://21816.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "omChain Explorer",
+            "url": "https://explorer.omchain.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "omChain",
+        "symbol": "OMC",
+        "decimals": 18
+    },
+    "website": "https://omchain.io",
+    "icon": null
+}

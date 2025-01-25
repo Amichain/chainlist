@@ -1,0 +1,17 @@
+{
+    "chainId": 36695,
+    "name": "Cohan Yolo Testnet",
+    "rpc": [
+        "https://36695.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/c033f73a-70ff-463d-b121-81b9542e11a1"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Cohan Yolo Testnet Token",
+        "symbol": "KYI",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

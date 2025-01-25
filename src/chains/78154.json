@@ -1,0 +1,18 @@
+{
+    "chainId": 78154,
+    "name": "added-harlequin-sturgeon",
+    "rpc": [
+        "https://78154.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-addedharle-y298c.avax-test.network/ext/bc/fYkRFwn4tjpmkpAQWUmwriiXSeGAN5Za7yaS2P8hR7JuMG1UC/rpc?token=8af18d2298a54347c72ba16595bf8ed97929183f18aac53d67fa964b45fdce3c"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "added-harlequin-sturgeon Token",
+        "symbol": "KLS",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

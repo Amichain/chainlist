@@ -1,0 +1,22 @@
+{
+    "chainId": 1299,
+    "name": "Argochain",
+    "rpc": [
+        "https://rpc.devolvedai.com",
+        "https://rpc-mainnet.devolvedai.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Argochain Scanner",
+            "url": "https://scanner.argoscan.net"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Argocoin",
+        "symbol": "AGC",
+        "decimals": 18
+    },
+    "website": "https://devolvedai.com",
+    "icon": null
+}

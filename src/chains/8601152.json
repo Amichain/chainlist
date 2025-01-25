@@ -1,0 +1,21 @@
+{
+    "chainId": 8601152,
+    "name": "Waterfall 8 Test Network",
+    "rpc": [
+        "https://rpc.testnet8.waterfall.network/",
+        "https://8601152.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "WATER",
+        "symbol": "WATER",
+        "decimals": 18
+    },
+    "website": "https://waterfall.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.testnet8.waterfall.network"
+    ]
+}

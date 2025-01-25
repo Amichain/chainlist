@@ -1,0 +1,26 @@
+{
+    "chainId": 31224,
+    "name": "CloudTx Testnet",
+    "rpc": [
+        "https://testnet-rpc.cloudtx.finance",
+        "https://31224.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "cloudtxexplorer",
+            "url": "https://explorer.cloudtx.finance"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CloudTx",
+        "symbol": "CLD",
+        "decimals": 18
+    },
+    "website": "https://cloudtx.finance/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.cloudtx.finance"
+    ]
+}

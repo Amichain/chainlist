@@ -1,0 +1,17 @@
+{
+    "chainId": 94984,
+    "name": "Borne Gaming",
+    "rpc": [
+        "https://94984.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-bornegfdn-b5ce4.avax-test.network/ext/bc/2Z4VS89jR4PEB8K1JADyfXnRNAdGKHe5hUADWDiZzgY2VM7UL7/rpc?token=2f931310b8ce2b1c06a397edb32fc8fb004f1f1b499d9c9a35676e8b88ec1979"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Borne Gaming Token",
+        "symbol": "BORNE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

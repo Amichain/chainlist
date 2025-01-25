@@ -1,0 +1,22 @@
+{
+    "chainId": 71041,
+    "name": "memecoin-2",
+    "rpc": [
+        "https://71041.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-memecoin-2-7m5e84e2pz.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "memecoin-2 Explorer",
+            "url": "https://explorer-memecoin-2-7m5e84e2pz.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

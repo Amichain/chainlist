@@ -1,0 +1,26 @@
+{
+    "chainId": 1953,
+    "name": "Selendra Network Testnet",
+    "rpc": [
+        "https://rpc-testnet.selendra.org",
+        "https://1953.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc0-testnet.selendra.org",
+        "https://rpc1-testnet.selendra.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Selendra Portal",
+            "url": "https://portal.selendra.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Selendra",
+        "symbol": "tSEL",
+        "decimals": 18
+    },
+    "website": "https://selendra.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

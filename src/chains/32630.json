@@ -1,0 +1,18 @@
+{
+    "chainId": 32630,
+    "name": "QBOT992043",
+    "rpc": [
+        "https://32630.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qbot992043-e8e10.avax-test.network/ext/bc/2FFGH2PJpfzjvVDE25tQYZKws8ued45Qfpk2k1kMni8oNtEeFD/rpc?token=d3ef2159c52106f3811aeac2f64c69ca0db5e49c8c0af259279fb190cc697222"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QBOT992043 Token",
+        "symbol": "ECG",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

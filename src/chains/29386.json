@@ -1,0 +1,17 @@
+{
+    "chainId": 29386,
+    "name": "QaUser4106 Testnet",
+    "rpc": [
+        "https://29386.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser4106 Testnet Token",
+        "symbol": "BBS",
+        "decimals": 18
+    },
+    "icon": "29386.svg",
+    "testnet": true
+}

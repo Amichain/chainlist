@@ -1,0 +1,22 @@
+{
+    "chainId": 3839,
+    "name": "traderlands-sepolia",
+    "rpc": [
+        "https://3839.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://traderlands-sepolia.rpc.caldera.xyz/http"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "traderlands explorer",
+            "url": "https://sepolia.arbiscan.io/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Traderlands",
+        "symbol": "TRADE",
+        "decimals": 18
+    },
+    "icon": "3839.png",
+    "testnet": true
+}

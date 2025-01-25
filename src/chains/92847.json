@@ -1,0 +1,17 @@
+{
+    "chainId": 92847,
+    "name": "QaUser4251",
+    "rpc": [
+        "https://92847.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser4251 Token",
+        "symbol": "ERU",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

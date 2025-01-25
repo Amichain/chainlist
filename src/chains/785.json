@@ -1,0 +1,25 @@
+{
+    "chainId": 785,
+    "name": "AUTHEO Testnet",
+    "rpc": [
+        "https://testnet-rpc1.autheo.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "tracehawk",
+            "url": "https://testnet-explorer.autheo.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "THEO",
+        "symbol": "THEO",
+        "decimals": 18
+    },
+    "website": "https://autheo.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://testnet-faucet.autheo.com"
+    ]
+}

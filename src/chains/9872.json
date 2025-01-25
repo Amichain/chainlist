@@ -1,0 +1,17 @@
+{
+    "chainId": 9872,
+    "name": "QaUser0507 Testnet",
+    "rpc": [
+        "https://9872.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser0507 Testnet Token",
+        "symbol": "KQA",
+        "decimals": 18
+    },
+    "icon": "9872.svg",
+    "testnet": true
+}

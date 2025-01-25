@@ -1,0 +1,17 @@
+{
+    "chainId": 70157,
+    "name": "jonoperf",
+    "rpc": [
+        "https://70157.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/jonoperf/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "jonoperf Token",
+        "symbol": "JONO",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

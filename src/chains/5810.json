@@ -1,0 +1,17 @@
+{
+    "chainId": 5810,
+    "name": "Reg Tnet",
+    "rpc": [
+        "https://5810.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Reg Tnet Token",
+        "symbol": "LUG",
+        "decimals": 18
+    },
+    "icon": "5810.svg",
+    "testnet": true
+}

@@ -1,0 +1,26 @@
+{
+    "chainId": 1802203764,
+    "name": "Kakarot Sepolia (Deprecated)",
+    "rpc": [
+        "https://1802203764.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://sepolia-rpc.kakarot.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Kakarot Scan",
+            "url": "https://sepolia.kakarotscan.org"
+        },
+        {
+            "name": "Kakarot Explorer",
+            "url": "https://sepolia-explorer.kakarot.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://kakarot.org",
+    "icon": null
+}

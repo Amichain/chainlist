@@ -1,0 +1,22 @@
+{
+    "chainId": 6398,
+    "name": "Connext Sepolia",
+    "rpc": [
+        "https://rpc.connext-sepolia.gelato.digital/",
+        "https://6398.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Connext Sepolia",
+            "url": "https://connext-sepolia.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

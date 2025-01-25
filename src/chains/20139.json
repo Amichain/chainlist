@@ -1,0 +1,17 @@
+{
+    "chainId": 20139,
+    "name": "QR0129I1",
+    "rpc": [
+        "https://20139.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0129i1/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0129I1 Token",
+        "symbol": "YOD",
+        "decimals": 18
+    },
+    "icon": "20139.svg",
+    "testnet": true
+}

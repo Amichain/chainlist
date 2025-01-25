@@ -1,0 +1,22 @@
+{
+    "chainId": 1440002,
+    "name": "XRP Ledger EVM Devnet Sidechain",
+    "rpc": [
+        "https://1440002.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-evm-sidechain.xrpl.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "XRP Ledger Explorer",
+            "url": "https://explorer.xrplevm.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "XRP",
+        "symbol": "XRP",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

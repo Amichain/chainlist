@@ -1,0 +1,25 @@
+{
+    "chainId": 301,
+    "name": "Bobaopera",
+    "rpc": [
+        "https://bobaopera.boba.network",
+        "https://replica.bobaopera.boba.network"
+    ],
+    "ws": [
+        "wss://wss.bobaopera.boba.network",
+        "wss://replica-wss.bobaopera.boba.network"
+    ],
+    "explorers": [
+        {
+            "name": "Bobaopera block explorer",
+            "url": "https://blockexplorer.bobaopera.boba.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Boba Token",
+        "symbol": "BOBA",
+        "decimals": 18
+    },
+    "website": "https://boba.network",
+    "icon": null
+}

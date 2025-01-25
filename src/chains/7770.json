@@ -1,0 +1,25 @@
+{
+    "chainId": 7770,
+    "name": "PandaSea Testnet",
+    "rpc": [
+        "https://rpc.testnet.pandasea.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "tracehawk",
+            "url": "https://test.pandaseascan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "PandaSea Coin",
+        "symbol": "PANDA",
+        "decimals": 18
+    },
+    "website": "https://test.pandaseascan.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.pandasea.io"
+    ]
+}

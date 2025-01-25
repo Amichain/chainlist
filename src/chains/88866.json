@@ -1,0 +1,23 @@
+{
+    "chainId": 88866,
+    "name": "Matr1x Testnet",
+    "rpc": [
+        "https://testnet-rpc.m1chain.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "matr1x testnet",
+            "url": "https://testnet-scan.m1chain.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "MAX",
+        "symbol": "MAX",
+        "decimals": 18
+    },
+    "website": "https://matr1x.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,19 @@
+{
+    "chainId": 9999,
+    "name": "myOwn Testnet",
+    "rpc": [
+        "https://geth.dev.bccloud.net",
+        "https://9999.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "MYN",
+        "symbol": "MYN",
+        "decimals": 18
+    },
+    "website": "https://docs.bccloud.net/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

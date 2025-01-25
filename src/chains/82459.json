@@ -1,0 +1,24 @@
+{
+    "chainId": 82459,
+    "name": "Smart Layer Network Testnet",
+    "rpc": [
+        "https://rpc.test.smartlayer.network",
+        "https://82459.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "SLN Testnet Explorer",
+            "url": "https://explorer.test.smartlayer.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Service Unit Token",
+        "symbol": "SU",
+        "decimals": 18
+    },
+    "website": "https://www.smartlayer.network/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

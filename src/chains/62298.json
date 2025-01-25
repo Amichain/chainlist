@@ -1,0 +1,26 @@
+{
+    "chainId": 62298,
+    "name": "Citrea Devnet",
+    "rpc": [
+        "https://rpc.devnet.citrea.xyz",
+        "https://62298.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Citrea Devnet Explorer",
+            "url": "https://explorer.devnet.citrea.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Citrea BTC",
+        "symbol": "cBTC",
+        "decimals": 18
+    },
+    "website": "https://citrea.xyz",
+    "icon": "62298.png",
+    "testnet": true,
+    "faucets": [
+        "https://citrea.xyz/bridge"
+    ]
+}

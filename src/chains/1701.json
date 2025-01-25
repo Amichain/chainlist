@@ -1,0 +1,22 @@
+{
+    "chainId": 1701,
+    "name": "Anytype EVM Chain",
+    "rpc": [
+        "https://geth.anytype.io",
+        "https://1701.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Anytype Explorer",
+            "url": "https://explorer.anytype.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ANY",
+        "symbol": "ANY",
+        "decimals": 18
+    },
+    "website": "https://evm.anytype.io",
+    "icon": "1701.png"
+}

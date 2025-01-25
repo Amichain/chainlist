@@ -1,0 +1,17 @@
+{
+    "chainId": 46145,
+    "name": "QI0520I2",
+    "rpc": [
+        "https://46145.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0520I2 Token",
+        "symbol": "YZG",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

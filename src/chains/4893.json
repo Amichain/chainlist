@@ -1,0 +1,22 @@
+{
+    "chainId": 4893,
+    "name": "Globel Chain",
+    "rpc": [
+        "https://rpc.gcscan.io",
+        "https://4893.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://gcscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Globel Chain",
+        "symbol": "GC",
+        "decimals": 18
+    },
+    "website": "https://gcscan.io",
+    "icon": null
+}

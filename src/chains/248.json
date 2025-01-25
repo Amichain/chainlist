@@ -1,0 +1,22 @@
+{
+    "chainId": 248,
+    "name": "Oasys Mainnet",
+    "rpc": [
+        "https://rpc.mainnet.oasys.games",
+        "https://248.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.oasys.games"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "OAS",
+        "symbol": "OAS",
+        "decimals": 18
+    },
+    "website": "https://oasys.games",
+    "icon": "248.png"
+}

@@ -1,0 +1,16 @@
+{
+    "chainId": 80451,
+    "name": "Geo Genesis",
+    "rpc": [
+        "https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz/"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "The Graph",
+        "symbol": "GRT",
+        "decimals": 18
+    },
+    "website": "https://geobrowser.io",
+    "icon": null
+}

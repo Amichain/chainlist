@@ -1,0 +1,23 @@
+{
+    "chainId": 62092,
+    "name": "TikTrix Testnet",
+    "rpc": [
+        "https://tiktrix-rpc.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "TikTrix Testnet Explorer",
+            "url": "https://tiktrix.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "tTTX",
+        "symbol": "tTTX",
+        "decimals": 18
+    },
+    "website": "https://tiktrix.gg",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

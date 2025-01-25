@@ -1,0 +1,25 @@
+{
+    "chainId": 51178,
+    "name": "Lumoz Testnet Alpha",
+    "rpc": [
+        "https://alpha-us-http-geth.lumoz.org",
+        "https://alpha-hk-http-geth.lumoz.org",
+        "https://51178.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "LumozTestnetInfo",
+            "url": "https://lumoz.info"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Lumoz Test Token",
+        "symbol": "MOZ",
+        "decimals": 18
+    },
+    "website": "https://lumoz.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

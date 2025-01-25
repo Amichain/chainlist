@@ -1,0 +1,17 @@
+{
+    "chainId": 16316,
+    "name": "Stripe Test",
+    "rpc": [
+        "https://16316.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Stripe Test Token",
+        "symbol": "STR",
+        "decimals": 18
+    },
+    "icon": "16316.svg",
+    "testnet": true
+}

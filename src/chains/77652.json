@@ -1,0 +1,25 @@
+{
+    "chainId": 77652,
+    "name": "Carrchain Testnet",
+    "rpc": [
+        "https://rpc-testnetcarrchain.artiffine.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "tracehawk",
+            "url": "https://explorer-testnetcarrchain.artiffine.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Carrchain Coin",
+        "symbol": "CARR",
+        "decimals": 18
+    },
+    "website": "https://explorer-testnetcarrchain.artiffine.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet-testnetcarrchain.artiffine.com"
+    ]
+}

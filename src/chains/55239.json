@@ -1,0 +1,17 @@
+{
+    "chainId": 55239,
+    "name": "Borne",
+    "rpc": [
+        "https://55239.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-bornefdn-w00dd.avax-test.network/ext/bc/28ACsxrnCZoTyUGTgrHxeht4WugDsW9jwdADNFDSBZivaVMxS6/rpc?token=6228963b69d441e8881b5db9611f41e1aec0c0bb0b4b979a7dc6926d2743c18c"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Borne Token",
+        "symbol": "BORNE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

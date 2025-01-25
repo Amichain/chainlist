@@ -1,0 +1,17 @@
+{
+    "chainId": 951083,
+    "name": "QR0205Y1S",
+    "rpc": [
+        "https://951083.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0205y1s/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0205Y1S Token",
+        "symbol": "MYO",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

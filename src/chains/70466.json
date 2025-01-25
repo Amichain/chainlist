@@ -1,0 +1,17 @@
+{
+    "chainId": 70466,
+    "name": "Cohan test3",
+    "rpc": [
+        "https://70466.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/f44b72ee-0574-44d2-a10b-363a74964145"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Cohan test3 Token",
+        "symbol": "HYN",
+        "decimals": 18
+    },
+    "icon": "70466.svg",
+    "testnet": true
+}

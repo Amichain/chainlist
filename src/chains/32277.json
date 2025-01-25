@@ -1,0 +1,17 @@
+{
+    "chainId": 32277,
+    "name": "QI M 2402058",
+    "rpc": [
+        "https://32277.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/c908add6-74c5-4407-8091-18762786a0b9"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI M 2402058 Token",
+        "symbol": "ACI",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

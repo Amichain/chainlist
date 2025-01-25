@@ -1,0 +1,23 @@
+{
+    "chainId": 119,
+    "name": "ENULS Mainnet",
+    "rpc": [
+        "https://evmapi.nuls.io",
+        "https://evmapi2.nuls.io",
+        "https://119.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "enulsscan",
+            "url": "https://evmscan.nuls.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "NULS",
+        "symbol": "NULS",
+        "decimals": 18
+    },
+    "website": "https://nuls.io",
+    "icon": "119.svg"
+}

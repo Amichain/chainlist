@@ -1,0 +1,22 @@
+{
+    "chainId": 6661,
+    "name": "Cybria Mainnet",
+    "rpc": [
+        "https://rpc-mainnet.cybria.io",
+        "https://6661.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Cybria Explorer",
+            "url": "https://cybascan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Cybria",
+        "symbol": "CYBA",
+        "decimals": 18
+    },
+    "website": "https://cybria.io",
+    "icon": null
+}

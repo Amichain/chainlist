@@ -1,0 +1,21 @@
+{
+    "chainId": 171717,
+    "name": "Wadzchain Mainnet",
+    "rpc": [
+        "https://rpc.wadzchain.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Wadzchain Mainnet Explorer",
+            "url": "https://scan.wadzchain.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "WadzChain Token",
+        "symbol": "WCO",
+        "decimals": 18
+    },
+    "website": "https://www.wadzchain-network.io",
+    "icon": null
+}

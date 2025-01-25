@@ -1,0 +1,25 @@
+{
+    "chainId": 1559,
+    "name": "Tenet",
+    "rpc": [
+        "https://rpc.tenet.org",
+        "https://tenet-evm.publicnode.com",
+        "https://1559.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://tenet-evm.publicnode.com"
+    ],
+    "explorers": [
+        {
+            "name": "TenetScan Mainnet",
+            "url": "https://tenetscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "TENET",
+        "symbol": "TENET",
+        "decimals": 18
+    },
+    "website": "https://tenet.org/",
+    "icon": null
+}

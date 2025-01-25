@@ -1,0 +1,25 @@
+{
+    "chainId": 18159,
+    "name": "Proof Of Memes",
+    "rpc": [
+        "https://mainnet-rpc.memescan.io",
+        "https://mainnet-rpc2.memescan.io",
+        "https://mainnet-rpc3.memescan.io",
+        "https://mainnet-rpc4.memescan.io",
+        "https://18159.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "explorer-proofofmemes",
+            "url": "https://memescan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Proof Of Memes",
+        "symbol": "POM",
+        "decimals": 18
+    },
+    "website": "https://proofofmemes.org",
+    "icon": null
+}

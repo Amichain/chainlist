@@ -1,0 +1,17 @@
+{
+    "chainId": 63079,
+    "name": "MT 1121-2",
+    "rpc": [
+        "https://63079.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-test.io/d76ea66a-e423-49f6-8ef1-4355260b47f1"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "MT 1121-2 Token",
+        "symbol": "RCE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

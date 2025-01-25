@@ -1,0 +1,22 @@
+{
+    "chainId": 456,
+    "name": "ARZIO Chain",
+    "rpc": [
+        "https://chain-rpc.arzio.co",
+        "https://456.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ARZIO Scan",
+            "url": "https://scan.arzio.co"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ARZIO",
+        "symbol": "AZO",
+        "decimals": 18
+    },
+    "website": "https://chain.arzio.co",
+    "icon": null
+}

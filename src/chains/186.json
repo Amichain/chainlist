@@ -1,0 +1,22 @@
+{
+    "chainId": 186,
+    "name": "Seele Mainnet",
+    "rpc": [
+        "https://rpc.seelen.pro/",
+        "https://186.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "seeleview",
+            "url": "https://seeleview.net"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Seele",
+        "symbol": "Seele",
+        "decimals": 18
+    },
+    "website": "https://seelen.pro/",
+    "icon": null
+}

@@ -1,0 +1,21 @@
+{
+    "chainId": 1000080,
+    "name": "Ouroboro Mainnet",
+    "rpc": [
+        "https://1000080.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-ouroboro-mainnet-0.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://explorer-ouroboro-mainnet-0.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null
+}

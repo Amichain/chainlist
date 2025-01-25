@@ -1,0 +1,16 @@
+{
+    "chainId": 10036,
+    "name": "Innovo Markets Mainnet",
+    "rpc": [
+        "https://10036.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/innovo/mainnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Innovo Markets Mainnet Token",
+        "symbol": "INN",
+        "decimals": 18
+    },
+    "icon": "10036.svg"
+}

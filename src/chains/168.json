@@ -1,0 +1,22 @@
+{
+    "chainId": 168,
+    "name": "AIOZ Network",
+    "rpc": [
+        "https://eth-dataseed.aioz.network",
+        "https://168.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "AIOZ Network Explorer",
+            "url": "https://explorer.aioz.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "AIOZ",
+        "symbol": "AIOZ",
+        "decimals": 18
+    },
+    "website": "https://aioz.network",
+    "icon": null
+}

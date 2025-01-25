@@ -1,0 +1,21 @@
+{
+    "chainId": 315,
+    "name": "WEMblockchain MainNet",
+    "rpc": [
+        "http://rpc.wemblockchain.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "wemscan",
+            "url": "https://wemscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "WEM Coin",
+        "symbol": "WEM",
+        "decimals": 18
+    },
+    "website": "https://worldecomoney.com",
+    "icon": null
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 40875,
+    "name": "Oasys Homeverse Testnet",
+    "rpc": [
+        "https://40875.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.testnet.oasys.homeverse.games"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://explorer.testnet.oasys.homeverse.games/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Homeverse OAS",
+        "symbol": "OAS",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

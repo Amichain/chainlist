@@ -1,0 +1,22 @@
+{
+    "chainId": 8428,
+    "name": "THAT Mainnet",
+    "rpc": [
+        "https://api.thatchain.io",
+        "https://api.thatchain.io/mainnet"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "THAT Explorer",
+            "url": "https://that.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "THAT",
+        "symbol": "THAT",
+        "decimals": 18
+    },
+    "website": "https://that.website",
+    "icon": "8428.png"
+}

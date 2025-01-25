@@ -1,0 +1,22 @@
+{
+    "chainId": 743111,
+    "name": "Hemi Sepolia",
+    "rpc": [
+        "https://testnet.rpc.hemi.network/rpc",
+        "https://743111.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://testnet.explorer.hemi.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://hemi.xyz",
+    "icon": null
+}

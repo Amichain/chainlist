@@ -1,0 +1,17 @@
+{
+    "chainId": 70038,
+    "name": "John's Testnet",
+    "rpc": [
+        "https://70038.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "John's Testnet Token",
+        "symbol": "FLG",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

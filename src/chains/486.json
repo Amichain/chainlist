@@ -1,0 +1,14 @@
+{
+    "chainId": 486,
+    "name": "Standard Mainnet",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Standard",
+        "symbol": "STND",
+        "decimals": 18
+    },
+    "website": "https://standardweb3.com",
+    "icon": null
+}

@@ -1,0 +1,25 @@
+{
+    "chainId": 565,
+    "name": "Prometheuz Testnet",
+    "rpc": [
+        "https://explorer.testnet.prometheuz.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Prometheuz Explorer",
+            "url": "https://explorer.testnet.prometheuz.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Pyre",
+        "symbol": "PYRE",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.testnet.prometheuz.io"
+    ]
+}

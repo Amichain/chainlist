@@ -1,0 +1,22 @@
+{
+    "chainId": 1972,
+    "name": "RedeCoin",
+    "rpc": [
+        "https://rpc2.redecoin.eu",
+        "https://1972.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "RedeCoin Explorer",
+            "url": "https://explorer3.redecoin.eu"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "RedeCoin",
+        "symbol": "REDEV2",
+        "decimals": 18
+    },
+    "website": "https://www.redecoin.eu",
+    "icon": null
+}

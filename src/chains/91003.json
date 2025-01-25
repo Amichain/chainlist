@@ -1,0 +1,20 @@
+{
+    "chainId": 91003,
+    "name": "Worlds Appchain",
+    "rpc": [
+        "https://91003.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://api.evm.worlds.dev.eclipsenetwork.xyz/"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "WRLDS",
+        "symbol": "WRLDS",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.evm.worlds.dev.eclipsenetwork.xyz/request_neon"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 3334,
+    "name": "Web3Q Galileo",
+    "rpc": [
+        "https://galileo.web3q.io:8545",
+        "https://3334.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "w3q-galileo",
+            "url": "https://explorer.galileo.web3q.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Web3Q",
+        "symbol": "W3Q",
+        "decimals": 18
+    },
+    "website": "https://galileo.web3q.io/home.w3q/",
+    "icon": null
+}

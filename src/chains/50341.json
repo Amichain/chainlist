@@ -1,0 +1,23 @@
+{
+    "chainId": 50341,
+    "name": "Reddio Devnet",
+    "rpc": [
+        "https://reddio-dev.reddio.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "L2scan",
+            "url": "https://reddio-devnet.l2scan.co"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Red",
+        "symbol": "RED",
+        "decimals": 18
+    },
+    "website": "https://www.reddio.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

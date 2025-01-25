@@ -1,0 +1,17 @@
+{
+    "chainId": 928010,
+    "name": "QR0408T2TS Testnet",
+    "rpc": [
+        "https://928010.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0408t2ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0408T2TS Testnet Token",
+        "symbol": "XYZ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

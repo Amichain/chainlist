@@ -1,0 +1,17 @@
+{
+    "chainId": 31170,
+    "name": "QR0708A1TS",
+    "rpc": [
+        "https://31170.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0708a1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0708A1TS Token",
+        "symbol": "VQX",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

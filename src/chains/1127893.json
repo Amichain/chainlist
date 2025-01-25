@@ -1,0 +1,17 @@
+{
+    "chainId": 1127893,
+    "name": "The Fan Economy",
+    "rpc": [
+        "https://1127893.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud.io/a9351d9b-ec31-4607-aa15-f6b44c8a79c0"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Fan Finanace",
+        "symbol": "FanFi",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,21 @@
+{
+    "chainId": 41923,
+    "name": "EDU Chain",
+    "rpc": [
+        "https://rpc.edu-chain.raas.gelato.cloud"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "EDU Chain",
+            "url": "https://educhain.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "EDU",
+        "symbol": "EDU",
+        "decimals": 18
+    },
+    "website": "https://raas.gelato.network/rollups/details/public/edu-chain",
+    "icon": "41923.png"
+}

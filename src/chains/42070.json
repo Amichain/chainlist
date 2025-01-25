@@ -1,0 +1,25 @@
+{
+    "chainId": 42070,
+    "name": "WMC Testnet",
+    "rpc": [
+        "https://rpc-testnet-base.worldmobile.net"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "WMC Explorer",
+            "url": "https://explorer-testnet-base.worldmobile.net"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "WMTx",
+        "symbol": "WMTx",
+        "decimals": 18
+    },
+    "website": "https://worldmobiletoken.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet-testnet-base.worldmobile.net"
+    ]
+}

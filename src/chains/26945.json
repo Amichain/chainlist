@@ -1,0 +1,17 @@
+{
+    "chainId": 26945,
+    "name": "QA0628T1TS",
+    "rpc": [
+        "https://26945.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qa0628t1ts-y2910.avax-test.network/ext/bc/2WgEf3VjJnSco3BLZotyeypUeQ78s5tW3rj9AYyVM2PF9otzGJ/rpc?token=0d1c32abc584380568181cb037ae1aa23461acae7c46710b0245f64d34299faa"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QA0628T1TS Token",
+        "symbol": "XMA",
+        "decimals": 18
+    },
+    "icon": "26945.svg",
+    "testnet": true
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 8995,
+    "name": "bloxberg",
+    "rpc": [
+        "https://core.bloxberg.org",
+        "https://8995.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "BERG",
+        "symbol": "U+25B3",
+        "decimals": 18
+    },
+    "website": "https://bloxberg.org",
+    "icon": "8995.png"
+}

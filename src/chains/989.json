@@ -1,0 +1,21 @@
+{
+    "chainId": 989,
+    "name": "TOP Mainnet",
+    "rpc": [
+        "https://989.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "topscan.dev",
+            "url": "https://www.topscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "TOP",
+        "symbol": "TOP",
+        "decimals": 6
+    },
+    "website": "https://www.topnetwork.org/",
+    "icon": null
+}

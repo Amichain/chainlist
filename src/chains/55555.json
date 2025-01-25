@@ -1,0 +1,22 @@
+{
+    "chainId": 55555,
+    "name": "REI Chain Mainnet",
+    "rpc": [
+        "https://rei-rpc.moonrhythm.io",
+        "https://55555.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "reiscan",
+            "url": "https://reiscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Rei",
+        "symbol": "REI",
+        "decimals": 18
+    },
+    "website": "https://reichain.io",
+    "icon": "55555.svg"
+}

@@ -1,0 +1,21 @@
+{
+    "chainId": 50097,
+    "name": "Zytron B2 Testnet",
+    "rpc": [
+        "https://50097.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Zytron Explorer",
+            "url": "http://b2-testnet-zytron-blockscout.zypher.game/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BTC",
+        "symbol": "BTC",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

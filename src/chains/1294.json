@@ -1,0 +1,25 @@
+{
+    "chainId": 1294,
+    "name": "Bobabeam",
+    "rpc": [
+        "https://bobabeam.boba.network",
+        "https://replica.bobabeam.boba.network"
+    ],
+    "ws": [
+        "wss://wss.bobabeam.boba.network",
+        "wss://replica-wss.bobabeam.boba.network"
+    ],
+    "explorers": [
+        {
+            "name": "Bobabeam block explorer",
+            "url": "https://blockexplorer.bobabeam.boba.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Boba Token",
+        "symbol": "BOBA",
+        "decimals": 18
+    },
+    "website": "https://boba.network",
+    "icon": null
+}

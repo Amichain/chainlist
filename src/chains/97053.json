@@ -1,0 +1,23 @@
+{
+    "chainId": 97053,
+    "name": "Tetron Testnet Smart Chain",
+    "rpc": [
+        "https://test-rpc.tscscan.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Tetron Explorer",
+            "url": "https://testnet.tscscan.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Tetron Testnet",
+        "symbol": "TSC",
+        "decimals": 18
+    },
+    "website": "https://tetronchain.com/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

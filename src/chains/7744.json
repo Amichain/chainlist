@@ -1,0 +1,27 @@
+{
+    "chainId": 7744,
+    "name": "Phron Testnet",
+    "rpc": [
+        "https://testnet.phron.ai"
+    ],
+    "ws": [
+        "wss://testnet.phron.ai"
+    ],
+    "explorers": [
+        {
+            "name": "phronscan",
+            "url": "https://testnet.phronscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Phron",
+        "symbol": "TPHR",
+        "decimals": 18
+    },
+    "website": "https://phron.ai",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.phron.ai"
+    ]
+}

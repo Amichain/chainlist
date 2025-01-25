@@ -1,0 +1,17 @@
+{
+    "chainId": 85678,
+    "name": "QI0122I1 Testnet",
+    "rpc": [
+        "https://85678.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0122I1 Testnet Token",
+        "symbol": "KIP",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

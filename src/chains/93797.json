@@ -1,0 +1,17 @@
+{
+    "chainId": 93797,
+    "name": "QaUser8328",
+    "rpc": [
+        "https://93797.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser8328 Token",
+        "symbol": "CPY",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

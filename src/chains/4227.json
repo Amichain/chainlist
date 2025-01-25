@@ -1,0 +1,17 @@
+{
+    "chainId": 4227,
+    "name": "Hashfire ",
+    "rpc": [
+        "https://4227.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-hashfire-a407c.avax-test.network/ext/bc/XfhdpSFy9nmPCFbc4a4HqPmeXssc1Hne4X4ZNwWrFmJJiThPt/rpc?token=8b86f11ebc93e2060cd73c78bd725e728f0b0376b705e5ffa9555551f217bcf4"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Hashfire  Token",
+        "symbol": "HASHD",
+        "decimals": 18
+    },
+    "icon": "4227.svg",
+    "testnet": true
+}

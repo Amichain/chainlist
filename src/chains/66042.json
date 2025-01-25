@@ -1,0 +1,17 @@
+{
+    "chainId": 66042,
+    "name": "QI0408I1 Testnet",
+    "rpc": [
+        "https://66042.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0408I1 Testnet Token",
+        "symbol": "YXE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,24 @@
+{
+    "chainId": 1975,
+    "name": "ONUS Chain Mainnet",
+    "rpc": [
+        "https://rpc.onuschain.io",
+        "https://1975.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://ws.onuschain.io"
+    ],
+    "explorers": [
+        {
+            "name": "Onus explorer mainnet",
+            "url": "https://explorer.onuschain.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ONUS",
+        "symbol": "ONUS",
+        "decimals": 18
+    },
+    "website": "https://onuschain.io",
+    "icon": null
+}

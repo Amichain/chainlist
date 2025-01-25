@@ -1,0 +1,18 @@
+{
+    "chainId": 80126,
+    "name": "Reid's Freakin Testnet",
+    "rpc": [
+        "https://80126.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-reidtest-wd6ae.avax-test.network/ext/bc/XEnqHiF3ieHYjSr6j1iAQRPVQuTp29vjassCFa4XBSjEJnPE6/rpc?token=20c13cc966083e6bf230af9d89c2f32e79f3dd1dcd51f1aa58f08f586e976548"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Reid's Freakin Testnet Token",
+        "symbol": "REID",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,20 @@
+{
+    "chainId": 679,
+    "name": "Janction Testnet",
+    "rpc": [
+        "https://rpc_testnet.janction.io"
+    ],
+    "ws": [
+        "wss://rpc_testnet.janction.io"
+    ],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Janction",
+        "symbol": "JCT",
+        "decimals": 18
+    },
+    "website": "https://janction.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

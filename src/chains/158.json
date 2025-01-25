@@ -1,0 +1,22 @@
+{
+    "chainId": 158,
+    "name": "Roburna Mainnet",
+    "rpc": [
+        "https://dataseed.roburna.com",
+        "https://158.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Rbascan Explorer",
+            "url": "https://rbascan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Roburna",
+        "symbol": "RBA",
+        "decimals": 18
+    },
+    "website": "https://www.roburna.com/",
+    "icon": "158.png"
+}

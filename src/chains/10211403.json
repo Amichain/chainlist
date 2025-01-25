@@ -1,0 +1,25 @@
+{
+    "chainId": 10211403,
+    "name": "GLHF Testnet",
+    "rpc": [
+        "https://10211403.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://glhf-testnet.rpc.caldera.xyz/http"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://glhf-testnet.explorer.caldera.xyz/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://glhf-testnet.hub.caldera.xyz/"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "chainId": 1028,
+    "name": "BitTorrent Chain Testnet",
+    "rpc": [
+        "https://testrpc.bittorrentchain.io/",
+        "https://1028.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "testbttcscan",
+            "url": "https://testscan.bittorrentchain.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BitTorrent",
+        "symbol": "BTT",
+        "decimals": 18
+    },
+    "website": "https://bittorrentchain.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

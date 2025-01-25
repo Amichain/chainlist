@@ -1,0 +1,17 @@
+{
+    "chainId": 24347,
+    "name": "Tnet 02-27",
+    "rpc": [
+        "https://24347.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Tnet 02-27 Token",
+        "symbol": "TJO",
+        "decimals": 18
+    },
+    "icon": "24347.svg",
+    "testnet": true
+}

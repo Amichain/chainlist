@@ -1,0 +1,22 @@
+{
+    "chainId": 1648,
+    "name": "Pivotal Mainnet",
+    "rpc": [
+        "https://mainnet.pivotalprotocol.com",
+        "https://1648.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Pivotal Scan",
+            "url": "https://pivotalscan.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Pivotal Plus",
+        "symbol": "PLUS",
+        "decimals": 18
+    },
+    "website": "http://thepivotal.xyz/",
+    "icon": null
+}

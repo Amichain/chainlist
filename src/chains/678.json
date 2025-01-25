@@ -1,0 +1,18 @@
+{
+    "chainId": 678,
+    "name": "Janction",
+    "rpc": [
+        "https://rpc.janction.io"
+    ],
+    "ws": [
+        "wss://rpc.janction.io"
+    ],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Janction",
+        "symbol": "JCT",
+        "decimals": 18
+    },
+    "website": "https://janction.io",
+    "icon": null
+}

@@ -1,0 +1,39 @@
+{
+    "chainId": 1001,
+    "name": "Kaia Kairos Testnet",
+    "rpc": [
+        "https://public-en-kairos.node.kaia.io",
+        "https://1001.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://public-en.kairos.node.kaia.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Kaiascope",
+            "url": "https://kairos.kaiascope.com"
+        },
+        {
+            "name": "Kaiascan",
+            "url": "https://kairos.kaiascan.io"
+        },
+        {
+            "name": "Klaytnscope",
+            "url": "https://baobab.klaytnscope.com"
+        },
+        {
+            "name": "Klaytnfinder",
+            "url": "https://baobab.klaytnfinder.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "KAIA",
+        "symbol": "KLAY",
+        "decimals": 18
+    },
+    "website": "https://kaia.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.kaia.io"
+    ]
+}

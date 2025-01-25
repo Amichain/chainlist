@@ -1,0 +1,26 @@
+{
+    "chainId": 70,
+    "name": "Hoo Smart Chain",
+    "rpc": [
+        "https://http-mainnet.hoosmartchain.com",
+        "https://http-mainnet2.hoosmartchain.com",
+        "https://70.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://ws-mainnet.hoosmartchain.com",
+        "wss://ws-mainnet2.hoosmartchain.com"
+    ],
+    "explorers": [
+        {
+            "name": "hooscan",
+            "url": "https://www.hooscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Hoo Smart Chain Native Token",
+        "symbol": "HOO",
+        "decimals": 18
+    },
+    "website": "https://www.hoosmartchain.com",
+    "icon": null
+}

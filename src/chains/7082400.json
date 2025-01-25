@@ -1,0 +1,27 @@
+{
+    "chainId": 7082400,
+    "name": "COTI Testnet",
+    "rpc": [
+        "https://testnet.coti.io/rpc",
+        "https://testnet-magnus-validator.coti.io/rpc",
+        "https://testnet-minor-validator.coti.io/rpc"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "COTI Testnet Explorer",
+            "url": "https://testnet.cotiscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "COTI",
+        "symbol": "COTI",
+        "decimals": 18
+    },
+    "website": "https://coti.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.coti.io"
+    ]
+}

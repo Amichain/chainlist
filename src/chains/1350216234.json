@@ -1,0 +1,24 @@
+{
+    "chainId": 1350216234,
+    "name": "SKALE Titan Hub",
+    "rpc": [
+        "https://mainnet.skalenodes.com/v1/parallel-stormy-spica",
+        "https://1350216234.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://mainnet.skalenodes.com/v1/ws/parallel-stormy-spica"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://parallel-stormy-spica.explorer.mainnet.skalenodes.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

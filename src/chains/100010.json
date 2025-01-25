@@ -1,0 +1,26 @@
+{
+    "chainId": 100010,
+    "name": "VeChain Testnet",
+    "rpc": [
+        "https://rpc-testnet.vechain.energy",
+        "https://100010.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "VeChain Explorer",
+            "url": "https://explore-testnet.vechain.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "VeChain",
+        "symbol": "VET",
+        "decimals": 18
+    },
+    "website": "https://vechain.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.vecha.in"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "chainId": 89346162,
+    "name": "Reya Cronos",
+    "rpc": [
+        "https://rpc.reya-cronos.gelato.digital"
+    ],
+    "ws": [
+        "wss://ws.reya-cronos.gelato.digital"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://reya-cronos.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://raas.gelato.network/rollups/details/public/reya-cronos",
+    "icon": "89346162.png"
+}

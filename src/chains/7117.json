@@ -1,0 +1,21 @@
+{
+    "chainId": 7117,
+    "name": "0XL3",
+    "rpc": [
+        "https://rpc.0xl3.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "0XL3 Explorer",
+            "url": "https://exp.0xl3.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "XL3",
+        "symbol": "XL3",
+        "decimals": 18
+    },
+    "website": "https://0xl3.com",
+    "icon": null
+}

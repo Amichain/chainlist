@@ -1,0 +1,26 @@
+{
+    "chainId": 97970,
+    "name": "OptimusZ7 Testnet",
+    "rpc": [
+        "https://testnet-rpc.optimusz7.com",
+        "https://97970.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "OptimusZ7 Testnet Explorer",
+            "url": "https://testnet.optimusz7.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "OptimusZ7",
+        "symbol": "OZ7",
+        "decimals": 18
+    },
+    "website": "http://optimusz7.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.optimusz7.com"
+    ]
+}

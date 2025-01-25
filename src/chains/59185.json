@@ -1,0 +1,22 @@
+{
+    "chainId": 59185,
+    "name": "BeyondChain Testnet",
+    "rpc": [
+        "https://59185.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-beyond-indigo-playground-xz87sjgmaj.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Beyond",
+            "url": "https://explorerl2new-beyond-indigo-playground-xz87sjgmaj.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BEYOND",
+        "symbol": "BEYOND",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

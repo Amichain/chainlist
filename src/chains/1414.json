@@ -1,0 +1,18 @@
+{
+    "chainId": 1414,
+    "name": "Silicon zkEVM Sepolia Testnet(Deprecated)",
+    "rpc": [
+        "https://1414.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

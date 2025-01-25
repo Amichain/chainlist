@@ -1,0 +1,21 @@
+{
+    "chainId": 82614,
+    "name": "VEMP Horizon",
+    "rpc": [
+        "https://vemp-horizon.calderachain.xyz/http"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "VEMP Horizon Caldera Explorer",
+            "url": "https://vemp-horizon.calderaexplorer.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "VEMP",
+        "symbol": "VEMP",
+        "decimals": 18
+    },
+    "website": "https://www.vemp.xyz/",
+    "icon": null
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 6502,
+    "name": "Peerpay",
+    "rpc": [
+        "https://peerpay.su.gy/p2p",
+        "https://6502.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Peerpay",
+        "symbol": "P2P",
+        "decimals": 18
+    },
+    "website": "https://peerpay.su.gy",
+    "icon": null
+}

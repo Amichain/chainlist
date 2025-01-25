@@ -1,0 +1,26 @@
+{
+    "chainId": 786786,
+    "name": "Zebro Smart Chain",
+    "rpc": [
+        "https://rpc.zebrocoin.app",
+        "https://rpc1.zebrocoin.app"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Zebrocoin Explorer",
+            "url": "https://explorer.zebrocoin.app"
+        },
+        {
+            "name": "Zebrocoin Explorer1",
+            "url": "https://explorer1.zebrocoin.app"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Zebrocoin",
+        "symbol": "ZEBRO",
+        "decimals": 18
+    },
+    "website": "https://zebrocoin.app",
+    "icon": null
+}

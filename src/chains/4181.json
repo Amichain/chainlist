@@ -1,0 +1,23 @@
+{
+    "chainId": 4181,
+    "name": "PHI Network V1",
+    "rpc": [
+        "https://rpc1.phi.network",
+        "https://rpc2.phi.network",
+        "https://4181.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "PHI Explorer",
+            "url": "https://explorer.phi.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "PHI",
+        "symbol": "Φ",
+        "decimals": 18
+    },
+    "website": "https://phi.network",
+    "icon": null
+}

@@ -1,0 +1,26 @@
+{
+    "chainId": 19880818,
+    "name": "DeepBrainChain Mainnet",
+    "rpc": [
+        "https://rpc.dbcwallet.io",
+        "https://19880818.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "DeepBrainChain Mainnet",
+            "url": "https://www.dbcscan.io"
+        },
+        {
+            "name": "DeepBrainChain Mainnet",
+            "url": "https://blockscout.dbcscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "DeepBrainChain",
+        "symbol": "DBC",
+        "decimals": 18
+    },
+    "website": "https://www.deepbrainchain.org",
+    "icon": null
+}

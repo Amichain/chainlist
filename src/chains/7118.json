@@ -1,0 +1,16 @@
+{
+    "chainId": 7118,
+    "name": "Help The Homeless",
+    "rpc": [
+        "https://7118.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Help The Homeless Coin",
+        "symbol": "HTH",
+        "decimals": 18
+    },
+    "website": "https://hth.world",
+    "icon": null
+}

@@ -1,0 +1,21 @@
+{
+    "chainId": 12358,
+    "name": "GDPR Mainnet",
+    "rpc": [
+        "https://rpc.gdprchain.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "GDPR Mainnet Explorer (Blockscout)",
+            "url": "https://explorer.gdprchain.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "GDPR",
+        "symbol": "GDPR",
+        "decimals": 18
+    },
+    "website": "https://explorer.gdprchain.com",
+    "icon": null
+}

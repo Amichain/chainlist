@@ -1,0 +1,37 @@
+{
+    "chainId": 5611,
+    "name": "opBNB Testnet",
+    "rpc": [
+        "https://opbnb-testnet-rpc.bnbchain.org",
+        "https://opbnb-testnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
+        "https://opbnb-testnet.nodereal.io/v1/e9a36765eb8a40b9bd12e680a1fd2bc5",
+        "https://opbnb-testnet-rpc.publicnode.com",
+        "https://5611.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://opbnb-testnet.nodereal.io/ws/v1/64a9df0874fb4a93b9d0a3849de012d3",
+        "wss://opbnb-testnet.nodereal.io/ws/v1/e9a36765eb8a40b9bd12e680a1fd2bc5",
+        "wss://opbnb-testnet-rpc.publicnode.com"
+    ],
+    "explorers": [
+        {
+            "name": "bscscan-opbnb-testnet",
+            "url": "https://opbnb-testnet.bscscan.com"
+        },
+        {
+            "name": "opbnbscan",
+            "url": "https://opbnbscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BNB Chain Native Token",
+        "symbol": "tBNB",
+        "decimals": 18
+    },
+    "website": "https://opbnb.bnbchain.org/en",
+    "icon": "5611.png",
+    "testnet": true,
+    "faucets": [
+        "https://testnet.bnbchain.org/faucet-smart"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "chainId": 29536,
+    "name": "KaiChain Testnet",
+    "rpc": [
+        "https://testnet-rpc.kaichain.net",
+        "https://29536.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "KaiChain Explorer",
+            "url": "https://testnet-explorer.kaichain.net"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "KaiChain Testnet Native Token",
+        "symbol": "KEC",
+        "decimals": 18
+    },
+    "website": "https://kaichain.net",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.kaichain.net"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 918806,
+    "name": "QR0529T1TS",
+    "rpc": [
+        "https://918806.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0529t1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0529T1TS Token",
+        "symbol": "MCV",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

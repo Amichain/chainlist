@@ -1,0 +1,22 @@
+{
+    "chainId": 1311,
+    "name": "Dos Fuji Subnet",
+    "rpc": [
+        "https://test.doschain.com/jsonrpc",
+        "https://1311.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "dos-testnet",
+            "url": "https://test.doscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Dos Native Token",
+        "symbol": "DOS",
+        "decimals": 18
+    },
+    "website": "http://doschain.io/",
+    "icon": "1311.png"
+}

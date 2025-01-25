@@ -1,0 +1,22 @@
+{
+    "chainId": 3400,
+    "name": "Paribu Net Mainnet",
+    "rpc": [
+        "https://rpc.paribu.network",
+        "https://3400.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Paribu Net Explorer",
+            "url": "https://explorer.paribu.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "PRB",
+        "symbol": "PRB",
+        "decimals": 18
+    },
+    "website": "https://net.paribu.com",
+    "icon": "3400.png"
+}

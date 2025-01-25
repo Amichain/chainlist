@@ -1,0 +1,17 @@
+{
+    "chainId": 21758,
+    "name": "FST 01-16 Multi",
+    "rpc": [
+        "https://21758.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "FST 01-16 Multi Token",
+        "symbol": "RUI",
+        "decimals": 18
+    },
+    "icon": "21758.svg",
+    "testnet": true
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 3888,
+    "name": "KalyChain Mainnet",
+    "rpc": [
+        "https://rpc.kalychain.io/rpc",
+        "https://3888.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "KalyScan",
+            "url": "https://kalyscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "KalyCoin",
+        "symbol": "KLC",
+        "decimals": 18
+    },
+    "website": "https://kalychain.io",
+    "icon": null
+}

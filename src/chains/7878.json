@@ -1,0 +1,28 @@
+{
+    "chainId": 7878,
+    "name": "Hazlor Testnet",
+    "rpc": [
+        "https://hatlas.rpc.hazlor.com:8545",
+        "https://7878.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://hatlas.rpc.hazlor.com:8546"
+    ],
+    "explorers": [
+        {
+            "name": "Hazlor Testnet Explorer",
+            "url": "https://explorer.hazlor.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Hazlor Test Coin",
+        "symbol": "TSCAS",
+        "decimals": 18
+    },
+    "website": "https://hazlor.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.hazlor.com"
+    ]
+}

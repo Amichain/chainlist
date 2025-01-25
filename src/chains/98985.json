@@ -1,0 +1,32 @@
+{
+    "chainId": 98985,
+    "name": "Superposition Testnet",
+    "rpc": [
+        "https://testnet-rpc.superposition.so",
+        "https://98985.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-rpc.superposition.so/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Superposition Explorer",
+            "url": "https://testnet-explorer.superposition.so"
+        },
+        {
+            "name": "Superposition Testnet explorer",
+            "url": "https://testnet-explorer.superposition.so/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SPN",
+        "symbol": "SPN",
+        "decimals": 18
+    },
+    "website": "https://superposition.so",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.superposition.so",
+        "https://faucet.superposition.so/"
+    ]
+}

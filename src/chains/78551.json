@@ -1,0 +1,18 @@
+{
+    "chainId": 78551,
+    "name": "tasteless-chocolate-slug",
+    "rpc": [
+        "https://78551.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-tastelessc-ta48e.avax-test.network/ext/bc/5SFfGaZ3Lprm71DiTNaBqYf5rXnFiqYkwAyHRwDkARmX3qoUa/rpc?token=955864fdd0cb108190309c5179a6ec05729de4856c1425994af8ba935d685cca"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "tasteless-chocolate-slug Token",
+        "symbol": "WCJ",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sophon",
+    "ws": [
+        "wss://rpc.sophon.xyz/ws"
+    ],
+    "rpc": [
+        "https://rpc.sophon.xyz"
+    ],
+    "explorers": [
+        {
+            "name": "Sophon Block Explorer",
+            "url": "https://explorer.sophon.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sophon",
+        "symbol": "SOPH",
+        "decimals": 18
+    },
+    "website": "https://sophon.xyz/",
+    "chainId": 50104,
+    "icon": "50104.svg"
+}

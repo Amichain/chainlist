@@ -1,0 +1,31 @@
+{
+    "chainId": 42170,
+    "name": "Arbitrum Nova",
+    "rpc": [
+        "https://nova.arbitrum.io/rpc",
+        "https://arbitrum-nova-rpc.publicnode.com",
+        "https://42170.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://arbitrum-nova.publicnode.com"
+    ],
+    "ws": [
+        "wss://arbitrum-nova-rpc.publicnode.com",
+        "wss://arbitrum-nova.publicnode.com"
+    ],
+    "explorers": [
+        {
+            "name": "Arbitrum Nova Chain Explorer",
+            "url": "https://nova-explorer.arbitrum.io"
+        },
+        {
+            "name": "dexguru",
+            "url": "https://nova.dex.guru"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://arbitrum.io",
+    "icon": "42170.svg"
+}

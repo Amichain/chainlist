@@ -1,0 +1,23 @@
+{
+    "chainId": 44474237230,
+    "name": "Deriw Devnet",
+    "rpc": [
+        "https://rpc.dev.deriw.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Deriw Explorer",
+            "url": "https://explorer.dev.deriw.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Deriw",
+        "symbol": "Der",
+        "decimals": 18
+    },
+    "website": "https://deriw.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

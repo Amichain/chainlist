@@ -1,0 +1,30 @@
+{
+    "chainId": 16481,
+    "name": "Pivotal Sepolia",
+    "rpc": [
+        "https://sepolia.pivotalprotocol.com",
+        "https://16481.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://sepolia.pivotalprotocol.com/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Pivotal Scan",
+            "url": "https://sepolia.pivotalscan.xyz"
+        },
+        {
+            "name": "Pivotal Scan",
+            "url": "http://sepolia.pivotalscan.xyz/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "http://thepivotal.xyz/",
+    "icon": null,
+    "faucets": [
+        "https://console.optimism.io/faucet"
+    ]
+}

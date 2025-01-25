@@ -1,0 +1,24 @@
+{
+    "chainId": 167,
+    "name": "Atoshi Testnet",
+    "rpc": [
+        "https://node.atoshi.io/",
+        "https://167.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "atoshiscan",
+            "url": "https://scan.atoverse.info"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ATOSHI",
+        "symbol": "ATOS",
+        "decimals": 18
+    },
+    "website": "https://atoshi.org",
+    "icon": "167.png",
+    "testnet": true,
+    "faucets": []
+}

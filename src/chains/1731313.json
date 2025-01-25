@@ -1,0 +1,19 @@
+{
+    "chainId": 1731313,
+    "name": "Turkey Demo Dev",
+    "rpc": [
+        "https://devchain-poa.huabeizhenxuan.com",
+        "https://1731313.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

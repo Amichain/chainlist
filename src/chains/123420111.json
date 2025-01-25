@@ -1,0 +1,26 @@
+{
+    "chainId": 123420111,
+    "name": "OP Celestia Raspberry",
+    "rpc": [
+        "https://rpc.opcelestia-raspberry.gelato.digital",
+        "https://123420111.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://ws.opcelestia-raspberry.gelato.digital"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://opcelestia-raspberry.gelatoscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://raas.gelato.network/rollups/details/public/opcelestia-raspberry",
+    "icon": "123420111.png",
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 31338,
+    "name": "LT8 Testnet",
+    "rpc": [
+        "https://31338.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/lt8/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "LT8 Testnet Token",
+        "symbol": "LT",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

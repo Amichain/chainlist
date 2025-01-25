@@ -1,0 +1,22 @@
+{
+    "chainId": 2154,
+    "name": "Findora Forge",
+    "rpc": [
+        "https://prod-forge.prod.findora.org:8545/",
+        "https://2154.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "findorascan",
+            "url": "https://testnet-forge.evm.findorascan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "FRA",
+        "symbol": "FRA",
+        "decimals": 18
+    },
+    "website": "https://findora.org/",
+    "icon": null
+}

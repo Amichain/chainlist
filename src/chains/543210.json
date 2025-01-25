@@ -1,0 +1,27 @@
+{
+    "chainId": 543210,
+    "name": "ZERO Network",
+    "rpc": [
+        "https://rpc.zerion.io/v1/zero",
+        "https://543210.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://zero-network.calderachain.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ZERO Network Explorer",
+            "url": "https://explorer.zero.network"
+        },
+        {
+            "name": "Etherlink Testnet Explorer",
+            "url": "https://testnet.explorer.etherlink.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://docs.zero.network",
+    "icon": "543210.png"
+}

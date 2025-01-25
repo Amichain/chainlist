@@ -1,0 +1,22 @@
+{
+    "chainId": 12049,
+    "name": "memecoin-3",
+    "rpc": [
+        "https://12049.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-memecoin-3-gy4apoe5lp.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "memecoin-3 Explorer",
+            "url": "https://explorer-memecoin-3-gy4apoe5lp.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

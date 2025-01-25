@@ -1,0 +1,22 @@
+{
+    "chainId": 81041,
+    "name": "Nordek Mainnet",
+    "rpc": [
+        "https://mainnet-rpc.nordekscan.com",
+        "https://81041.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "nordek",
+            "url": "https://nordekscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "NRK",
+        "symbol": "NRK",
+        "decimals": 18
+    },
+    "website": "https://nordekscan.com",
+    "icon": null
+}

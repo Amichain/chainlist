@@ -1,0 +1,17 @@
+{
+    "chainId": 50059,
+    "name": "QI0122I1 Testnet",
+    "rpc": [
+        "https://50059.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0122I1 Testnet Token",
+        "symbol": "MPX",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,14 @@
+{
+    "chainId": 1286,
+    "name": "Moonrock old",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Rocs",
+        "symbol": "ROC",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

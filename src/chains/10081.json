@@ -1,0 +1,26 @@
+{
+    "chainId": 10081,
+    "name": "Japan Open Chain Testnet",
+    "rpc": [
+        "https://rpc-1.testnet.japanopenchain.org:8545",
+        "https://rpc-2.testnet.japanopenchain.org:8545",
+        "https://rpc-3.testnet.japanopenchain.org",
+        "https://10081.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Testnet Block Explorer",
+            "url": "https://explorer.testnet.japanopenchain.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Japan Open Chain Testnet Token",
+        "symbol": "JOCT",
+        "decimals": 18
+    },
+    "website": "https://www.japanopenchain.org/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

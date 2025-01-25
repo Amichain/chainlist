@@ -1,0 +1,17 @@
+{
+    "chainId": 79062,
+    "name": "QI0521s4t",
+    "rpc": [
+        "https://79062.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0521s4t Token",
+        "symbol": "VTV",
+        "decimals": 18
+    },
+    "icon": "79062.svg",
+    "testnet": true
+}

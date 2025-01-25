@@ -1,0 +1,27 @@
+{
+    "chainId": 63000,
+    "name": "eSync Network Mainnet",
+    "rpc": [
+        "https://rpc.esync.network",
+        "https://rpc.ecredits.com",
+        "https://63000.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "eSync Network Mainnet Explorer",
+            "url": "https://explorer.esync.network"
+        },
+        {
+            "name": "eCredits MainNet Explorer",
+            "url": "https://explorer.ecredits.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "eCredits",
+        "symbol": "ECS",
+        "decimals": 18
+    },
+    "website": "https://ecredits.com",
+    "icon": null
+}

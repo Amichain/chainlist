@@ -1,0 +1,16 @@
+{
+    "chainId": 5566,
+    "name": "StraitsX",
+    "rpc": [
+        "https://5566.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://mainnet-straitsx-y2550.avax.network/ext/bc/EJ4DyXHe4ydhsLLMiDPsHtoq5RDqgyao6Lwb9znKhs59q4NQx/rpc?token=1b1459649e0020ee44e60cb6ac025d67dc60e04c8a48875a3b581e2b8f797a6b"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "StraitsX Token",
+        "symbol": "STX",
+        "decimals": 18
+    },
+    "icon": "5566.svg"
+}

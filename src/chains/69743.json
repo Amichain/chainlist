@@ -1,0 +1,16 @@
+{
+    "chainId": 69743,
+    "name": "SCG-K",
+    "rpc": [
+        "https://69743.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/scgk/mainnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "SCG-K Token",
+        "symbol": "REC",
+        "decimals": 18
+    },
+    "icon": null
+}

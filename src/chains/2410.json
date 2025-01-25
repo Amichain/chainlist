@@ -1,0 +1,22 @@
+{
+    "chainId": 2410,
+    "name": "K2 Mainnet",
+    "rpc": [
+        "https://rpc.karak.network",
+        "https://2410.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "K2 Mainnet Explorer",
+            "url": "https://explorer.karak.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://karak.network",
+    "icon": "2410.svg"
+}

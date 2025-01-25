@@ -1,0 +1,19 @@
+{
+    "chainId": 6999,
+    "name": "PolySmartChain",
+    "rpc": [
+        "https://seed0.polysmartchain.com/",
+        "https://seed1.polysmartchain.com/",
+        "https://seed2.polysmartchain.com/",
+        "https://6999.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "PSC",
+        "symbol": "PSC",
+        "decimals": 18
+    },
+    "website": "https://www.polysmartchain.com/",
+    "icon": null
+}

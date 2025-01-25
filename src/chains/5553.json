@@ -1,0 +1,23 @@
+{
+    "chainId": 5553,
+    "name": "Nahmii 2 Testnet",
+    "rpc": [
+        "https://l2.testnet.nahmii.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.testnet.nahmii.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://nahmii.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

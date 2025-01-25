@@ -1,0 +1,21 @@
+{
+    "chainId": 30000,
+    "name": "qChain Mainnet",
+    "rpc": [
+        "https://rpc.qchain.kr"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "qChain explorer",
+            "url": "https://scan.qchain.kr"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "QCO",
+        "symbol": "QCO",
+        "decimals": 18
+    },
+    "website": "https://www.qchain.kr",
+    "icon": null
+}

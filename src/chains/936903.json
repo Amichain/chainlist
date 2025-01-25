@@ -1,0 +1,16 @@
+{
+    "chainId": 936903,
+    "name": "QR0719T1MS",
+    "rpc": [
+        "https://936903.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://mainnet-qr0719t1ms-a4edb.avax.network/ext/bc/xrbkk3pz7EJT3HXLJqZu73ijEyJx9KFhSGyC1cPnVpQtc414P/rpc?token=3bb3e9833b151e6ec53a978a861ed57092dadff0b17d5a3842010a47b1e692d9"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0719T1MS Token",
+        "symbol": "UWK",
+        "decimals": 18
+    },
+    "icon": null
+}

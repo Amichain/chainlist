@@ -1,0 +1,25 @@
+{
+    "chainId": 43288,
+    "name": "Boba Avax",
+    "rpc": [
+        "https://avax.boba.network",
+        "https://replica.avax.boba.network"
+    ],
+    "ws": [
+        "wss://wss.avax.boba.network",
+        "wss://replica-wss.avax.boba.network"
+    ],
+    "explorers": [
+        {
+            "name": "Boba Avax Explorer",
+            "url": "https://blockexplorer.avax.boba.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Boba Token",
+        "symbol": "BOBA",
+        "decimals": 18
+    },
+    "website": "https://docs.boba.network/for-developers/network-avalanche",
+    "icon": null
+}

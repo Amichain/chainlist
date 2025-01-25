@@ -1,0 +1,22 @@
+{
+    "chainId": 612,
+    "name": "EIOB Mainnet",
+    "rpc": [
+        "https://rpc.eiob.xyz",
+        "https://612.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "EIOB Explorer",
+            "url": "https://explorer.eiob.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "EIOB",
+        "symbol": "EIOB",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": "612.png"
+}

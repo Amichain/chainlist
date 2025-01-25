@@ -1,0 +1,33 @@
+{
+    "chainId": 813,
+    "name": "Qitmeer Network Mainnet",
+    "rpc": [
+        "https://evm-dataseed1.meerscan.io",
+        "https://evm-dataseed2.meerscan.io",
+        "https://evm-dataseed3.meerscan.io",
+        "https://evm-dataseed.meerscan.com",
+        "https://qng.rpc.qitmeer.io",
+        "https://mainnet.meerlabs.com",
+        "https://rpc.dimai.ai",
+        "https://rpc.woowow.io",
+        "https://813.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "meerscan",
+            "url": "https://qng.qitmeer.io"
+        },
+        {
+            "name": "meerscan",
+            "url": "https://qng.meerscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Qitmeer",
+        "symbol": "MEER",
+        "decimals": 18
+    },
+    "website": "https://github.com/Qitmeer",
+    "icon": null
+}

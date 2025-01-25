@@ -1,0 +1,22 @@
+{
+    "chainId": 1003,
+    "name": "Tectum Emission Token",
+    "rpc": [
+        "https://rpc.softnote.com/",
+        "https://1003.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Tectum explorer",
+            "url": "https://explorer.tectum.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Tectum",
+        "symbol": "TET",
+        "decimals": 8
+    },
+    "website": "https://softnote.com",
+    "icon": null
+}

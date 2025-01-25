@@ -1,0 +1,23 @@
+{
+    "chainId": 253,
+    "name": "Glide L2 Protocol XP",
+    "rpc": [
+        "https://rpc-api.glideprotocol.xyz/l2-rpc/"
+    ],
+    "ws": [
+        "wss://rpc-api.glideprotocol.xyz/l2-rpc/"
+    ],
+    "explorers": [
+        {
+            "name": "glidescan",
+            "url": "https://blockchain-explorer.glideprotocol.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Glide XP",
+        "symbol": "GLXP",
+        "decimals": 18
+    },
+    "website": "https://glideprotocol.xyz",
+    "icon": "253.png"
+}

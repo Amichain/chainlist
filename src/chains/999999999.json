@@ -1,0 +1,24 @@
+{
+    "chainId": 999999999,
+    "name": "Zora Sepolia Testnet",
+    "rpc": [
+        "https://sepolia.rpc.zora.energy",
+        "https://999999999.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Zora Sepolia Testnet Network Explorer",
+            "url": "https://sepolia.explorer.zora.energy"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://zora.energy",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

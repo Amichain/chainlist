@@ -1,0 +1,17 @@
+{
+    "chainId": 1612,
+    "name": "Pearling Path",
+    "rpc": [
+        "https://1612.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-pearl-c612f.avax-test.network/ext/bc/CcXVATAg76vM849mrPoTigwp48qhFiN9WCa51DBQXNGkBKZw7/rpc?token=3296aa3e491dd5d366815601cc95be7275cd293486b09fe082619750d7b38587"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Pearling Path Token",
+        "symbol": "pearl",
+        "decimals": 18
+    },
+    "icon": "1612.svg",
+    "testnet": true
+}

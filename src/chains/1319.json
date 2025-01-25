@@ -1,0 +1,25 @@
+{
+    "chainId": 1319,
+    "name": "AIA Mainnet",
+    "rpc": [
+        "https://aia-dataseed1.aiachain.org",
+        "https://aia-dataseed2.aiachain.org",
+        "https://aia-dataseed3.aiachain.org",
+        "https://aia-dataseed4.aiachain.org",
+        "https://1319.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "AIA Chain Explorer Mainnet",
+            "url": "https://aiascan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "AIA Mainnet",
+        "symbol": "AIA",
+        "decimals": 18
+    },
+    "website": "https://aiachain.org/",
+    "icon": "1319.png"
+}

@@ -1,0 +1,24 @@
+{
+    "chainId": 1227,
+    "name": "Bitcoin Protocol Testnet",
+    "rpc": [
+        "https://testnet-chain.btcprotocol.io/",
+        "https://1227.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "BTCP explorer",
+            "url": "https://explorer.btcprotocol.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BTC Protocol",
+        "symbol": "BTCP",
+        "decimals": 18
+    },
+    "website": "https://btcprotocol.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 99181,
+    "name": "QaUser9727 Testnet",
+    "rpc": [
+        "https://99181.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser9727 Testnet Token",
+        "symbol": "PCE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,24 @@
+{
+    "chainId": 356256156,
+    "name": "Gather Testnet Network",
+    "rpc": [
+        "https://testnet.gather.network",
+        "https://356256156.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://testnet-explorer.gather.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Gather",
+        "symbol": "GTH",
+        "decimals": 18
+    },
+    "website": "https://gather.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

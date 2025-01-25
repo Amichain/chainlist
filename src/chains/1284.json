@@ -1,0 +1,36 @@
+{
+    "chainId": 1284,
+    "name": "Moonbeam",
+    "rpc": [
+        "https://rpc.api.moonbeam.network",
+        "https://moonbeam.public.blastapi.io",
+        "https://moonbeam-rpc.dwellir.com",
+        "https://moonbeam.api.onfinality.io/public",
+        "https://moonbeam.unitedbloc.com",
+        "https://moonbeam-rpc.publicnode.com",
+        "https://moonbeam.drpc.org",
+        "https://1284.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://wss.api.moonbeam.network",
+        "wss://moonbeam.public.blastapi.io",
+        "wss://moonbeam-rpc.dwellir.com",
+        "wss://moonbeam.api.onfinality.io/public-ws",
+        "wss://moonbeam.unitedbloc.com",
+        "wss://moonbeam-rpc.publicnode.com",
+        "wss://moonbeam.drpc.org"
+    ],
+    "explorers": [
+        {
+            "name": "moonscan",
+            "url": "https://moonbeam.moonscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Glimmer",
+        "symbol": "GLMR",
+        "decimals": 18
+    },
+    "website": "https://moonbeam.network/networks/moonbeam/",
+    "icon": "1284.svg"
+}

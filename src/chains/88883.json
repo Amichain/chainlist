@@ -1,0 +1,17 @@
+{
+    "chainId": 88883,
+    "name": "Proj Orc Testnet Alpha",
+    "rpc": [
+        "https://88883.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/projorctes/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Proj Orc Testnet Alpha Token",
+        "symbol": "STX",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

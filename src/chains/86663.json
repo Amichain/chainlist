@@ -1,0 +1,17 @@
+{
+    "chainId": 86663,
+    "name": "QaUser7218 Testnet",
+    "rpc": [
+        "https://86663.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser7218 Testnet Token",
+        "symbol": "GCY",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

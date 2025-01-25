@@ -1,0 +1,24 @@
+{
+    "chainId": 4777,
+    "name": "BlackFort Exchange Network Testnet",
+    "rpc": [
+        "https://testnet.blackfort.network/rpc",
+        "https://4777.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://testnet-explorer.blackfort.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BlackFort Testnet Token",
+        "symbol": "TBXN",
+        "decimals": 18
+    },
+    "website": "https://blackfort.exchange",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

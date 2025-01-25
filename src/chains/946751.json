@@ -1,0 +1,17 @@
+{
+    "chainId": 946751,
+    "name": "QR0214Y1P",
+    "rpc": [
+        "https://946751.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0214y1p/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0214Y1P Token",
+        "symbol": "QAT",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

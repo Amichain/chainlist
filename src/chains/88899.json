@@ -1,0 +1,21 @@
+{
+    "chainId": 88899,
+    "name": "Unite",
+    "rpc": [
+        "https://unite-mainnet.g.alchemy.com/public"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Unite Explorer",
+            "url": "https://unite-mainnet.explorer.alchemy.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Unite",
+        "symbol": "UNITE",
+        "decimals": 18
+    },
+    "website": "https://unite.io",
+    "icon": null
+}

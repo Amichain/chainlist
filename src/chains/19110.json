@@ -1,0 +1,17 @@
+{
+    "chainId": 19110,
+    "name": "QI0521s3t",
+    "rpc": [
+        "https://19110.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0521s3t Token",
+        "symbol": "VTV",
+        "decimals": 18
+    },
+    "icon": "19110.svg",
+    "testnet": true
+}

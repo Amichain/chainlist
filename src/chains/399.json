@@ -1,0 +1,24 @@
+{
+    "chainId": 399,
+    "name": "Nativ3 Mainnet",
+    "rpc": [
+        "https://rpc.nativ3.network",
+        "https://399.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://ws.nativ3.network"
+    ],
+    "explorers": [
+        {
+            "name": "N3scan",
+            "url": "https://scan.nativ3.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "USNT",
+        "symbol": "USNT",
+        "decimals": 18
+    },
+    "website": "https://nativ3.network",
+    "icon": "399.png"
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 894538,
+    "name": "thirdweb test subnet",
+    "rpc": [
+        "https://894538.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/thirdweb/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "explorer",
+            "url": "https://subnets-test.avax.network/thirdweb"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "TWT",
+        "symbol": "TWT",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

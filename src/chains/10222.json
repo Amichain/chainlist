@@ -1,0 +1,22 @@
+{
+    "chainId": 10222,
+    "name": "GLScan",
+    "rpc": [
+        "https://glc-dataseed.glscan.io/",
+        "https://10222.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "GLScan Explorer",
+            "url": "https://glscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "GLC",
+        "symbol": "GLC",
+        "decimals": 18
+    },
+    "website": "https://glscan.io/",
+    "icon": null
+}

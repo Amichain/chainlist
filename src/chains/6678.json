@@ -1,0 +1,22 @@
+{
+    "chainId": 6678,
+    "name": "Edge Matrix Chain",
+    "rpc": [
+        "https://rpc1-mainnet.emc.network",
+        "https://6678.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://emcscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "EdgaMatrix Chain Token",
+        "symbol": "EMC",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

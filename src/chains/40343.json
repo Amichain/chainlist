@@ -1,0 +1,22 @@
+{
+    "chainId": 40343,
+    "name": "Unite L3 Alpha Testnet",
+    "rpc": [
+        "https://40343.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://api-testnet.unitescan.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "UNITE Alpha Testnet Explorer",
+            "url": "https://testnet.unitescan.io/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "UNITE",
+        "symbol": "UNITE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

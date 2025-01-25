@@ -1,0 +1,17 @@
+{
+    "chainId": 87566,
+    "name": "Eun Kyu's",
+    "rpc": [
+        "https://87566.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-eunkyu-w0354.avax-test.network/ext/bc/2EWNDiAUH6WLaJ4zbbjzqRgJjAqygtwPh6zKTsNRK7DaSCEn9e/rpc?token=737d2a8644ac84c1f04ff511430c2b1e1ac5924b803776f93ad665289df5a7c3"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Eun Kyu's Token",
+        "symbol": "EKY",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

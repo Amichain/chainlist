@@ -1,0 +1,17 @@
+{
+    "chainId": 38168,
+    "name": "QR0531S1T",
+    "rpc": [
+        "https://38168.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0531s1t/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0531S1T Token",
+        "symbol": "GKN",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

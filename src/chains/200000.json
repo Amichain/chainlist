@@ -1,0 +1,21 @@
+{
+    "chainId": 200000,
+    "name": "xFair.AI Testnet",
+    "rpc": [
+        "https://rpc_testnet.xfair.ai",
+        "https://200000.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://rpc_testnet.xfair.ai"
+    ],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "FAI",
+        "symbol": "FAI",
+        "decimals": 18
+    },
+    "website": "https://xfair.ai",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

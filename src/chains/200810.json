@@ -1,0 +1,31 @@
+{
+    "chainId": 200810,
+    "name": "Bitlayer Testnet",
+    "rpc": [
+        "https://testnet-rpc.bitlayer.org",
+        "https://testnet-rpc.bitlayer-rpc.com",
+        "https://rpc.ankr.com/bitlayer_testnet",
+        "https://200810.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://testnet-ws.bitlayer.org",
+        "wss://testnet-ws.bitlayer-rpc.com"
+    ],
+    "explorers": [
+        {
+            "name": "bitlayer testnet scan",
+            "url": "https://testnet.btrscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BTC",
+        "symbol": "BTC",
+        "decimals": 18
+    },
+    "website": "https://docs.bitlayer.org/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://www.bitlayer.org/faucet"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "chainId": 2426,
+    "name": "Standard Testnet",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Standard",
+        "symbol": "STND",
+        "decimals": 18
+    },
+    "website": "https://standardweb3.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

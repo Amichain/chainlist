@@ -1,0 +1,17 @@
+{
+    "chainId": 970066,
+    "name": "QR0522T1TS",
+    "rpc": [
+        "https://970066.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0522t1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0522T1TS Token",
+        "symbol": "BUL",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

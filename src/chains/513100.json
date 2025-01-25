@@ -1,0 +1,22 @@
+{
+    "chainId": 513100,
+    "name": "DisChain",
+    "rpc": [
+        "https://rpc.dischain.xyz",
+        "https://513100.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "DisChain",
+            "url": "https://www.oklink.com/dis"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "DisChain",
+        "symbol": "DIS",
+        "decimals": 18
+    },
+    "website": "https://dischain.xyz",
+    "icon": null
+}

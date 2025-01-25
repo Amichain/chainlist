@@ -1,0 +1,17 @@
+{
+    "chainId": 93694,
+    "name": "QI M 2401291",
+    "rpc": [
+        "https://93694.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/f14d837e-de8f-446d-8222-0077f26e6694"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI M 2401291 Token",
+        "symbol": "HZU",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

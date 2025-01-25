@@ -1,0 +1,24 @@
+{
+    "chainId": 104,
+    "name": "Kaiba Lightning Chain Testnet",
+    "rpc": [
+        "https://klc.live/",
+        "https://104.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "kaibascan",
+            "url": "https://kaibascan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Kaiba Testnet Token",
+        "symbol": "tKAIBA",
+        "decimals": 18
+    },
+    "website": "https://kaibadefi.com",
+    "icon": "104.png",
+    "testnet": true,
+    "faucets": []
+}

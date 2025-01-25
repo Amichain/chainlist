@@ -1,0 +1,25 @@
+{
+    "chainId": 1570754601,
+    "name": "Haust Testnet",
+    "rpc": [
+        "https://rpc-test.haust.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://haust-testnet-blockscout.eu-north-2.gateway.fm"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "HAUST",
+        "symbol": "HAUST",
+        "decimals": 18
+    },
+    "website": "https://haust.network/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://haust-testnet-faucet.eu-north-2.gateway.fm"
+    ]
+}

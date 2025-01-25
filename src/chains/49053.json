@@ -1,0 +1,17 @@
+{
+    "chainId": 49053,
+    "name": "QaUser5759 Testnet",
+    "rpc": [
+        "https://49053.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser5759 Testnet Token",
+        "symbol": "ATZ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

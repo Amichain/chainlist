@@ -1,0 +1,22 @@
+{
+    "chainId": 6322,
+    "name": "Aura Mainnet",
+    "rpc": [
+        "https://jsonrpc.aura.network",
+        "https://6322.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Aurascan Explorer",
+            "url": "https://aurascan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Aura",
+        "symbol": "AURA",
+        "decimals": 18
+    },
+    "website": "https://aura.network",
+    "icon": null
+}

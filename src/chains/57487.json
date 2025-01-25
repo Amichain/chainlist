@@ -1,0 +1,17 @@
+{
+    "chainId": 57487,
+    "name": "PTNEWLO",
+    "rpc": [
+        "https://57487.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/ptnewlo/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "PTNEWLO Token",
+        "symbol": "PTNL",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 76950,
+    "name": "QI1204I2",
+    "rpc": [
+        "https://76950.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-test.io/ba4e7766-4bc6-44ec-b43f-598647b4ee71"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI1204I2 Token",
+        "symbol": "BHOX",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

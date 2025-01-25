@@ -1,0 +1,16 @@
+{
+    "chainId": 660868,
+    "name": "Ocash testnet",
+    "rpc": [
+        "https://660868.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "OCASH",
+        "symbol": "OCASH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

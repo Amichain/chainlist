@@ -1,0 +1,23 @@
+{
+    "chainId": 85321,
+    "name": "GDPR Testnet",
+    "rpc": [
+        "https://rpc.testnet.gdprchain.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "GDPR Testnet Explorer (Blockscout)",
+            "url": "https://explorer.testnet.gdprchain.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "GDPR",
+        "symbol": "GDPR",
+        "decimals": 18
+    },
+    "website": "https://explorer.testnet.gdprchain.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

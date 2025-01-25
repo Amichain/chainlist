@@ -1,0 +1,26 @@
+{
+    "chainId": 77238,
+    "name": "Foundry Chain Testnet",
+    "rpc": [
+        "https://testnet-rpc.foundryscan.org/",
+        "https://77238.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Foundry Scan Testnet",
+            "url": "https://testnet-explorer.foundryscan.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Foundry Chain Testnet",
+        "symbol": "tFNC",
+        "decimals": 18
+    },
+    "website": "https://foundrychain.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.foundryscan.org"
+    ]
+}

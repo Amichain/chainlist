@@ -1,0 +1,17 @@
+{
+    "chainId": 20519,
+    "name": "QaUser4113 Testnet",
+    "rpc": [
+        "https://20519.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser4113 Testnet Token",
+        "symbol": "FYP",
+        "decimals": 18
+    },
+    "icon": "20519.svg",
+    "testnet": true
+}

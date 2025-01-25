@@ -1,0 +1,27 @@
+{
+    "chainId": 7957,
+    "name": "Exorium Testnet",
+    "rpc": [
+        "https://rpc-1-testnet.exorium.net",
+        "https://rpc-2-testnet.exorium.net",
+        "https://rpc-testnet.exoscan.net/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "EXORIUM Testnet Explorer",
+            "url": "https://testnet.exoscan.net"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "EXOR",
+        "symbol": "tEXOR",
+        "decimals": 18
+    },
+    "website": "https://exorium.net",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet-testnet.exorium.net"
+    ]
+}

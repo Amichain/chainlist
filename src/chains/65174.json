@@ -1,0 +1,17 @@
+{
+    "chainId": 65174,
+    "name": "QaUser9821 Testnet",
+    "rpc": [
+        "https://65174.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser9821 Testnet Token",
+        "symbol": "HKL",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,26 @@
+{
+    "chainId": 622277,
+    "name": "Hypra Mainnet",
+    "rpc": [
+        "https://rpc.hypra.network",
+        "https://rpc.rethereum.org",
+        "https://rethereum.rpc.restratagem.com",
+        "https://rpc.rthcentral.org",
+        "https://hypra.rpc.thirdweb.com",
+        "https://622277.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "hypra",
+            "url": "https://explorer.hypra.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Hypra",
+        "symbol": "HYP",
+        "decimals": 18
+    },
+    "website": "https://www.hypra.network",
+    "icon": null
+}

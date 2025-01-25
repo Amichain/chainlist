@@ -1,0 +1,24 @@
+{
+    "chainId": 371,
+    "name": "Consta Testnet",
+    "rpc": [
+        "https://rpc-testnet.theconsta.com",
+        "https://371.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer-testnet.theconsta.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "tCNT",
+        "symbol": "tCNT",
+        "decimals": 18
+    },
+    "website": "http://theconsta.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

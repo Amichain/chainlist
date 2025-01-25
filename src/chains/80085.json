@@ -1,0 +1,26 @@
+{
+    "chainId": 80085,
+    "name": "Berachain Artio",
+    "rpc": [
+        "https://artio.rpc.berachain.com",
+        "https://rpc.ankr.com/berachain_testnet",
+        "https://80085.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Beratrail",
+            "url": "https://artio.beratrail.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BERA Token",
+        "symbol": "BERA",
+        "decimals": 18
+    },
+    "website": "https://www.berachain.com",
+    "icon": null,
+    "faucets": [
+        "https://artio.faucet.berachain.com"
+    ]
+}

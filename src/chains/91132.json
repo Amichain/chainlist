@@ -1,0 +1,17 @@
+{
+    "chainId": 91132,
+    "name": "New Will's Testnet",
+    "rpc": [
+        "https://91132.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "New Will's Testnet Token",
+        "symbol": "MBM",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

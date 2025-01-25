@@ -1,0 +1,21 @@
+{
+    "chainId": 97055,
+    "name": "Tetron Smart Chain",
+    "rpc": [
+        "https://rpc.tscscan.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Tetron Smart ChainExplorer",
+            "url": "https://tscscan.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Tetron Mainnet",
+        "symbol": "TSC",
+        "decimals": 18
+    },
+    "website": "https://tetronchain.com/",
+    "icon": null
+}

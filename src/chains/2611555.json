@@ -1,0 +1,17 @@
+{
+    "chainId": 2611555,
+    "name": "DPU Chain",
+    "rpc": [
+        "https://sc-rpc.dpu.ac.th",
+        "https://2611555.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "DGC",
+        "symbol": "DGC",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

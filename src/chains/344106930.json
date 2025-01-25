@@ -1,0 +1,25 @@
+{
+    "chainId": 344106930,
+    "name": "Deprecated SKALE Calypso Hub Testnet",
+    "rpc": [
+        "https://staging-v3.skalenodes.com/v1/staging-utter-unripe-menkar"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://staging-utter-unripe-menkar.explorer.staging-v3.skalenodes.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+    },
+    "website": "https://calypsohub.network/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://sfuel.dirtroad.dev/staging"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 21825,
+    "name": "QaUser6991",
+    "rpc": [
+        "https://21825.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser6991 Token",
+        "symbol": "HIO",
+        "decimals": 18
+    },
+    "icon": "21825.svg",
+    "testnet": true
+}

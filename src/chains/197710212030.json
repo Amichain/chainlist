@@ -1,0 +1,26 @@
+{
+    "chainId": 197710212030,
+    "name": "Ntity Mainnet",
+    "rpc": [
+        "https://rpc.ntity.io",
+        "https://197710212030.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Ntity Explorer",
+            "url": "https://explorer.ntity.io"
+        },
+        {
+            "name": "Ntity Blockscout",
+            "url": "https://blockscout.ntity.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ntity",
+        "symbol": "NTT",
+        "decimals": 18
+    },
+    "website": "https://ntity.io",
+    "icon": null
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 6966,
+    "name": "Rivalz2",
+    "rpc": [
+        "https://6966.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rivalz2.rpc.caldera.xyz/infra-partner-http"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Rivalz2 explorer",
+            "url": "https://rivalz2.explorer.caldera.xyz/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": "6966.svg",
+    "testnet": true
+}

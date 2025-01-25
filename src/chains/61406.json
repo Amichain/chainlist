@@ -1,0 +1,22 @@
+{
+    "chainId": 61406,
+    "name": "KaiChain",
+    "rpc": [
+        "https://mainnet-rpc.kaichain.net",
+        "https://61406.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "KaiChain Explorer",
+            "url": "https://explorer.kaichain.net"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "KaiChain Native Token",
+        "symbol": "KEC",
+        "decimals": 18
+    },
+    "website": "https://kaichain.net",
+    "icon": "61406.png"
+}

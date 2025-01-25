@@ -1,0 +1,21 @@
+{
+    "chainId": 1313161567,
+    "name": "Turbo",
+    "rpc": [
+        "https://rpc-0x4e45415f.aurora-cloud.dev"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Turbo explorer",
+            "url": "https://explorer.turbo.aurora.dev"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Turbo",
+        "symbol": "TURBO",
+        "decimals": 18
+    },
+    "website": "https://turbotoken.io",
+    "icon": null
+}

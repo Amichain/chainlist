@@ -1,0 +1,26 @@
+{
+    "chainId": 1908,
+    "name": "Bitcichain Testnet",
+    "rpc": [
+        "https://testnet.bitcichain.com",
+        "https://1908.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Bitci Explorer Testnet",
+            "url": "https://testnet.bitciexplorer.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Test Bitci",
+        "symbol": "TBITCI",
+        "decimals": 18
+    },
+    "website": "https://www.bitcichain.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.bitcichain.com"
+    ]
+}

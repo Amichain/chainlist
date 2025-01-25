@@ -1,0 +1,21 @@
+{
+    "chainId": 193939,
+    "name": "R0AR Chain",
+    "rpc": [
+        "https://rpc-r0ar.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "tracehawk",
+            "url": "https://r0arscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://r0arscan.io",
+    "icon": null
+}

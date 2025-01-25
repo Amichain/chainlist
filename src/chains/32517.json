@@ -1,0 +1,17 @@
+{
+    "chainId": 32517,
+    "name": "QaUser4536 Testnet",
+    "rpc": [
+        "https://32517.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser4536 Testnet Token",
+        "symbol": "ZKJ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

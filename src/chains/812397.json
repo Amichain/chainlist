@@ -1,0 +1,21 @@
+{
+    "chainId": 812397,
+    "name": "SG Verse Mainnet",
+    "rpc": [
+        "https://rpc.sgverse.net/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "SG Verse Explorer",
+            "url": "https://explorer.sgverse.net"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "OAS",
+        "symbol": "OAS",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

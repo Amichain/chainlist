@@ -1,0 +1,17 @@
+{
+    "chainId": 63367,
+    "name": "ReSFT 1-16-24",
+    "rpc": [
+        "https://63367.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "ReSFT 1-16-24 Token",
+        "symbol": "ZAF",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

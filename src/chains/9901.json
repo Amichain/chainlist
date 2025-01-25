@@ -1,0 +1,27 @@
+{
+    "chainId": 9901,
+    "name": "Zytron Linea Mainnet",
+    "rpc": [
+        "https://rpc.zypher.network/",
+        "https://9901.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://linea-mainnet-zytron.zypher.game/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.zypher.network"
+        },
+        {
+            "name": "Blockscout",
+            "url": "https://linea-mainnet-zytron-blockscout.zypher.game/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://zytron.zypher.network/",
+    "icon": null
+}

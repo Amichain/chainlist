@@ -1,0 +1,26 @@
+{
+    "chainId": 4090,
+    "name": "Fastex Chain (Bahamut) Oasis Testnet",
+    "rpc": [
+        "https://rpc1.oasis.bahamutchain.com",
+        "https://4090.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://oasis.ftnscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "FTN",
+        "symbol": "FTN",
+        "decimals": 18
+    },
+    "website": "https://fastexchain.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.oasis.fastexchain.com"
+    ]
+}

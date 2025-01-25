@@ -1,0 +1,17 @@
+{
+    "chainId": 82552,
+    "name": "QI0209I2",
+    "rpc": [
+        "https://82552.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0209I2 Token",
+        "symbol": "BLOX",
+        "decimals": 18
+    },
+    "icon": "82552.svg",
+    "testnet": true
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 715131,
+    "name": "Zether Mainnet",
+    "rpc": [
+        "https://rpc.zether.org",
+        "https://rpc.zthscan.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "zthscan",
+            "url": "https://zthscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Zether",
+        "symbol": "ZTH",
+        "decimals": 18
+    },
+    "website": "https://zether.org",
+    "icon": "715131.png"
+}

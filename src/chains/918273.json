@@ -1,0 +1,16 @@
+{
+    "chainId": 918273,
+    "name": "Owshen Mainnet",
+    "rpc": [
+        "https://rpc.owshen.io"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "DIVE",
+        "symbol": "DIVE",
+        "decimals": 18
+    },
+    "website": "https://owshen.io",
+    "icon": null
+}

@@ -1,0 +1,16 @@
+{
+    "chainId": 929038,
+    "name": "QR0215Y1MP",
+    "rpc": [
+        "https://929038.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0215y1mp/mainnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0215Y1MP Token",
+        "symbol": "QAT",
+        "decimals": 18
+    },
+    "icon": null
+}

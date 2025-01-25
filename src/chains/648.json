@@ -1,0 +1,22 @@
+{
+    "chainId": 648,
+    "name": "Endurance Smart Chain Mainnet",
+    "rpc": [
+        "https://rpc-endurance.fusionist.io/",
+        "https://648.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Endurance Scan",
+            "url": "https://explorer.endurance.fusionist.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Endurance Chain Native Token",
+        "symbol": "ACE",
+        "decimals": 18
+    },
+    "website": "https://ace.fusionist.io/",
+    "icon": "648.svg"
+}

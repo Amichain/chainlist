@@ -1,0 +1,17 @@
+{
+    "chainId": 61205,
+    "name": "QaUser6116 Testnet",
+    "rpc": [
+        "https://61205.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser6116 Testnet Token",
+        "symbol": "YLJ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,24 @@
+{
+    "chainId": 26,
+    "name": "Genesis L1 testnet",
+    "rpc": [
+        "https://testrpc.genesisl1.org",
+        "https://26.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Genesis L1 testnet explorer",
+            "url": "https://testnet.genesisl1.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "L1 testcoin",
+        "symbol": "L1test",
+        "decimals": 18
+    },
+    "website": "https://www.genesisl1.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

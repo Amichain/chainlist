@@ -1,0 +1,17 @@
+{
+    "chainId": 32366,
+    "name": "QaUser4578 Testnet",
+    "rpc": [
+        "https://32366.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser4578 Testnet Token",
+        "symbol": "EXP",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

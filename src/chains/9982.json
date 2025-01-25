@@ -1,0 +1,21 @@
+{
+    "chainId": 9982,
+    "name": "MFEV CHAIN MAINNET",
+    "rpc": [
+        "https://rpc.mfevscan.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "MFEV CHAIN",
+            "url": "https://mfevscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "MFEV",
+        "symbol": "MFEV",
+        "decimals": 18
+    },
+    "website": "https://mfevscan.com",
+    "icon": null
+}

@@ -1,0 +1,31 @@
+{
+    "chainId": 84532,
+    "name": "Base Sepolia Testnet",
+    "rpc": [
+        "https://sepolia.base.org",
+        "https://base-sepolia-rpc.publicnode.com",
+        "https://84532.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://base-sepolia-rpc.publicnode.com"
+    ],
+    "explorers": [
+        {
+            "name": "basescan-sepolia",
+            "url": "https://sepolia.basescan.org"
+        },
+        {
+            "name": "basescout",
+            "url": "https://base-sepolia.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://base.org",
+    "icon": "84532.png",
+    "testnet": true,
+    "faucets": []
+}

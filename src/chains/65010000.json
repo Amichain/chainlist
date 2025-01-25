@@ -1,0 +1,23 @@
+{
+    "chainId": 65010000,
+    "name": "Autonity Bakerloo (Thames) Testnet",
+    "rpc": [],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "autonity-blockscout",
+            "url": "https://bakerloo.autonity.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Bakerloo Auton",
+        "symbol": "ATN",
+        "decimals": 18
+    },
+    "website": "https://autonity.org/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.autonity.org/"
+    ]
+}

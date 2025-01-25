@@ -1,0 +1,14 @@
+{
+    "chainId": 2741,
+    "name": "Abstract",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://abs.xyz",
+    "icon": null
+}

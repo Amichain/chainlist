@@ -1,0 +1,23 @@
+{
+    "chainId": 52225,
+    "name": "Cytonic Testnet",
+    "rpc": [
+        "http://rpc.sl.testnet.cytonic.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.sl.testnet.cytonic.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Cytonic",
+        "symbol": "CCC",
+        "decimals": 18
+    },
+    "website": "https://cytonic.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

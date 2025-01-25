@@ -1,0 +1,25 @@
+{
+    "chainId": 2888,
+    "name": "Boba Network Goerli Testnet",
+    "rpc": [
+        "https://goerli.boba.network/"
+    ],
+    "ws": [
+        "wss://wss.goerli.boba.network/"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://testnet.bobascan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Goerli Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://boba.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

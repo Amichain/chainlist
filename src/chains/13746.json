@@ -1,0 +1,25 @@
+{
+    "chainId": 13746,
+    "name": "Game7 Testnet",
+    "rpc": [
+        "https://testnet-rpc.game7.io"
+    ],
+    "ws": [
+        "wss://testnet-rpc.game7.io"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://testnet.game7.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "TG7T",
+        "symbol": "TG7T",
+        "decimals": 18
+    },
+    "website": "https://game7.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

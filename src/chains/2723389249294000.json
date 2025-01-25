@@ -1,0 +1,22 @@
+{
+    "chainId": 2723389249294000,
+    "name": "wrldchngrs",
+    "rpc": [
+        "https://2723389249294000.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://wrldchngrs-2723389249294000-1.jsonrpc.sagarpc.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "wrldchngrs explorer",
+            "url": "https://wrldchngrs-2723389249294000-1.sagaexplorer.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CAPE",
+        "symbol": "CAPE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

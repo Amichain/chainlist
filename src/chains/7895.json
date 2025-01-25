@@ -1,0 +1,25 @@
+{
+    "chainId": 7895,
+    "name": "ARDENIUM Athena",
+    "rpc": [
+        "https://rpc-athena.ardescan.com/",
+        "https://7895.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ARDENIUM Athena Explorer",
+            "url": "https://testnet.ardscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ARD",
+        "symbol": "tARD",
+        "decimals": 18
+    },
+    "website": "https://ardenium.org",
+    "icon": null,
+    "faucets": [
+        "https://faucet-athena.ardescan.com/"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 62454,
+    "name": "QR0708T1TS",
+    "rpc": [
+        "https://62454.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qr0708t1ts-x17f8.avax-test.network/ext/bc/7xh1BHRDzwVvbo7hnEyxiJcRr8XGvae4E9CYTreCv8xEj4keX/rpc?token=069106c959a59e709a8d93f1170654928f2216e08d07e2f1041ce1993c564f91"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0708T1TS Token",
+        "symbol": "AFH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

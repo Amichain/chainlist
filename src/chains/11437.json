@@ -1,0 +1,23 @@
+{
+    "chainId": 11437,
+    "name": "Shyft Testnet",
+    "rpc": [
+        "https://11437.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Shyft Testnet BX",
+            "url": "https://bx.testnet.shyft.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Shyft Test Token",
+        "symbol": "SHYFTT",
+        "decimals": 18
+    },
+    "website": "https://shyft.network",
+    "icon": "11437.png",
+    "testnet": true,
+    "faucets": []
+}

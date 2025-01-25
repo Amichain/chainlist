@@ -1,0 +1,26 @@
+{
+    "chainId": 98864,
+    "name": "Plume Devnet",
+    "rpc": [
+        "https://test-rpc.plumenetwork.xyz",
+        "https://98864.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://test-rpc.plumenetwork.xyz"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://test-explorer.plumenetwork.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://thirdweb.com/98864",
+    "icon": "98864.png",
+    "testnet": true,
+    "faucets": []
+}

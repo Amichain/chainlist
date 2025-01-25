@@ -1,0 +1,21 @@
+{
+    "chainId": 2477,
+    "name": "6Degree of Outreach",
+    "rpc": [
+        "https://rpc.6do.world"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "6Degree Chain Explorer",
+            "url": "https://explorer.6do.world"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "6Degree Coin",
+        "symbol": "6DO",
+        "decimals": 18
+    },
+    "website": "https://6do.world",
+    "icon": null
+}

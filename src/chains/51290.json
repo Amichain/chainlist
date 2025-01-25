@@ -1,0 +1,17 @@
+{
+    "chainId": 51290,
+    "name": "Test Using Resources",
+    "rpc": [
+        "https://51290.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/testsize2/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Test Using Resources Token",
+        "symbol": "JMH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

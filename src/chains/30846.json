@@ -1,0 +1,23 @@
+{
+    "chainId": 30846,
+    "name": "apps-test",
+    "rpc": [
+        "https://30846.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-apps-test-881il6sw1a.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "apps-test Explorer",
+            "url": "https://explorer-apps-test-881il6sw1a.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://thirdweb.com/30846",
+    "icon": null,
+    "testnet": true
+}

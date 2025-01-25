@@ -1,0 +1,22 @@
+{
+    "chainId": 4444,
+    "name": "Htmlcoin Mainnet",
+    "rpc": [
+        "https://janus.htmlcoin.com/api/",
+        "https://4444.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "htmlcoin",
+            "url": "https://explorer.htmlcoin.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Htmlcoin",
+        "symbol": "HTML",
+        "decimals": 8
+    },
+    "website": "https://htmlcoin.com",
+    "icon": null
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 10101010,
+    "name": "Soverun Mainnet",
+    "rpc": [
+        "https://mainnet-rpc.soverun.com",
+        "https://10101010.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Soverun",
+            "url": "https://explorer.soverun.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Soverun",
+        "symbol": "SVRN",
+        "decimals": 18
+    },
+    "website": "https://soverun.com",
+    "icon": null
+}

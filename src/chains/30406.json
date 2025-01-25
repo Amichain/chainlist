@@ -1,0 +1,17 @@
+{
+    "chainId": 30406,
+    "name": "MUGEN Testnet",
+    "rpc": [
+        "https://30406.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/mugen/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "MUGEN Testnet Token",
+        "symbol": "MGN",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

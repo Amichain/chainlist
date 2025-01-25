@@ -1,0 +1,17 @@
+{
+    "chainId": 234560,
+    "name": "Project Orc",
+    "rpc": [
+        "https://234560.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/projectorc/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Project Orc Token",
+        "symbol": "STX",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

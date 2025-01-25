@@ -1,0 +1,17 @@
+{
+    "chainId": 98540,
+    "name": "QI1212I5",
+    "rpc": [
+        "https://98540.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-test.io/ba4e7766-4bc6-44ec-b43f-598647b4ee71"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI1212I5 Token",
+        "symbol": "HSCX",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

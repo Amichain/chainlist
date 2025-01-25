@@ -1,0 +1,22 @@
+{
+    "chainId": 88559,
+    "name": "InoAi",
+    "rpc": [
+        "https://inoai-network.com",
+        "https://88559.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "inoai.live",
+            "url": "https://inoai.live"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "InoAi",
+        "symbol": "INO",
+        "decimals": 18
+    },
+    "website": "https://docs.inoai.info/",
+    "icon": "88559.png"
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 64947,
+    "name": "QR0604S1T",
+    "rpc": [
+        "https://64947.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0604s1t/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0604S1T Token",
+        "symbol": "GKN",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

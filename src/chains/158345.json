@@ -1,0 +1,21 @@
+{
+    "chainId": 158345,
+    "name": "XCOIN",
+    "rpc": [
+        "https://rpc-xcoin.cryptoxnetwork.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "CryptoX explorer",
+            "url": "https://cryptoxscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "XCOIN",
+        "symbol": "XCOIN",
+        "decimals": 18
+    },
+    "website": "https://cryptoxnetwork.io",
+    "icon": null
+}

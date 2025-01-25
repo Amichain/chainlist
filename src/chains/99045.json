@@ -1,0 +1,18 @@
+{
+    "chainId": 99045,
+    "name": "QIE2409301",
+    "rpc": [
+        "https://99045.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qie2409301-f92df.avax-test.network/ext/bc/2mjhs5XdwgL7VdQYHUsbPFT4BjjweNkjDEjzP3Dr87nAESxLnC/rpc?token=61bf01fcf477f2bff37ae0af392e21513b1762571677b90a351790dc67be3818"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QIE2409301 Token",
+        "symbol": "QIE",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

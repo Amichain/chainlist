@@ -1,0 +1,26 @@
+{
+    "chainId": 1927,
+    "name": "Arvix Testnet",
+    "rpc": [
+        "https://rpc-testnet-market.arvix.network",
+        "https://rpc-dev-testnet.arvix.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Arvix Explorer Testnet",
+            "url": "https://testnet.arvixscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Arvix Testnet Native Token",
+        "symbol": "tARV",
+        "decimals": 18
+    },
+    "website": "https://arvix.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://claim-faucet.arvix.network"
+    ]
+}

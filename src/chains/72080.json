@@ -1,0 +1,20 @@
+{
+    "chainId": 72080,
+    "name": "Nexera Testnet",
+    "rpc": [
+        "https://rpc.testnet.nexera.network"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "tNXRA",
+        "symbol": "tNXRA",
+        "decimals": 18
+    },
+    "website": "https://testnet.nexera.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.nexera.network"
+    ]
+}

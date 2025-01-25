@@ -1,0 +1,24 @@
+{
+    "chainId": 808813,
+    "name": "BOB Sepolia",
+    "rpc": [
+        "https://bob-sepolia.rpc.gobob.xyz",
+        "https://808813.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://bob-sepolia.rpc.gobob.xyz"
+    ],
+    "explorers": [
+        {
+            "name": "bobscout",
+            "url": "https://bob-sepolia.explorer.gobob.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://gobob.xyz",
+    "icon": null
+}

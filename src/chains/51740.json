@@ -1,0 +1,17 @@
+{
+    "chainId": 51740,
+    "name": "QaUser4Testnet",
+    "rpc": [
+        "https://51740.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser4Testnet Token",
+        "symbol": "VGW",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

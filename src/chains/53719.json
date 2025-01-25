@@ -1,0 +1,18 @@
+{
+    "chainId": 53719,
+    "name": "wild-salmon-cattle",
+    "rpc": [
+        "https://53719.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-wildsalmon-w0c6f.avax-test.network/ext/bc/5pMTMs4rBLFy8Vjtc75Lm7r61AEb41PrgqkpZFt6ZGP4GY8mB/rpc?token=1efeb1dab3e99f7386ef20438b071532e9f2ec9afac136f01f5bf743effbe4f9"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "wild-salmon-cattle Token",
+        "symbol": "SALMON",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

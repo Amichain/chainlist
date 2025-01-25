@@ -1,0 +1,19 @@
+{
+    "chainId": 8545,
+    "name": "Chakra Testnet",
+    "rpc": [
+        "https://rpcv1-dn-1.chakrachain.io/",
+        "https://8545.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Chakra",
+        "symbol": "CKR",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

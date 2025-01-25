@@ -1,0 +1,17 @@
+{
+    "chainId": 98857,
+    "name": "Thetan Testnet",
+    "rpc": [
+        "https://98857.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/thetantest/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Thetan Testnet Token",
+        "symbol": "THG",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

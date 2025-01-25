@@ -1,0 +1,21 @@
+{
+    "chainId": 1555,
+    "name": "Datacore Smart Chain",
+    "rpc": [
+        "https://rpc01.dscscan.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Datacore Smart Chain",
+            "url": "https://dscscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Datacore Smart Chain",
+        "symbol": "DSC",
+        "decimals": 18
+    },
+    "website": "https://rpc01.dscscan.io",
+    "icon": null
+}

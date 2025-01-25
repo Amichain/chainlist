@@ -1,0 +1,22 @@
+{
+    "chainId": 98,
+    "name": "Six Protocol",
+    "rpc": [
+        "https://sixnet-rpc-evm.sixprotocol.net",
+        "https://98.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "SIX Scan",
+            "url": "https://sixscan.io/sixnet"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SIX evm token",
+        "symbol": "SIX",
+        "decimals": 18
+    },
+    "website": "https://six.network/",
+    "icon": "98.png"
+}

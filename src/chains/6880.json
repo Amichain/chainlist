@@ -1,0 +1,21 @@
+{
+    "chainId": 6880,
+    "name": "Mtt Mainnet",
+    "rpc": [
+        "https://evm-rpc.mtt.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Mtt explorer",
+            "url": "https://explorer.mtt.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Mtt mainnet native coin",
+        "symbol": "MTT",
+        "decimals": 18
+    },
+    "website": "https://mtt.network",
+    "icon": null
+}

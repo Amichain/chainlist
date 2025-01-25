@@ -1,0 +1,17 @@
+{
+    "chainId": 10154,
+    "name": "QIM2405023 Interop",
+    "rpc": [
+        "https://10154.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QIM2405023 Interop Token",
+        "symbol": "UZP",
+        "decimals": 18
+    },
+    "icon": "10154.svg",
+    "testnet": true
+}

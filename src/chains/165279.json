@@ -1,0 +1,22 @@
+{
+    "chainId": 165279,
+    "name": "Eclat Mainnet",
+    "rpc": [
+        "https://mainnet-rpc.eclatscan.com",
+        "https://165279.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Eclat Mainnet Explorer",
+            "url": "https://eclatscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Eclat",
+        "symbol": "ECLAT",
+        "decimals": 18
+    },
+    "website": "https://eclatscan.com",
+    "icon": null
+}

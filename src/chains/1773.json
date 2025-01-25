@@ -1,0 +1,23 @@
+{
+    "chainId": 1773,
+    "name": "PartyChain",
+    "rpc": [
+        "https://tea.mining4people.com/rpc",
+        "http://172.104.194.36:8545",
+        "https://1773.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "PartyExplorer",
+            "url": "https://partyexplorer.co"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Grams",
+        "symbol": "GRAMS",
+        "decimals": 18
+    },
+    "website": "TeaPartyCrypto.com",
+    "icon": null
+}

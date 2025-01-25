@@ -1,0 +1,22 @@
+{
+    "chainId": 2140,
+    "name": "Oneness Network",
+    "rpc": [
+        "https://rpc.onenesslabs.io/",
+        "https://2140.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "oneness-mainnet",
+            "url": "https://scan.onenesslabs.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BTC",
+        "symbol": "BTC",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

@@ -1,0 +1,21 @@
+{
+    "chainId": 192940,
+    "name": "Mind Network Testnet",
+    "rpc": [
+        "https://rpc-testnet.mindnetwork.xyz",
+        "https://192940.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://rpc-testnet.mindnetwork.xyz"
+    ],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "FHE",
+        "symbol": "FHE",
+        "decimals": 18
+    },
+    "website": "https://mindnetwork.xyz",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,18 @@
+{
+    "chainId": 81341,
+    "name": "Amana Testnet",
+    "rpc": [
+        "https://81341.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Amana Testnet",
+        "symbol": "MEER-T",
+        "decimals": 18
+    },
+    "website": "https://github.com/Qitmeer",
+    "icon": "81341.png",
+    "testnet": true,
+    "faucets": []
+}

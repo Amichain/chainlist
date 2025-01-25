@@ -1,0 +1,21 @@
+{
+    "chainId": 426,
+    "name": "The Widows Mite",
+    "rpc": [
+        "https://rpc.twmcrypto.com/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "The Widows Mite Explorer",
+            "url": "https://scan.twmcrypto.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "The Widows Mite",
+        "symbol": "MITE",
+        "decimals": 8
+    },
+    "website": "https://twmcrypto.com/",
+    "icon": "426.png"
+}

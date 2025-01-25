@@ -1,0 +1,26 @@
+{
+    "chainId": 486487,
+    "name": "Gobbl Testnet",
+    "rpc": [
+        "https://rpc.gobbl.io",
+        "https://486487.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Gobbl Testnet Explorer",
+            "url": "https://explorer.gobbl.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Gobbl Token",
+        "symbol": "GOBBL",
+        "decimals": 18
+    },
+    "website": "https://www.gobbl.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.gobbl.io"
+    ]
+}

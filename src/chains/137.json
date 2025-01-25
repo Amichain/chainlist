@@ -1,0 +1,38 @@
+{
+    "chainId": 137,
+    "name": "Polygon Mainnet",
+    "rpc": [
+        "https://polygon-rpc.com/",
+        "https://rpc-mainnet.matic.network",
+        "https://matic-mainnet.chainstacklabs.com",
+        "https://rpc-mainnet.maticvigil.com",
+        "https://rpc-mainnet.matic.quiknode.pro",
+        "https://matic-mainnet-full-rpc.bwarelabs.com",
+        "https://polygon-bor-rpc.publicnode.com",
+        "https://polygon.gateway.tenderly.co",
+        "https://polygon.drpc.org",
+        "https://137.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://polygon-bor-rpc.publicnode.com",
+        "wss://polygon.gateway.tenderly.co",
+        "wss://polygon.drpc.org"
+    ],
+    "explorers": [
+        {
+            "name": "polygonscan",
+            "url": "https://polygonscan.com"
+        },
+        {
+            "name": "dexguru",
+            "url": "https://polygon.dex.guru"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "POL",
+        "symbol": "POL",
+        "decimals": 18
+    },
+    "website": "https://polygon.technology/",
+    "icon": "137.svg"
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 59940,
+    "name": "QR0510s1",
+    "rpc": [
+        "https://59940.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0510s1/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0510s1 Token",
+        "symbol": "RTQ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

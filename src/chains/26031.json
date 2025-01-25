@@ -1,0 +1,17 @@
+{
+    "chainId": 26031,
+    "name": "QaUser7894 Testnet",
+    "rpc": [
+        "https://26031.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser7894 Testnet Token",
+        "symbol": "YUT",
+        "decimals": 18
+    },
+    "icon": "26031.svg",
+    "testnet": true
+}

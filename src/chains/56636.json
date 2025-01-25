@@ -1,0 +1,17 @@
+{
+    "chainId": 56636,
+    "name": "QI0429I3",
+    "rpc": [
+        "https://56636.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-test.io/b6421f40-aa32-4cdc-98f2-bf22d0db7b4f"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0429I3 Token",
+        "symbol": "IJK",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

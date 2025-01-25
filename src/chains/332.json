@@ -1,0 +1,25 @@
+{
+    "chainId": 332,
+    "name": "Omax Testnet",
+    "rpc": [
+        "https://testapi.omaxray.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Omax Chain Explorer",
+            "url": "https://testnet.omaxscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "OMAX TESTCOIN",
+        "symbol": "OMAXT",
+        "decimals": 18
+    },
+    "website": "https://www.omaxcoin.com/",
+    "icon": "332.png",
+    "testnet": true,
+    "faucets": [
+        "https://faucet.omaxray.com/"
+    ]
+}

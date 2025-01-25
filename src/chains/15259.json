@@ -1,0 +1,22 @@
+{
+    "chainId": 15259,
+    "name": "Poodl Mainnet",
+    "rpc": [
+        "https://rpc.poodl.org",
+        "https://15259.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Poodl Mainnet Explorer",
+            "url": "https://explorer.poodl.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Poodl",
+        "symbol": "POODL",
+        "decimals": 18
+    },
+    "website": "https://poodl.org",
+    "icon": null
+}

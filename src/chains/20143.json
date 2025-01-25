@@ -1,0 +1,16 @@
+{
+    "chainId": 20143,
+    "name": "Monad Devnet",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Devnet MON Token",
+        "symbol": "MON",
+        "decimals": 18
+    },
+    "website": "https://monad.xyz",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

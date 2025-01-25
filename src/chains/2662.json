@@ -1,0 +1,16 @@
+{
+    "chainId": 2662,
+    "name": "APEX",
+    "rpc": [
+        "https://2662.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://apexlayer.xyz/",
+    "icon": null
+}

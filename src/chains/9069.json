@@ -1,0 +1,16 @@
+{
+    "chainId": 9069,
+    "name": "Apex Fusion - Nexus Mainnet",
+    "rpc": [
+        "https://rpc.nexus.mainnet.apexfusion.org/"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Apex Fusion Token",
+        "symbol": "AP3X",
+        "decimals": 18
+    },
+    "website": "https://apexfusion.org/",
+    "icon": null
+}

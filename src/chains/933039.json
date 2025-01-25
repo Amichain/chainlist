@@ -1,0 +1,17 @@
+{
+    "chainId": 933039,
+    "name": "QR0422T1TS Testnet",
+    "rpc": [
+        "https://933039.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0422t1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0422T1TS Testnet Token",
+        "symbol": "DIF",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,19 @@
+{
+    "chainId": 2043,
+    "name": "NeuroWeb",
+    "rpc": [
+        "https://astrosat.origintrail.network",
+        "https://2043.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://parachain-rpc.origin-trail.network"
+    ],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "NeuroWeb Token",
+        "symbol": "NEURO",
+        "decimals": 12
+    },
+    "website": "https://neuroweb.ai",
+    "icon": null
+}

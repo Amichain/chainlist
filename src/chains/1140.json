@@ -1,0 +1,21 @@
+{
+    "chainId": 1140,
+    "name": "MathChain Testnet",
+    "rpc": [
+        "https://galois-hk.maiziqianbao.net/rpc",
+        "https://1140.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "MathChain",
+        "symbol": "MATH",
+        "decimals": 18
+    },
+    "website": "https://mathchain.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://scan.boka.network/#/Galois/faucet"
+    ]
+}

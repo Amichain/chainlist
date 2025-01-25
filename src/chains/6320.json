@@ -1,0 +1,23 @@
+{
+    "chainId": 6320,
+    "name": "NFB Chain Testnet",
+    "rpc": [
+        "https://testnet-node.nfbchain.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "NFB Chain Testnet Explorer",
+            "url": "https://testnet-scan.nfbchain.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "NFBCoinTest",
+        "symbol": "NFBCT",
+        "decimals": 18
+    },
+    "website": "https://nfbchain.com/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

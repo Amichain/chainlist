@@ -1,0 +1,17 @@
+{
+    "chainId": 66904,
+    "name": "QaUser1335 Testnet",
+    "rpc": [
+        "https://66904.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser1335 Testnet Token",
+        "symbol": "KFZ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

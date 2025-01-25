@@ -1,0 +1,18 @@
+{
+    "chainId": 13379,
+    "name": "artistic-maroon-tapir",
+    "rpc": [
+        "https://13379.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-bestname10-a4ea7.avax-test.network/ext/bc/M4SdtZY7dfiwdJQdjcT3UL5gXY1RDdvRt5Z8BgACfAdWy8LGY/rpc?token=c052be2f5a4c2a771d71fc4970c42b184ac2e74ad325fdbac02b5556723868c2"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "artistic-maroon-tapir Token",
+        "symbol": "DLQ",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "13379.svg",
+    "testnet": true
+}

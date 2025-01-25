@@ -1,0 +1,17 @@
+{
+    "chainId": 68007,
+    "name": "infra Testnet",
+    "rpc": [
+        "https://68007.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/infratestn/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "infra Testnet Token",
+        "symbol": "ZPO",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,18 @@
+{
+    "chainId": 600,
+    "name": "Meshnyan testnet",
+    "rpc": [
+        "https://600.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Meshnyan Testnet Native Token",
+        "symbol": "MESHT",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

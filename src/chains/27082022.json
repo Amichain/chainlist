@@ -1,0 +1,22 @@
+{
+    "chainId": 27082022,
+    "name": "Excoincial Chain Mainnet",
+    "rpc": [
+        "https://rpc.exlscan.com",
+        "https://27082022.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "exlscan",
+            "url": "https://exlscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Exlcoin",
+        "symbol": "EXL",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

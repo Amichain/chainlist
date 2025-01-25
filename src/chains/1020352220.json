@@ -1,0 +1,28 @@
+{
+    "chainId": 1020352220,
+    "name": "SKALE Titan Hub Testnet",
+    "rpc": [
+        "https://testnet.skalenodes.com/v1/aware-fake-trim-testnet",
+        "https://1020352220.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://testnet.skalenodes.com/v1/ws/aware-fake-trim-testnet"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://aware-fake-trim-testnet.explorer.testnet.skalenodes.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://www.sfuelstation.com/"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "chainId": 1228,
+    "name": "Cycle Network Testnet Cuttlefish",
+    "rpc": [
+        "https://cuttlefish-rpc-testnet.cyclenetwork.io"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://www.cyclenetwork.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

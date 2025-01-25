@@ -1,0 +1,37 @@
+{
+    "chainId": 42161,
+    "name": "Arbitrum One",
+    "rpc": [
+        "https://arbitrum-mainnet.infura.io/v3/${INFURA_API_KEY}",
+        "https://arb-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}",
+        "https://arb1.arbitrum.io/rpc",
+        "https://arbitrum-one-rpc.publicnode.com",
+        "https://42161.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://arbitrum-one.publicnode.com"
+    ],
+    "ws": [
+        "wss://arbitrum-one-rpc.publicnode.com",
+        "wss://arbitrum-one.publicnode.com"
+    ],
+    "explorers": [
+        {
+            "name": "Arbiscan",
+            "url": "https://arbiscan.io"
+        },
+        {
+            "name": "Arbitrum Explorer",
+            "url": "https://explorer.arbitrum.io"
+        },
+        {
+            "name": "dexguru",
+            "url": "https://arbitrum.dex.guru"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://arbitrum.io",
+    "icon": "42161.svg"
+}

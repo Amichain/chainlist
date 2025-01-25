@@ -1,0 +1,31 @@
+{
+    "chainId": 531050104,
+    "name": "Sophon Testnet",
+    "rpc": [
+        "https://rpc.testnet.sophon.xyz",
+        "https://531050104.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.testnet.sophon.xyz/"
+    ],
+    "ws": [
+        "wss://rpc.testnet.sophon.xyz/ws"
+    ],
+    "explorers": [
+        {
+            "name": "Sophon Block Explorer",
+            "url": "https://explorer.testnet.sophon.xyz"
+        },
+        {
+            "name": "Blockexplorer",
+            "url": "https://explorer.testnet.sophon.xyz/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SOPH",
+        "symbol": "SOPH",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": "531050104.png",
+    "testnet": true,
+    "faucets": []
+}

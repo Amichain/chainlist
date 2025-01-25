@@ -1,0 +1,23 @@
+{
+  "name": "@amichain/chainlist",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build && cp src/types.d.ts dist/types.d.ts"
+  },
+  "devDependencies": {
+    "typescript": "~5.6.2",
+    "vite": "^6.0.3"
+  },
+  "main": "dist/chainlist.cjs",
+  "module": "dist/chainlist.js",
+  "browser": "dist/chainlist.umd.cjs",
+  "types": "dist/types.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/types.d.ts",
+      "require": "./dist/chainlist.cjs",
+      "import": "./dist/chainlist.js"
+    }
+  }
+}

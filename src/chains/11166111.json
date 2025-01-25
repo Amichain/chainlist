@@ -1,0 +1,25 @@
+{
+    "chainId": 11166111,
+    "name": "R0AR Testnet",
+    "rpc": [
+        "https://testnet.rpc-r0ar.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "tracehawk",
+            "url": "https://testnet.r0arscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://testnet.r0arscan.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://testnet.r0arfaucet.io"
+    ]
+}

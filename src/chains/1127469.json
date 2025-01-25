@@ -1,0 +1,22 @@
+{
+    "chainId": 1127469,
+    "name": "Tiltyard Subnet",
+    "rpc": [
+        "https://subnets.avax.network/tiltyard/testnet/rpc",
+        "https://1127469.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "TILTYARD Explorer",
+            "url": "http://testnet-explorer.tiltyard.gg"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Tiltyard Token",
+        "symbol": "TILTG",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

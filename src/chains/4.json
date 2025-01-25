@@ -1,0 +1,28 @@
+{
+    "chainId": 4,
+    "name": "Rinkeby",
+    "rpc": [
+        "https://rinkeby.infura.io/v3/${INFURA_API_KEY}"
+    ],
+    "ws": [
+        "wss://rinkeby.infura.io/ws/v3/${INFURA_API_KEY}"
+    ],
+    "explorers": [
+        {
+            "name": "etherscan-rinkeby",
+            "url": "https://rinkeby.etherscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Rinkeby Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://www.rinkeby.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "http://fauceth.komputing.org?chain=4&address=${ADDRESS}",
+        "https://faucet.rinkeby.io"
+    ]
+}

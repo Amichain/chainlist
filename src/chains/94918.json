@@ -1,0 +1,17 @@
+{
+    "chainId": 94918,
+    "name": "Sample Testnet",
+    "rpc": [
+        "https://94918.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/sampletest/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Sample Testnet Token",
+        "symbol": "INS",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 74843,
+    "name": "TESTNet SecondTEST",
+    "rpc": [
+        "https://74843.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-testnetsec-c65fd.avax-test.network/ext/bc/yqC44Ng8grjpgko6RJ16gpE2R9mJ3vQmrgfoHERnsTpQE98vQ/rpc?token=cfa5e817d91c819c70fcd0597ea4ca9b06377b8855aa876ed8923f5ab02957f0"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "TESTNet SecondTEST Token",
+        "symbol": "BOC",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

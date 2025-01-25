@@ -1,0 +1,23 @@
+{
+    "chainId": 65010001,
+    "name": "Autonity Bakerloo (Barada) Testnet",
+    "rpc": [],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "autonity-blockscout",
+            "url": "https://bakerloo.autonity.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Bakerloo Auton",
+        "symbol": "ATN",
+        "decimals": 18
+    },
+    "website": "https://autonity.org/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.autonity.org/"
+    ]
+}

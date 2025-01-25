@@ -1,0 +1,18 @@
+{
+    "chainId": 33144,
+    "name": "dhtestnet",
+    "rpc": [
+        "https://33144.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-dhtestnet-ubc77.avax-test.network/ext/bc/F7qXpyFsDAxT6ENE2LbX2jEbZHFEAKKWheZP7ti9ZzZqsivep/rpc?token=0ec5f8ef2c460a010651184f311c72f2e71745db05dd6549169e60106da62421"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "dhtestnet Token",
+        "symbol": "DHT",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

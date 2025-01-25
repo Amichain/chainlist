@@ -1,0 +1,24 @@
+{
+    "chainId": 2124,
+    "name": "Metaplayerone Dubai Testnet",
+    "rpc": [
+        "https://rpc-dubai.mp1network.com/",
+        "https://2124.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "MP1Scan",
+            "url": "https://dubai.mp1scan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Metaunit",
+        "symbol": "MEU",
+        "decimals": 18
+    },
+    "website": "https://docs.metaplayer.one/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

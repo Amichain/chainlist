@@ -1,0 +1,29 @@
+{
+    "chainId": 8882,
+    "name": "Opal testnet by Unique",
+    "rpc": [
+        "https://rpc-opal.unique.network",
+        "https://us-rpc-opal.unique.network",
+        "https://eu-rpc-opal.unique.network",
+        "https://asia-rpc-opal.unique.network",
+        "https://8882.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Unique Scan / Opal",
+            "url": "https://uniquescan.io/opal"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Opal",
+        "symbol": "UNQ",
+        "decimals": 18
+    },
+    "website": "https://unique.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://t.me/unique2faucet_opal_bot"
+    ]
+}

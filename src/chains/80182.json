@@ -1,0 +1,17 @@
+{
+    "chainId": 80182,
+    "name": "QI M 12051",
+    "rpc": [
+        "https://80182.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/b19c9e32-f359-451f-ad15-7ec784625c04"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI M 12051 Token",
+        "symbol": "VTV",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

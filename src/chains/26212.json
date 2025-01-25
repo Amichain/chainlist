@@ -1,0 +1,18 @@
+{
+    "chainId": 26212,
+    "name": "lystotest2",
+    "rpc": [
+        "https://26212.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-lystotest2-ub7a6.avax-test.network/ext/bc/2MnqHzJrChN2Jtz91rzMgw2e8n3y6rF9iUDb6WL6Y3x7AtdxeM/rpc?token=a8cf03373a847d8f43b45956c530903536a59d96b65108bb106f4bfacd031319"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "lystotest2 Token",
+        "symbol": "CERES",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "26212.svg",
+    "testnet": true
+}

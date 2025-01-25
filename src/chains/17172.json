@@ -1,0 +1,22 @@
+{
+    "chainId": 17172,
+    "name": "Eclipse Subnet",
+    "rpc": [
+        "https://subnets.avax.network/eclipse/testnet/rpc",
+        "https://17172.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ECLIPSE Explorer",
+            "url": "https://subnets-test.avax.network/eclipse"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Eclipse",
+        "symbol": "ECLP",
+        "decimals": 16
+    },
+    "website": "http://eclipsenet.io",
+    "icon": null
+}

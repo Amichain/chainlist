@@ -1,0 +1,17 @@
+{
+    "chainId": 85677,
+    "name": "QR0715T1TS",
+    "rpc": [
+        "https://85677.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qr0715t1ts-yf0a5.avax-test.network/ext/bc/2gQwUZaBTv3iQz8uwQxXsnvi3vfspG5SW92MmmopZm8A3quaho/rpc?token=633edede6b5a8f598ccbee755c42d04d0483bf02e0f0b150974809aa91872a89"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0715T1TS Token",
+        "symbol": "EAK",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

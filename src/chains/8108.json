@@ -1,0 +1,14 @@
+{
+    "chainId": 8108,
+    "name": "Zenchain",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "ZCX",
+        "symbol": "ZCX",
+        "decimals": 18
+    },
+    "website": "https://zenchain.io",
+    "icon": null
+}

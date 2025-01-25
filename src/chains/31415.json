@@ -1,0 +1,21 @@
+{
+    "chainId": 31415,
+    "name": "Wirex Pay Mainnet",
+    "rpc": [
+        "https://rpc.wirexpaychain.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Wirex Pay Explorer",
+            "url": "https://blockscout.wirexpaychain.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "testnet filecoin",
+        "symbol": "tFIL",
+        "decimals": 18
+    },
+    "website": "https://filecoin.io",
+    "icon": null
+}

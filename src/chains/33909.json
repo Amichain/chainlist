@@ -1,0 +1,17 @@
+{
+    "chainId": 33909,
+    "name": "Reg1116test",
+    "rpc": [
+        "https://33909.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Reg1116test Token",
+        "symbol": "JUO",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

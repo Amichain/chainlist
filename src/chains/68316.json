@@ -1,0 +1,17 @@
+{
+    "chainId": 68316,
+    "name": "QR0611STS",
+    "rpc": [
+        "https://68316.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0611sts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0611STS Token",
+        "symbol": "NAA",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

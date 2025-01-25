@@ -1,0 +1,30 @@
+{
+    "chainId": 123420000220,
+    "name": "Fluence Stage",
+    "rpc": [
+        "https://rpc.stage.fluence.dev",
+        "https://123420000220.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-123420000220.raas-testnet.gelato.digital/"
+    ],
+    "ws": [
+        "wss://ws.stage.fluence.dev",
+        "wss://ws-123420000220.raas-testnet.gelato.digital/"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://blockscout.stage.fluence.dev"
+        },
+        {
+            "name": "blockscout",
+            "url": "https://blockscout-123420000220.raas-testnet.gelato.digital"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "tFLT",
+        "symbol": "tFLT",
+        "decimals": 18
+    },
+    "website": "https://fluence.network/",
+    "icon": null
+}

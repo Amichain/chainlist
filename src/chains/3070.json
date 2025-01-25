@@ -1,0 +1,17 @@
+{
+    "chainId": 3070,
+    "name": "QaUser9054",
+    "rpc": [
+        "https://3070.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser9054 Token",
+        "symbol": "QFE",
+        "decimals": 18
+    },
+    "icon": "3070.svg",
+    "testnet": true
+}

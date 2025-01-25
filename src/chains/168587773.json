@@ -1,0 +1,29 @@
+{
+    "chainId": 168587773,
+    "name": "Blast Sepolia Testnet",
+    "rpc": [
+        "https://sepolia.blast.io",
+        "https://blast-sepolia.drpc.org",
+        "https://168587773.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://blast-sepolia.drpc.org"
+    ],
+    "explorers": [
+        {
+            "name": "Blast Sepolia Explorer",
+            "url": "https://testnet.blastscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://blast.io/",
+    "icon": "168587773.jpg",
+    "testnet": true,
+    "faucets": [
+        "https://faucet.quicknode.com/blast/sepolia"
+    ]
+}

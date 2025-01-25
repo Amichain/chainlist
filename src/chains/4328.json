@@ -1,0 +1,26 @@
+{
+    "chainId": 4328,
+    "name": "Bobafuji Testnet",
+    "rpc": [
+        "https://testnet.avax.boba.network",
+        "https://replica.testnet.avax.boba.network"
+    ],
+    "ws": [
+        "wss://wss.testnet.avax.boba.network"
+    ],
+    "explorers": [
+        {
+            "name": "Bobafuji Testnet block explorer",
+            "url": "https://blockexplorer.testnet.avax.boba.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Boba Token",
+        "symbol": "BOBA",
+        "decimals": 18
+    },
+    "website": "https://boba.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

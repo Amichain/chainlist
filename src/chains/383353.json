@@ -1,0 +1,16 @@
+{
+    "chainId": 383353,
+    "name": "CheeseChain",
+    "rpc": [
+        "https://rpc.cheesechain.xyz"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "CHEESE",
+        "symbol": "CHEESE",
+        "decimals": 18
+    },
+    "website": "https://cheesechain.xyz",
+    "icon": "383353.png"
+}

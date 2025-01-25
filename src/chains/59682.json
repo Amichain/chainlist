@@ -1,0 +1,17 @@
+{
+    "chainId": 59682,
+    "name": "QR0726K1TS",
+    "rpc": [
+        "https://59682.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qr0726k1ts-c603e.avax-test.network/ext/bc/M32JpVMAjr3YnDCmwSBSZPAkiApnd6A8UfdUAoSAbzAxvadic/rpc?token=984f594a7ad4039dfb0b3b35c9a84a98b8089d833df67cf093af5f11feb91363"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0726K1TS Token",
+        "symbol": "BXV",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

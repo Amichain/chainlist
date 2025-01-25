@@ -1,0 +1,22 @@
+{
+    "chainId": 22985,
+    "name": "Beyond Sepolia",
+    "rpc": [
+        "https://22985.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-beyond-sepolia-3wng1zu3j3.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "beyond-sepolia-3wng1zu3j3 explorer",
+            "url": "https://explorerl2new-beyond-sepolia-3wng1zu3j3.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": "22985.jpg",
+    "testnet": true
+}

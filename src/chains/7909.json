@@ -1,0 +1,17 @@
+{
+    "chainId": 7909,
+    "name": "QaUser3870 Testnet",
+    "rpc": [
+        "https://7909.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser3870 Testnet Token",
+        "symbol": "RAY",
+        "decimals": 18
+    },
+    "icon": "7909.svg",
+    "testnet": true
+}

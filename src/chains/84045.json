@@ -1,0 +1,17 @@
+{
+    "chainId": 84045,
+    "name": "Jovica's Testnet",
+    "rpc": [
+        "https://84045.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/jovicax/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Jovica's Testnet Token",
+        "symbol": "ZQG",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,18 @@
+{
+    "chainId": 11187,
+    "name": "QR0829T2TS",
+    "rpc": [
+        "https://11187.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qr0829t2ts-z3ebb.avax-test.network/ext/bc/2hEvXStaqp1g1rWmQpKCPzDjr88ZFqaVftwq2nSpr9wifsKS6x/rpc?token=0b0ee461627237a4c85e0cabe06595d8a028e4030441ee60d1c74c36e4f5cd2b"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0829T2TS Token",
+        "symbol": "IAH",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "11187.svg",
+    "testnet": true
+}

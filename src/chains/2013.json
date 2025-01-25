@@ -1,0 +1,17 @@
+{
+    "chainId": 2013,
+    "name": "Panarchy",
+    "rpc": [
+        "https://polytopia.org:8545",
+        "https://2013.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "GAS",
+        "symbol": "GAS",
+        "decimals": 18
+    },
+    "website": "https://polytopia.org/",
+    "icon": null
+}

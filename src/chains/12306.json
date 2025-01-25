@@ -1,0 +1,38 @@
+{
+    "chainId": 12306,
+    "name": "Fibonacci Mainnet",
+    "rpc": [
+        "https://node1.fibo-api.asia",
+        "https://node2.fibo-api.asia",
+        "https://node3.fibo-api.asia",
+        "https://node4.fibo-api.asia",
+        "https://node5.fibo-api.asia",
+        "https://node6.fibo-api.asia",
+        "https://node7.fibo-api.asia",
+        "https://node1.fibo-rpc.asia",
+        "https://node2.fibo-rpc.asia",
+        "https://node3.fibo-rpc.asia",
+        "https://node4.fibo-rpc.asia",
+        "https://node5.fibo-rpc.asia",
+        "https://node6.fibo-rpc.asia",
+        "https://node7.fibo-rpc.asia",
+        "https://12306.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "fiboscan",
+            "url": "https://scan.fibochain.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "FIBONACCI UTILITY TOKEN",
+        "symbol": "FIBO",
+        "decimals": 18
+    },
+    "website": "https://fibochain.org",
+    "icon": null,
+    "faucets": [
+        "https://test.fibochain.org/faucets"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "chainId": 8,
+    "name": "Ubiq",
+    "rpc": [
+        "https://rpc.octano.dev",
+        "https://pyrus2.ubiqscan.io",
+        "https://8.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ubiqscan",
+            "url": "https://ubiqscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ubiq Ether",
+        "symbol": "UBQ",
+        "decimals": 18
+    },
+    "website": "https://ubiqsmart.com",
+    "icon": null
+}

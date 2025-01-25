@@ -1,0 +1,17 @@
+{
+    "chainId": 4145,
+    "name": "QI1212I2",
+    "rpc": [
+        "https://4145.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI1212I2 Token",
+        "symbol": "HSCX",
+        "decimals": 18
+    },
+    "icon": "4145.svg",
+    "testnet": true
+}

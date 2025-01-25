@@ -1,0 +1,22 @@
+{
+    "chainId": 1300,
+    "name": "Glue",
+    "rpc": [
+        "https://1300.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-ws-1.server-1.glue.net/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Blockexplorer",
+            "url": "https://explorer.testnet.dev.gke.glue.net/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Glue",
+        "symbol": "GLUE",
+        "decimals": 18
+    },
+    "icon": "1300.svg",
+    "testnet": true
+}

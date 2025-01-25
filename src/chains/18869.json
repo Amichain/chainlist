@@ -1,0 +1,18 @@
+{
+    "chainId": 18869,
+    "name": "Aurora",
+    "rpc": [
+        "https://18869.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-aurora-f9dd2.avax-test.network/ext/bc/mqCbnw6WqHKW44qbikvQVxLpkhBdXhGefvSvxEqjsRqHcL3GA/rpc?token=8faca12c63a9f3235717709a7a7e4f2ab0bf868ae31bffcfeeee3ae44fc244b6"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Aurora Token",
+        "symbol": "AUR",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "18869.svg",
+    "testnet": true
+}

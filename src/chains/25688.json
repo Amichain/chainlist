@@ -1,0 +1,17 @@
+{
+    "chainId": 25688,
+    "name": "QR0520T1TD",
+    "rpc": [
+        "https://25688.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0520t1td/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0520T1TD Token",
+        "symbol": "DYH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

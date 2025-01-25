@@ -1,0 +1,21 @@
+{
+    "chainId": 7233,
+    "name": "InitVerse mainnet",
+    "rpc": [
+        "https://rpc-mainnet.inichain.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "initverse",
+            "url": "https://www.iniscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "InitVerse",
+        "symbol": "INI",
+        "decimals": 18
+    },
+    "website": "https://www.inichain.com",
+    "icon": null
+}

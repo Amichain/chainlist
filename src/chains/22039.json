@@ -1,0 +1,17 @@
+{
+    "chainId": 22039,
+    "name": "QaUser1631",
+    "rpc": [
+        "https://22039.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser1631 Token",
+        "symbol": "UVA",
+        "decimals": 18
+    },
+    "icon": "22039.svg",
+    "testnet": true
+}

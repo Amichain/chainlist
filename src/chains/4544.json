@@ -1,0 +1,30 @@
+{
+    "chainId": 4544,
+    "name": "Emoney Network Testnet",
+    "rpc": [
+        "https://testnet.emoney.network/",
+        "https://4544.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "EMoney Explorer",
+            "url": "https://explore-stage.emoney.network"
+        },
+        {
+            "name": "EMoney ethscan",
+            "url": "https://ethscan.emoney.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Emoney Network",
+        "symbol": "EMYC",
+        "decimals": 18
+    },
+    "website": "https://emoney.network/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.emoney.network/faucet"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "chainId": 72605,
+    "name": "Jambon's Devnet",
+    "rpc": [
+        "https://72605.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Jambon's Devnet",
+        "symbol": "DOB",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

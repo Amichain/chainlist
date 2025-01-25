@@ -1,0 +1,16 @@
+{
+    "chainId": 996,
+    "name": "Bifrost Polkadot Mainnet",
+    "rpc": [
+        "https://hk.p.bifrost-rpc.liebi.com"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Wrapped ETH",
+        "symbol": "WETH",
+        "decimals": 18
+    },
+    "website": "https://bifrost.io/",
+    "icon": null
+}

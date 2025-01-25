@@ -1,0 +1,17 @@
+{
+    "chainId": 132,
+    "name": "Namefi Chain Mainnet",
+    "rpc": [
+        "https://rpc.chain.namefi.io",
+        "https://132.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Namefi Coin",
+        "symbol": "NFIC",
+        "decimals": 18
+    },
+    "website": "https://namefi.io/",
+    "icon": "132.png"
+}

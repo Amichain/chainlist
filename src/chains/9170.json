@@ -1,0 +1,18 @@
+{
+    "chainId": 9170,
+    "name": "Rinia Testnet Old",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Firechain",
+        "symbol": "FIRE",
+        "decimals": 18
+    },
+    "website": "https://thefirechain.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.thefirechain.com"
+    ]
+}

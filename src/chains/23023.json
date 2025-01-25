@@ -1,0 +1,21 @@
+{
+    "chainId": 23023,
+    "name": "PremiumBlock",
+    "rpc": [
+        "https://rpc.premiumblock.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "PremiumBlocks Explorer",
+            "url": "https://scan.premiumblock.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Premium Block",
+        "symbol": "PBLK",
+        "decimals": 18
+    },
+    "website": "https://scan.premiumblock.org",
+    "icon": null
+}

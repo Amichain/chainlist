@@ -1,0 +1,22 @@
+{
+    "chainId": 7923,
+    "name": "Dot Blox",
+    "rpc": [
+        "https://rpc.dotblox.io",
+        "https://7923.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.dotblox.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Dot Blox",
+        "symbol": "DTBX",
+        "decimals": 18
+    },
+    "website": "https://explorer.dotblox.io",
+    "icon": null
+}

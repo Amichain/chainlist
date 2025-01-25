@@ -1,0 +1,23 @@
+{
+    "chainId": 331771,
+    "name": "POP Mainnet",
+    "rpc": [
+        "https://331771.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc00.proofofpepe.tech",
+        "https://rpc01.proofofpepe.tech",
+        "https://rpc02.proofofpepe.tech"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Pepescan",
+            "url": "https://pepescan.app"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": 18
+    },
+    "icon": null
+}

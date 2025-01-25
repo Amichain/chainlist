@@ -1,0 +1,23 @@
+{
+    "chainId": 182,
+    "name": "IOST Mainnet",
+    "rpc": [
+        "https://iost-mainnet.alt.technology"
+    ],
+    "ws": [
+        "wss://iost-mainnet.alt.technology/ws"
+    ],
+    "explorers": [
+        {
+            "name": "IOSTscan",
+            "url": "https://iost-mainnet-explorer.alt.technology"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BNB Chain Native Token",
+        "symbol": "BNB",
+        "decimals": 18
+    },
+    "website": "https://iost.io",
+    "icon": null
+}

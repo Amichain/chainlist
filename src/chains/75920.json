@@ -1,0 +1,23 @@
+{
+    "chainId": 75920,
+    "name": "zero-dev-op-stack",
+    "rpc": [
+        "https://75920.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-zero-dev-op-stack-ja2munlcde.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "zero-dev-op-stack Explorer",
+            "url": "https://explorer-zero-dev-op-stack-ja2munlcde.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://thirdweb.com/75920",
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,36 @@
+{
+    "chainId": 943,
+    "name": "PulseChain Testnet v4",
+    "rpc": [
+        "https://rpc.v4.testnet.pulsechain.com",
+        "https://pulsechain-testnet-rpc.publicnode.com",
+        "https://rpc-testnet-pulsechain.g4mm4.io",
+        "https://943.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://rpc.v4.testnet.pulsechain.com",
+        "wss://pulsechain-testnet-rpc.publicnode.com",
+        "wss://rpc-testnet-pulsechain.g4mm4.io"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://scan.v4.testnet.pulsechain.com"
+        },
+        {
+            "name": "blockscout",
+            "url": "https://otter-testnet-pulsechain.g4mm4.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Test Pulse",
+        "symbol": "tPLS",
+        "decimals": 18
+    },
+    "website": "https://pulsechain.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.v4.testnet.pulsechain.com/"
+    ]
+}

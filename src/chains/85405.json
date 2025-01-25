@@ -1,0 +1,17 @@
+{
+    "chainId": 85405,
+    "name": "QR0614T1tS",
+    "rpc": [
+        "https://85405.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0614t1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0614T1tS Token",
+        "symbol": "FTW",
+        "decimals": 18
+    },
+    "icon": "85405.svg",
+    "testnet": true
+}

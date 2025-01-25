@@ -1,0 +1,17 @@
+{
+    "chainId": 26563,
+    "name": "QIM2404261",
+    "rpc": [
+        "https://26563.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QIM2404261 Token",
+        "symbol": "YCW",
+        "decimals": 18
+    },
+    "icon": "26563.svg",
+    "testnet": true
+}

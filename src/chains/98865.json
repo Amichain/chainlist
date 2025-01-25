@@ -1,0 +1,29 @@
+{
+    "chainId": 98865,
+    "name": "Plume Mainnet",
+    "rpc": [
+        "https://rpc.plumenetwork.xyz",
+        "https://98865.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://phoenix-rpc.plumenetwork.xyz/JP3SE2suMgrwNr1DmGrtWzPM5Ak4iymyt"
+    ],
+    "ws": [
+        "wss://rpc.plumenetwork.xyz"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://explorer.plumenetwork.xyz"
+        },
+        {
+            "name": "Plume Explorer",
+            "url": "https://phoenix-explorer.plumenetwork.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://thirdweb.com/98865",
+    "icon": "98865.png"
+}

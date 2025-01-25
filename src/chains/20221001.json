@@ -1,0 +1,25 @@
+{
+    "chainId": 20221001,
+    "name": "SoonChain Sepolia Devnet",
+    "rpc": [
+        "https://sepolia.rpc.soonchain.ai"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Soon Scan",
+            "url": "https://sepolia.explorer.soonchain.ai"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://soonchain.ai",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://console.optimism.io/faucet"
+    ]
+}

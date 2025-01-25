@@ -1,0 +1,24 @@
+{
+    "chainId": 21912,
+    "name": "BSL Mainnet",
+    "rpc": [
+        "http://rpc-mainnet.nftruth.io:8545",
+        "https://21912.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "ws://rpc-mainnet.nftruth.io:8645"
+    ],
+    "explorers": [
+        {
+            "name": "BSL Mainnet Explorer",
+            "url": "https://scan.nftruth.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Origin NFT",
+        "symbol": "ONF",
+        "decimals": 18
+    },
+    "website": "https://bsquarelab.com/",
+    "icon": null
+}

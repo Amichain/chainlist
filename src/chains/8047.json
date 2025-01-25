@@ -1,0 +1,22 @@
+{
+    "chainId": 8047,
+    "name": "BOAT Mainnet",
+    "rpc": [
+        "https://rpc0.come.boat/",
+        "https://8047.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "BOAT Mainnet Explorer",
+            "url": "https://scan.come.boats"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Best Of All Time Token",
+        "symbol": "BOAT",
+        "decimals": 18
+    },
+    "website": "https://come.boats",
+    "icon": null
+}

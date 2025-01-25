@@ -1,0 +1,17 @@
+{
+    "chainId": 43994,
+    "name": "QR0606T1TP",
+    "rpc": [
+        "https://43994.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0606t1tp/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0606T1TP Token",
+        "symbol": "HRQ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

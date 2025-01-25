@@ -1,0 +1,23 @@
+{
+    "chainId": 7234,
+    "name": "InitVerse genesis testnet",
+    "rpc": [
+        "http://rpc-testnet.inichain.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "initverse",
+            "url": "https://genesis-testnet.iniscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "InitVerse",
+        "symbol": "INI",
+        "decimals": 18
+    },
+    "website": "https://genesis-testnet.inichain.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

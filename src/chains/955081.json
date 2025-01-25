@@ -1,0 +1,22 @@
+{
+    "chainId": 955081,
+    "name": "Jono12 Subnet",
+    "rpc": [
+        "https://subnets.avax.network/jono12/testnet/rpc",
+        "https://955081.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "JONO12 Explorer",
+            "url": "https://subnets-test.avax.network/jono12"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Jono12 Token",
+        "symbol": "JONO",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

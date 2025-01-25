@@ -1,0 +1,25 @@
+{
+    "chainId": 63002,
+    "name": "eSync Network Testnet",
+    "rpc": [
+        "https://rpc.tst.esync.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "eSync Network Testnet Explorer",
+            "url": "https://explorer.tst.esync.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "eCredits",
+        "symbol": "ECS",
+        "decimals": 18
+    },
+    "website": "https://esync.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.tst.ecredits.com"
+    ]
+}

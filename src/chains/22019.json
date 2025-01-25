@@ -1,0 +1,23 @@
+{
+    "chainId": 22019,
+    "name": "apps-test-123",
+    "rpc": [
+        "https://22019.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-apps-test-123-7f7bjqu1x9.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "apps-test-123 Explorer",
+            "url": "https://explorer-apps-test-123-7f7bjqu1x9.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://thirdweb.com/22019",
+    "icon": null,
+    "testnet": true
+}

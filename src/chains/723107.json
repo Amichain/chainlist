@@ -1,0 +1,25 @@
+{
+    "chainId": 723107,
+    "name": "TixChain Testnet",
+    "rpc": [
+        "https://subnets.avax.network/tixchain/testnet/rpc",
+        "https://723107.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-tixchain-w00c4.avax-test.network/ext/bc/rbPy3vFTgtGccWouLkCXqgDTxyEHEpam2kA24fZUmjgKMNcXX/rpc?token=7205a9c5810d46a49e684d0cd5c88c8712635f38e35d74dedd9decd5d8f32e12"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "TixChain Testnet Subnet Explorer",
+            "url": "https://subnets-test.avax.network/tixchain"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "TixChain Token",
+        "symbol": "TIX",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "723107.svg",
+    "testnet": true,
+    "faucets": []
+}

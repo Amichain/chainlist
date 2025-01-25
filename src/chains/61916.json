@@ -1,0 +1,24 @@
+{
+    "chainId": 61916,
+    "name": "DoKEN Super Chain Mainnet",
+    "rpc": [
+        "https://sgrpc.doken.dev",
+        "https://nyrpc.doken.dev",
+        "https://ukrpc.doken.dev",
+        "https://61916.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "DSC Scan",
+            "url": "https://explore.doken.dev"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "DoKEN",
+        "symbol": "DKN",
+        "decimals": 18
+    },
+    "website": "https://doken.dev/",
+    "icon": "61916.png"
+}

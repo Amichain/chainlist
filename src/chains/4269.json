@@ -1,0 +1,25 @@
+{
+    "chainId": 4269,
+    "name": "Laika Testnet",
+    "rpc": [
+        "https://testnetrpc1.laikachain.dog"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Laika Testnet Explorer",
+            "url": "https://testnet.laikachain.dog"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "decimals": 18
+    },
+    "website": "https://laikachain.dog",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://laikachain.dog/faucets"
+    ]
+}

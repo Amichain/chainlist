@@ -1,0 +1,22 @@
+{
+    "chainId": 11221,
+    "name": "Shine Chain",
+    "rpc": [
+        "https://rpc.shinescan.io",
+        "https://11221.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "shinescan",
+            "url": "https://shinescan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Shine",
+        "symbol": "SC20",
+        "decimals": 18
+    },
+    "website": "https://shinechain.tech",
+    "icon": null
+}

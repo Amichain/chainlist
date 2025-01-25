@@ -1,0 +1,22 @@
+{
+    "chainId": 1280,
+    "name": "HALO Mainnet",
+    "rpc": [
+        "https://nodes.halo.land",
+        "https://1280.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "HALOexplorer",
+            "url": "https://browser.halo.land"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "HALO",
+        "symbol": "HO",
+        "decimals": 18
+    },
+    "website": "https://halo.land/#/",
+    "icon": null
+}

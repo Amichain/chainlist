@@ -1,0 +1,17 @@
+{
+    "chainId": 33448,
+    "name": "QI0408s2 Testnet",
+    "rpc": [
+        "https://33448.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0408s2 Testnet Token",
+        "symbol": "QCE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

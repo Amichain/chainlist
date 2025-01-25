@@ -1,0 +1,17 @@
+{
+    "chainId": 92496,
+    "name": "Testnet",
+    "rpc": [
+        "https://92496.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/testnet/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Testnet Token",
+        "symbol": "OWO",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

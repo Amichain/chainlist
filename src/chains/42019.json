@@ -1,0 +1,22 @@
+{
+    "chainId": 42019,
+    "name": "Donatuz Testnet",
+    "rpc": [
+        "https://42019.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-test.donatuz.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://explorer-test.donatuz.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

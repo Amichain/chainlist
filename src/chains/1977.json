@@ -1,0 +1,21 @@
+{
+    "chainId": 1977,
+    "name": "JoeNet",
+    "rpc": [
+        "https://1977.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://b4-testnet.explorer.caldera.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": "1977.png",
+    "testnet": true
+}

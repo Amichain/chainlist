@@ -1,0 +1,16 @@
+{
+    "chainId": 971,
+    "name": "Oort Huygens",
+    "rpc": [
+        "https://971.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Oort",
+        "symbol": "CCN",
+        "decimals": 18
+    },
+    "website": "https://oortech.com",
+    "icon": null
+}

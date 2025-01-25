@@ -1,0 +1,27 @@
+{
+    "chainId": 1517929550,
+    "name": "Deprecated SKALE Titan Hub Testnet",
+    "rpc": [
+        "https://staging-v3.skalenodes.com/v1/staging-aware-chief-gianfar"
+    ],
+    "ws": [
+        "wss://staging-v3.skalenodes.com/v1/ws/staging-aware-chief-gianfar"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://staging-aware-chief-gianfar.explorer.staging-v3.skalenodes.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://sfuel.dirtroad.dev/staging"
+    ]
+}

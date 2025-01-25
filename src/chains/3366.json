@@ -1,0 +1,23 @@
+{
+    "chainId": 3366,
+    "name": "Meroneum",
+    "rpc": [
+        "https://mainnet-node1.meronscan.ai/",
+        "https://mainnet-node2.meronscan.ai/",
+        "https://mainnet-node3.meronscan.ai/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "meronscan",
+            "url": "https://meronscan.ai"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "MERON",
+        "symbol": "MERON",
+        "decimals": 18
+    },
+    "website": "https://www.meroneum.ai",
+    "icon": null
+}

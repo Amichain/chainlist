@@ -1,0 +1,23 @@
+{
+    "chainId": 2187,
+    "name": "Game7",
+    "rpc": [
+        "https://mainnet-rpc.game7.io"
+    ],
+    "ws": [
+        "wss://mainnet-rpc.game7.io"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://mainnet.game7.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "G7",
+        "symbol": "G7",
+        "decimals": 18
+    },
+    "website": "https://game7.io/",
+    "icon": null
+}

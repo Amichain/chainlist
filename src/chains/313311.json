@@ -1,0 +1,17 @@
+{
+    "chainId": 313311,
+    "name": "LT11",
+    "rpc": [
+        "https://313311.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/lt11/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "LT11 Token",
+        "symbol": "LT",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

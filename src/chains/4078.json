@@ -1,0 +1,22 @@
+{
+    "chainId": 4078,
+    "name": "Muster Mainnet",
+    "rpc": [
+        "https://muster.alt.technology",
+        "https://4078.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Musterscan",
+            "url": "https://muster-explorer.alt.technology"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": "4078.png"
+}

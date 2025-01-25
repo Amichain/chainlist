@@ -1,0 +1,22 @@
+{
+    "chainId": 29,
+    "name": "Genesis L1",
+    "rpc": [
+        "https://rpc.genesisl1.org",
+        "https://29.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Genesis L1 blockchain explorer",
+            "url": "https://explorer.genesisl1.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "L1 coin",
+        "symbol": "L1",
+        "decimals": 18
+    },
+    "website": "https://www.genesisl1.com",
+    "icon": null
+}

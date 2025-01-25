@@ -1,0 +1,24 @@
+{
+    "chainId": 202,
+    "name": "Edgeless Testnet",
+    "rpc": [
+        "https://testnet.rpc.edgeless.network/http",
+        "https://202.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Edgeless Explorer",
+            "url": "https://testnet.explorer.edgeless.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Edgeless Wrapped Eth",
+        "symbol": "EwEth",
+        "decimals": 18
+    },
+    "website": "https://edgeless.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,28 @@
+{
+    "chainId": 6565,
+    "name": "Fox Testnet Network",
+    "rpc": [
+        "https://rpc-testnet-v1.foxchain.app/",
+        "https://rpc2-testnet-v1.foxchain.app/",
+        "https://rpc3-testnet-v1.foxchain.app",
+        "https://6565.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "FOX Testnet Explorer",
+            "url": "https://testnet.foxscan.app"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "FOX Native Token",
+        "symbol": "tFOX",
+        "decimals": 18
+    },
+    "website": "https://foxchain.app",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.foxchain.app"
+    ]
+}

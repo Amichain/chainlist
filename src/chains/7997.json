@@ -1,0 +1,17 @@
+{
+    "chainId": 7997,
+    "name": "QR0726T1TS",
+    "rpc": [
+        "https://7997.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qr0726t1ts-e814c.avax-test.network/ext/bc/JKuP5FFaEVamTYavzAEDoMHBqoeB7EH8Xw5VxsviZfhpomgWr/rpc?token=45fd1a876dfe5f424b36975f1c51cfdc24a4beea18dcb8c26e9ce4613447d6ae"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0726T1TS Token",
+        "symbol": "TOP",
+        "decimals": 18
+    },
+    "icon": "7997.svg",
+    "testnet": true
+}

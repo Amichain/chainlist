@@ -1,0 +1,17 @@
+{
+    "chainId": 72709,
+    "name": "Dragon Testnet",
+    "rpc": [
+        "https://72709.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/dragontest/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Dragon Testnet Token",
+        "symbol": "BDI",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

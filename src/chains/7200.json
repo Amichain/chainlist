@@ -1,0 +1,21 @@
+{
+    "chainId": 7200,
+    "name": "exSat Mainnet",
+    "rpc": [
+        "https://evm.exsat.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "exSat Explorer",
+            "url": "https://scan.exsat.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "decimals": 18
+    },
+    "website": "https://exsat.network/",
+    "icon": "7200.svg"
+}

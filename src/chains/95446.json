@@ -1,0 +1,17 @@
+{
+    "chainId": 95446,
+    "name": "QI0521s1t",
+    "rpc": [
+        "https://95446.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0521s1t Token",
+        "symbol": "YFT",
+        "decimals": 18
+    },
+    "icon": "95446.svg",
+    "testnet": true
+}

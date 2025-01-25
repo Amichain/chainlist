@@ -1,0 +1,17 @@
+{
+    "chainId": 2078,
+    "name": "Parody Network",
+    "rpc": [
+        "https://2078.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://fraa-flashbox-4392-rpc.a.stagenet.tanssi.network"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Parody",
+        "symbol": "PDY",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

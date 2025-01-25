@@ -1,0 +1,23 @@
+{
+    "chainId": 3030,
+    "name": "BC Hyper Chain Mainnet",
+    "rpc": [
+        "https://mainapi.bchscan.io",
+        "https://3030.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-sl1-z3c02.avax-test.network/ext/bc/2feuCvmT165rSmf2V4nRfzhezoa4usQReY4AuHfJgzavEXJvHN/rpc?token=1b6d50b455dfead661fb93bc2dabfe72e0a668caf269a01022dc87f2e7bf602a"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "bcexplorer mainnet",
+            "url": "https://mainnet.bchscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "sL1 Token",
+        "symbol": "SHERRY",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null
+}

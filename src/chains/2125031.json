@@ -1,0 +1,27 @@
+{
+    "chainId": 2125031,
+    "name": "Bubs Testnet",
+    "rpc": [
+        "https://2125031.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://bubs-sepolia.rpc.caldera.xyz/http"
+    ],
+    "ws": [
+        "wss://bubs-sepolia.rpc.caldera.xyz/ws"
+    ],
+    "explorers": [
+        {
+            "name": "Bubs Sepolia Explorer",
+            "url": "https://bubs-sepolia.explorer.caldera.xyz/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://bubs-sepolia.hub.caldera.xyz/"
+    ]
+}

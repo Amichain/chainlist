@@ -1,0 +1,21 @@
+{
+    "chainId": 70701,
+    "name": "Proof of Play - Boss",
+    "rpc": [
+        "https://rpc.boss.proofofplay.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Proof of Play Boss Explorer",
+            "url": "https://explorer.boss.proofofplay.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://proofofplay.com",
+    "icon": "70701.png"
+}

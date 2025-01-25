@@ -1,0 +1,24 @@
+{
+    "chainId": 859,
+    "name": "Zeeth Chain Dev",
+    "rpc": [
+        "https://rpc.dev.zeeth.io",
+        "https://859.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Zeeth Explorer Dev",
+            "url": "https://explorer.dev.zeeth.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Zeeth Token",
+        "symbol": "ZTH",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 91558,
+    "name": "Shelby's Testnet 1-18",
+    "rpc": [
+        "https://91558.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Shelby's Testnet 1-18 Token",
+        "symbol": "LIE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

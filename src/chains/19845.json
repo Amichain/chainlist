@@ -1,0 +1,22 @@
+{
+    "chainId": 19845,
+    "name": "BTCIX Network",
+    "rpc": [
+        "https://seed.btcix.org/rpc",
+        "https://19845.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "BTCIXScan",
+            "url": "https://btcixscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BTCIX Network",
+        "symbol": "BTCIX",
+        "decimals": 18
+    },
+    "website": "https://bitcolojix.org",
+    "icon": null
+}

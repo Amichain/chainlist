@@ -1,0 +1,30 @@
+{
+    "chainId": 80001,
+    "name": "Mumbai",
+    "rpc": [
+        "https://rpc-mumbai.maticvigil.com",
+        "https://polygon-mumbai-bor-rpc.publicnode.com",
+        "https://polygon-mumbai.gateway.tenderly.co"
+    ],
+    "ws": [
+        "wss://polygon-mumbai-bor-rpc.publicnode.com",
+        "wss://polygon-mumbai.gateway.tenderly.co"
+    ],
+    "explorers": [
+        {
+            "name": "polygonscan",
+            "url": "https://mumbai.polygonscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "MATIC",
+        "symbol": "MATIC",
+        "decimals": 18
+    },
+    "website": "https://polygon.technology/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.polygon.technology/"
+    ]
+}

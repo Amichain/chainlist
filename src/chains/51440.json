@@ -1,0 +1,17 @@
+{
+    "chainId": 51440,
+    "name": "QI0430s4",
+    "rpc": [
+        "https://51440.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0430s4 Token",
+        "symbol": "SWS",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 1392,
+    "name": "Joseon Mainnet",
+    "rpc": [
+        "https://rpc.modchain.net/blockchain.joseon.com/rpc",
+        "https://1392.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "BlockExplorer",
+            "url": "https://www.blockexplorer.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Joseon Mun",
+        "symbol": "JSM",
+        "decimals": 18
+    },
+    "website": "https://www.joseon.com/",
+    "icon": null
+}

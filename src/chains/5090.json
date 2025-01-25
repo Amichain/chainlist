@@ -1,0 +1,23 @@
+{
+    "chainId": 5090,
+    "name": "Pioneer Chain Testnet",
+    "rpc": [
+        "https://rpc.pionescan.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Pioneer Chain Explorer",
+            "url": "https://pionescan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Pioneer",
+        "symbol": "PIO",
+        "decimals": 18
+    },
+    "website": "https://pionechain.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

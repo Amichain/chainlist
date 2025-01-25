@@ -1,0 +1,17 @@
+{
+    "chainId": 36908,
+    "name": "QR1205s1",
+    "rpc": [
+        "https://36908.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr1205s1/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR1205s1 Token",
+        "symbol": "MDN",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

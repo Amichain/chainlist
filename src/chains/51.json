@@ -1,0 +1,36 @@
+{
+    "chainId": 51,
+    "name": "XDC Apothem Network",
+    "rpc": [
+        "https://rpc.apothem.network",
+        "https://erpc.apothem.network",
+        "https://apothem.xdcrpc.com",
+        "https://51.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "xdcscan",
+            "url": "https://testnet.xdcscan.com"
+        },
+        {
+            "name": "openscan",
+            "url": "https://apothem.xdcscan.io"
+        },
+        {
+            "name": "xdcscan",
+            "url": "https://apothem.xinfinscan.com"
+        },
+        {
+            "name": "blocksscan",
+            "url": "https://apothem.blocksscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "XinFin",
+        "symbol": "TXDC",
+        "decimals": 18
+    },
+    "website": "https://xinfin.org",
+    "icon": "51.png"
+}

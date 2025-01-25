@@ -1,0 +1,24 @@
+{
+    "chainId": 5051,
+    "name": "Nollie Skatechain Testnet",
+    "rpc": [
+        "https://nollie-rpc.skatechain.org/",
+        "https://5051.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Nollie Skate Chain Testnet Explorer",
+            "url": "https://nolliescan.skatechain.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 43593,
+    "name": "QaUser1596",
+    "rpc": [
+        "https://43593.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser1596 Token",
+        "symbol": "VNE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 57451,
+    "name": "COINSEC Network",
+    "rpc": [
+        "https://mainnet-rpc.coinsec.network",
+        "https://57451.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "coinsecnetwork",
+            "url": "https://explorer.coinsec.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "COINSEC",
+        "symbol": "SEC",
+        "decimals": 18
+    },
+    "website": "https://explorer.coinsec.network/",
+    "icon": null
+}

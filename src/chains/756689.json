@@ -1,0 +1,21 @@
+{
+    "chainId": 756689,
+    "name": "PAYSCAN CHAIN",
+    "rpc": [
+        "https://rpc.payscan.live"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "PAYSCAN CHAIN",
+            "url": "https://payscan.live"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "PYZ",
+        "symbol": "PYZ",
+        "decimals": 18
+    },
+    "website": "https://payscan.live",
+    "icon": null
+}

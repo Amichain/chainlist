@@ -1,0 +1,21 @@
+{
+    "chainId": 11820,
+    "name": "Artela Mainnet",
+    "rpc": [
+        "https://node-euro.artela.network/rpc"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ArtelaScan",
+            "url": "https://artscan.artela.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ART",
+        "symbol": "ART",
+        "decimals": 18
+    },
+    "website": "https://artela.network/",
+    "icon": null
+}

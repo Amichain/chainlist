@@ -1,0 +1,17 @@
+{
+    "chainId": 8022,
+    "name": "numine",
+    "rpc": [
+        "https://8022.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-numine-vc73e.avax-test.network/ext/bc/26XPa2jA4T31hKmaUGJt3g32xwsbaUfvcnMx1m18dWmrgxV2Mw/rpc?token=5f79a4d7746a18615d32562a9f9f9c2e87cae9d9cad53a94f7a204cba2434058"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "numine Token",
+        "symbol": "numine",
+        "decimals": 18
+    },
+    "icon": "8022.svg",
+    "testnet": true
+}

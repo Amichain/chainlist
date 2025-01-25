@@ -1,0 +1,21 @@
+{
+    "chainId": 42026,
+    "name": "Donatuz",
+    "rpc": [
+        "https://42026.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.donatuz.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://explorer.donatuz.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": null
+}

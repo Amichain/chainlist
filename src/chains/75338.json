@@ -1,0 +1,25 @@
+{
+    "chainId": 75338,
+    "name": "AppLayer Testnet",
+    "rpc": [
+        "https://testnet-api.applayer.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Applayer Testnet Explorer",
+            "url": "https://testnet-explorer.applayer.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "AppLayer",
+        "symbol": "APPL",
+        "decimals": 18
+    },
+    "website": "https://applayer.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://testnet-faucet.applayer.com"
+    ]
+}

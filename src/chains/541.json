@@ -1,0 +1,23 @@
+{
+    "chainId": 541,
+    "name": "stable-zone",
+    "rpc": [
+        "https://541.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-stable-zone-fjevdn44kt.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "stable-zone Explorer",
+            "url": "https://explorer-stable-zone-fjevdn44kt.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6
+    },
+    "website": "https://thirdweb.com/541",
+    "icon": null,
+    "testnet": true
+}

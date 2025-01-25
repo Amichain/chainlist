@@ -1,0 +1,21 @@
+{
+    "chainId": 2712670600268000,
+    "name": "OneMagicSchool",
+    "rpc": [
+        "https://2712670600268000.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://onemagicschool-2712670600268000-1.jsonrpc.sagarpc.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Blockexplorer",
+            "url": "https://onemagicschool-2712670600268000-1.sagaexplorer.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SHARD",
+        "symbol": "SHARD",
+        "decimals": 18
+    },
+    "icon": "2712670600268000.png"
+}

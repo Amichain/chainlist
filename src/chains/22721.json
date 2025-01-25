@@ -1,0 +1,17 @@
+{
+    "chainId": 22721,
+    "name": "QR0701S1TS",
+    "rpc": [
+        "https://22721.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qr0701s1ts-b5089.avax-test.network/ext/bc/26cFteUtPKbyFiDzKKbV1t1PVhcLuXTfRnSh62Sqqd7VythcKJ/rpc?token=67052c49c6e612210e3b27042731ddcaf1cfe7f8c23f3e27c887ff52014b20b6"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0701S1TS Token",
+        "symbol": "BHQ",
+        "decimals": 18
+    },
+    "icon": "22721.svg",
+    "testnet": true
+}

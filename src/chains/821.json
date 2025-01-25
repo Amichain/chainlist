@@ -1,0 +1,16 @@
+{
+    "chainId": 821,
+    "name": "Callisto Testnet Deprecated",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Callisto Testnet Ether",
+        "symbol": "TCLO",
+        "decimals": 18
+    },
+    "website": "https://callisto.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,25 @@
+{
+    "chainId": 5151,
+    "name": "MeChain Testnet",
+    "rpc": [
+        "https://testnet-rpc.mechain.tech"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "MeChain Scan",
+            "url": "https://testnet-scan.mechain.tech"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ZKME",
+        "symbol": "ZKME",
+        "decimals": 18
+    },
+    "website": "https://mechain.tech",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.mechain.tech"
+    ]
+}

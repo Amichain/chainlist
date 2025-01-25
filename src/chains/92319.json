@@ -1,0 +1,18 @@
+{
+    "chainId": 92319,
+    "name": "vouch4educhain",
+    "rpc": [
+        "https://92319.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-vouch4edu-yf893.avax-test.network/ext/bc/gJb5RtyW9inWYAXQQgjKCo3QDzujkf4dhmzqMy7arBhRGLFj8/rpc?token=c2cb7efbfac7339f387fca1189e148f67612da496b1e068d799ba2e33ce74282"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "vouch4educhain Token",
+        "symbol": "VFE",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

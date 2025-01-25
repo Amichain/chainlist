@@ -1,0 +1,17 @@
+{
+    "chainId": 95549,
+    "name": "Borne Testnet Testnet",
+    "rpc": [
+        "https://95549.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/borne/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Borne Testnet Testnet Token",
+        "symbol": "BORNE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

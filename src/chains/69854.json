@@ -1,0 +1,22 @@
+{
+    "chainId": 69854,
+    "name": "American Information Exchange",
+    "rpc": [
+        "https://69854.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-american-information-exchange-w1amy5wv8p.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "AMIX Explorer",
+            "url": "https://explorer-american-information-exchange-w1amy5wv8p.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "Eth",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

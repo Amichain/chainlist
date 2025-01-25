@@ -1,0 +1,26 @@
+{
+    "chainId": 513,
+    "name": "Double-A Chain Testnet",
+    "rpc": [
+        "https://rpc-testnet.acuteangle.com",
+        "https://513.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "aacscan-testnet",
+            "url": "https://scan-testnet.acuteangle.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Acuteangle Native Token",
+        "symbol": "AAC",
+        "decimals": 18
+    },
+    "website": "https://www.acuteangle.com/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://scan-testnet.acuteangle.com/faucet"
+    ]
+}

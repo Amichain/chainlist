@@ -1,0 +1,17 @@
+{
+    "chainId": 75817,
+    "name": "SFT 1-8-24",
+    "rpc": [
+        "https://75817.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "SFT 1-8-24 Token",
+        "symbol": "ZAF",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

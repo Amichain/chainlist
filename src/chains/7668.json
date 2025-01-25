@@ -1,0 +1,24 @@
+{
+    "chainId": 7668,
+    "name": "The Root Network - Mainnet",
+    "rpc": [
+        "https://root.rootnet.live/archive",
+        "https://7668.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://root.rootnet.live/archive/ws"
+    ],
+    "explorers": [
+        {
+            "name": "rootnet",
+            "url": "https://explorer.rootnet.live"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "XRP",
+        "symbol": "XRP",
+        "decimals": 6
+    },
+    "website": "https://www.futureverse.com/technology/root",
+    "icon": null
+}

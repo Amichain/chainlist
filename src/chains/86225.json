@@ -1,0 +1,17 @@
+{
+    "chainId": 86225,
+    "name": "ava privacy solutions",
+    "rpc": [
+        "https://86225.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-avaprivacy-d7360.avax-test.network/ext/bc/oWGrJRSSqrR4EozHy36aJbQcVRc5kCGHm2DzvuWVFVpKq3Q3R/rpc?token=8023bf037deaad0a0fa472760da4fc9e7d66efcf343038d09871bfbd54bcd725"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "ava privacy solutions Token",
+        "symbol": "APS",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

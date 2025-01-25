@@ -1,0 +1,22 @@
+{
+    "chainId": 345,
+    "name": "TSC Mainnet",
+    "rpc": [
+        "https://rpc01.trias.one",
+        "https://345.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "tscscan",
+            "url": "https://www.tscscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "TAS",
+        "symbol": "TAS",
+        "decimals": 18
+    },
+    "website": "https://www.trias.one",
+    "icon": "345.png"
+}

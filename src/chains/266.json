@@ -1,0 +1,16 @@
+{
+    "chainId": 266,
+    "name": "Neura",
+    "rpc": [
+        "https://266.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Ankr",
+        "symbol": "ANKR",
+        "decimals": 18
+    },
+    "website": "https://www.neuraprotocol.io/",
+    "icon": "266.png"
+}

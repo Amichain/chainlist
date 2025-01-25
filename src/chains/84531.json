@@ -1,0 +1,38 @@
+{
+    "chainId": 84531,
+    "name": "Base Goerli Testnet",
+    "rpc": [
+        "https://goerli.base.org",
+        "https://base-goerli.gateway.tenderly.co",
+        "https://base-goerli-rpc.publicnode.com"
+    ],
+    "ws": [
+        "wss://base-goerli.gateway.tenderly.co",
+        "wss://base-goerli-rpc.publicnode.com"
+    ],
+    "explorers": [
+        {
+            "name": "basescan",
+            "url": "https://goerli.basescan.org"
+        },
+        {
+            "name": "basescout",
+            "url": "https://base-goerli.blockscout.com"
+        },
+        {
+            "name": "dexguru",
+            "url": "https://base-goerli.dex.guru"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Goerli Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://base.org",
+    "icon": "84531.png",
+    "testnet": true,
+    "faucets": [
+        "https://www.coinbase.com/faucets/base-ethereum-goerli-faucet"
+    ]
+}

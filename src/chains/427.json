@@ -1,0 +1,22 @@
+{
+    "chainId": 427,
+    "name": "Zeeth Chain",
+    "rpc": [
+        "https://rpc.zeeth.io",
+        "https://427.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Zeeth Explorer",
+            "url": "https://explorer.zeeth.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Zeeth Token",
+        "symbol": "ZTH",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

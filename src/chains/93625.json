@@ -1,0 +1,17 @@
+{
+    "chainId": 93625,
+    "name": "QI0222I2",
+    "rpc": [
+        "https://93625.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0222I2 Token",
+        "symbol": "INK",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

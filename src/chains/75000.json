@@ -1,0 +1,21 @@
+{
+    "chainId": 75000,
+    "name": "ResinCoin Mainnet",
+    "rpc": [
+        "https://75000.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ResinScan",
+            "url": "https://explorer.resincoin.dev"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "RESIN",
+        "decimals": 18
+    },
+    "website": "https://resincoin.dev",
+    "icon": null
+}

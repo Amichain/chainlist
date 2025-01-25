@@ -1,0 +1,16 @@
+{
+    "chainId": 959009,
+    "name": "QR0508T1MP",
+    "rpc": [
+        "https://959009.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0508t1mp/mainnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0508T1MP Token",
+        "symbol": "AHO",
+        "decimals": 18
+    },
+    "icon": null
+}

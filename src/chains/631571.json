@@ -1,0 +1,28 @@
+{
+    "chainId": 631571,
+    "name": "Polter Testnet",
+    "rpc": [
+        "https://geist-polter.g.alchemy.com/public",
+        "https://631571.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Polter Testnet Explorer",
+            "url": "https://polter-testnet.explorer.alchemy.com"
+        },
+        {
+            "name": "Blockexplorer",
+            "url": "https://polter-testnet.explorer.alchemy.com/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Polter GHST",
+        "symbol": "GHST",
+        "decimals": 18
+    },
+    "website": "https://playongeist.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

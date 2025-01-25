@@ -1,0 +1,16 @@
+{
+    "chainId": 933326,
+    "name": "QR0326T2TS Testnet",
+    "rpc": [
+        "https://933326.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0326T2TS Testnet Token",
+        "symbol": "XFT",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 96040,
+    "name": "FIZIT",
+    "rpc": [
+        "https://96040.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/fizit/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "FIZIT Token",
+        "symbol": "FIZIT",
+        "decimals": 18
+    },
+    "icon": "96040.svg",
+    "testnet": true
+}

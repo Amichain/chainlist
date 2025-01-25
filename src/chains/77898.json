@@ -1,0 +1,17 @@
+{
+    "chainId": 77898,
+    "name": "QI0517I1",
+    "rpc": [
+        "https://77898.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0517I1 Token",
+        "symbol": "YGV",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

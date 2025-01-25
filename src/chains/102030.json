@@ -1,0 +1,21 @@
+{
+    "chainId": 102030,
+    "name": "Creditcoin",
+    "rpc": [
+        "https://mainnet3.creditcoin.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://creditcoin.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CTC",
+        "symbol": "CTC",
+        "decimals": 18
+    },
+    "website": "https://creditcoin.org",
+    "icon": "102030.png"
+}

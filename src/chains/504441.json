@@ -1,0 +1,22 @@
+{
+    "chainId": 504441,
+    "name": "Playdapp Network",
+    "rpc": [
+        "https://subnets.avax.network/playdappne/mainnet/rpc",
+        "https://504441.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Playdapp Explorer",
+            "url": "https://subnets.avax.network/playdappne"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Playdapp",
+        "symbol": "PDA",
+        "decimals": 18
+    },
+    "website": "https://playdapp.io",
+    "icon": null
+}

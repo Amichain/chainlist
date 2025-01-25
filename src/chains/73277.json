@@ -1,0 +1,17 @@
+{
+    "chainId": 73277,
+    "name": "QaUser9250 Testnet",
+    "rpc": [
+        "https://73277.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser9250 Testnet Token",
+        "symbol": "UDU",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

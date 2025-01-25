@@ -1,0 +1,17 @@
+{
+    "chainId": 991424,
+    "name": "QR0213Y1S",
+    "rpc": [
+        "https://991424.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0213y1s/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0213Y1S Token",
+        "symbol": "GCH",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

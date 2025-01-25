@@ -1,0 +1,17 @@
+{
+    "chainId": 108160679,
+    "name": "Oraichain Mainnet",
+    "rpc": [
+        "https://evm.orai.io",
+        "https://108160679.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Oraichain Token",
+        "symbol": "ORAI",
+        "decimals": 18
+    },
+    "website": "https://orai.io",
+    "icon": null
+}

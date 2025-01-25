@@ -1,0 +1,17 @@
+{
+    "chainId": 62293,
+    "name": "QI0516s1dev",
+    "rpc": [
+        "https://62293.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0516s1dev Token",
+        "symbol": "OMF",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

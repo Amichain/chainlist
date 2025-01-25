@@ -1,0 +1,17 @@
+{
+    "chainId": 44808,
+    "name": "klCohan Testnet",
+    "rpc": [
+        "https://44808.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/d2b6bd35-89f7-4019-bc88-643c31221e5c"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "klCohan Testnet Token",
+        "symbol": "DBM",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

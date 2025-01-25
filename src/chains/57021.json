@@ -1,0 +1,17 @@
+{
+    "chainId": 57021,
+    "name": "QIM2403061",
+    "rpc": [
+        "https://57021.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QIM2403061 Token",
+        "symbol": "VVC",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

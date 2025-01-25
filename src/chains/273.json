@@ -1,0 +1,21 @@
+{
+    "chainId": 273,
+    "name": "XR One",
+    "rpc": [
+        "https://xr-one.calderachain.xyz/http"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "XR One Explorer",
+            "url": "https://xr-one.calderaexplorer.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "XR",
+        "symbol": "XR",
+        "decimals": 18
+    },
+    "website": "https://xr-one.gitbook.io",
+    "icon": null
+}

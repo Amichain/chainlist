@@ -1,0 +1,32 @@
+{
+    "chainId": 713715,
+    "name": "Sei Devnet",
+    "rpc": [
+        "https://evm-rpc-arctic-1.sei-apis.com",
+        "https://evm-rpc.arctic-1.seinetwork.io",
+        "https://713715.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Seistream",
+            "url": "https://seistream.app"
+        },
+        {
+            "name": "Seitrace",
+            "url": "https://seitrace.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sei",
+        "symbol": "SEI",
+        "decimals": 18
+    },
+    "website": "https://www.sei.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://sei-faucet.nima.enterprises",
+        "https://sei-evm.faucetme.pro"
+    ]
+}

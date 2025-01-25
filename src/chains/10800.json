@@ -1,0 +1,22 @@
+{
+    "chainId": 10800,
+    "name": "onetest-network",
+    "rpc": [
+        "https://10800.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-onetest-network-hfuey4hrji.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://explorer-onetest-network-hfuey4hrji.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": "10800.jpg",
+    "testnet": true
+}

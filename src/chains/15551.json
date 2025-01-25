@@ -1,0 +1,22 @@
+{
+    "chainId": 15551,
+    "name": "LoopNetwork Mainnet",
+    "rpc": [
+        "https://api.mainnetloop.com",
+        "https://15551.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "loopscan",
+            "url": "http://explorer.mainnetloop.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "LOOP",
+        "symbol": "LOOP",
+        "decimals": 18
+    },
+    "website": "http://theloopnetwork.org/",
+    "icon": null
+}

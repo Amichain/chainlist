@@ -1,0 +1,17 @@
+{
+    "chainId": 5042,
+    "name": "OMOCHI",
+    "rpc": [
+        "https://5042.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/omochi/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "OMOCHI Token",
+        "symbol": "OMCH",
+        "decimals": 18
+    },
+    "icon": "5042.svg",
+    "testnet": true
+}

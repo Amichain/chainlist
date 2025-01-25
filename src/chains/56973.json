@@ -1,0 +1,17 @@
+{
+    "chainId": 56973,
+    "name": "QaUser0587",
+    "rpc": [
+        "https://56973.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser0587 Token",
+        "symbol": "IDZ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

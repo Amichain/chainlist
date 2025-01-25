@@ -1,0 +1,27 @@
+{
+    "chainId": 325000,
+    "name": "Camp Network Testnet V2",
+    "rpc": [
+        "https://rpc-campnetwork.xyz",
+        "https://325000.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.camp-network-testnet.gelato.digital"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://camp-network-testnet.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://docs.campnetwork.xyz/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://www.campnetwork.xyz/faucet"
+    ]
+}

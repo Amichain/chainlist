@@ -1,0 +1,18 @@
+{
+    "chainId": 1174,
+    "name": "Litheum Test Network",
+    "rpc": [
+        "https://testnet.litheum.com"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Lith",
+        "symbol": "LTH",
+        "decimals": 9
+    },
+    "website": "https://litheum.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

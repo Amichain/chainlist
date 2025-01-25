@@ -1,0 +1,18 @@
+{
+    "chainId": 2212,
+    "name": "outside-olive-slug",
+    "rpc": [
+        "https://2212.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-outsideoli-vc77d.avax-test.network/ext/bc/RUnRZbgtqfvSRJVZbkyf9Ciqwb9qqPp1DVjJSND823JTGZpJ4/rpc?token=8cdf146b29874e7e0349c5dbf142d361bd007ccb681651a0c5d7fe5e6793e50d"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "outside-olive-slug Token",
+        "symbol": "XII",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "2212.svg",
+    "testnet": true
+}

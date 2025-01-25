@@ -1,0 +1,22 @@
+{
+    "chainId": 32382,
+    "name": "Santiment Intelligence Network",
+    "rpc": [
+        "https://node.sanr.app",
+        "https://32382.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Santiment Intelligence Explorer",
+            "url": "https://app-explorer-pos.sanr.app"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SANR",
+        "symbol": "SANR",
+        "decimals": 18
+    },
+    "website": "https://sanr.app",
+    "icon": null
+}

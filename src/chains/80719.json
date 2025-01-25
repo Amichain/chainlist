@@ -1,0 +1,17 @@
+{
+    "chainId": 80719,
+    "name": "QaUser4301 Testnet",
+    "rpc": [
+        "https://80719.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser4301 Testnet Token",
+        "symbol": "NHU",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

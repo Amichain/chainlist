@@ -1,0 +1,18 @@
+{
+    "chainId": 84824,
+    "name": "worthy-white-roundworm",
+    "rpc": [
+        "https://84824.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qie2409111-vc4dc.avax-test.network/ext/bc/e1KEGym2kJWDxz5t9VsgrCaL1P7W9mGQBidFCTctog9FJYy6X/rpc?token=25e18389c12fdf95ca609f650c2e33b855ca5700c4c3d485c4aa8837c1621580"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "worthy-white-roundworm Token",
+        "symbol": "QIE",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": "84824.svg",
+    "testnet": true
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 71213,
+    "name": "Trendz Blockchain",
+    "rpc": [
+        "https://71213.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://t-rpc.trendzblockchain.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "T-Scan",
+            "url": "https://t-scan.trendzblockchain.com/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Trendz",
+        "symbol": "TRB",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

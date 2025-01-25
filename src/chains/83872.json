@@ -1,0 +1,22 @@
+{
+    "chainId": 83872,
+    "name": "ZEDXION",
+    "rpc": [
+        "https://mainnet-rpc.zedscan.net",
+        "https://83872.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Zedscan",
+            "url": "http://zedscan.net"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Zedxion",
+        "symbol": "ZEDX",
+        "decimals": 9
+    },
+    "website": "https://docs.zedscan.net",
+    "icon": "83872.png"
+}

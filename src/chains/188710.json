@@ -1,0 +1,22 @@
+{
+    "chainId": 188710,
+    "name": "Bitica Chain Mainnet",
+    "rpc": [
+        "https://mainnet-rpc.biticablockchain.com/",
+        "https://188710.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Bitica DPOS Blockchain Explorer",
+            "url": "https://biticablockchain.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Bitica Coin",
+        "symbol": "BDCC",
+        "decimals": 18
+    },
+    "website": "https://biticablockchain.com/",
+    "icon": null
+}

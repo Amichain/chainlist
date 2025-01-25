@@ -1,0 +1,23 @@
+{
+    "chainId": 102032,
+    "name": "Creditcoin Devnet",
+    "rpc": [
+        "https://rpc.cc3-devnet.creditcoin.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://creditcoin-devnet.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Devnet CTC",
+        "symbol": "devCTC",
+        "decimals": 18
+    },
+    "website": "https://creditcoin.org",
+    "icon": "102032.png",
+    "testnet": true,
+    "faucets": []
+}

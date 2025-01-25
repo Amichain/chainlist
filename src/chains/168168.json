@@ -1,0 +1,21 @@
+{
+    "chainId": 168168,
+    "name": "Zchains",
+    "rpc": [
+        "https://rpc.zchains.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "zchains",
+            "url": "https://scan.zchains.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ZCD",
+        "symbol": "ZCD",
+        "decimals": 18
+    },
+    "website": "https://www.zchains.com/",
+    "icon": null
+}

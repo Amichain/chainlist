@@ -1,0 +1,16 @@
+{
+    "chainId": 205,
+    "name": "EKAASH",
+    "rpc": [
+        "https://mainnet.ekaash.biz"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Global Mobile Money Gateway",
+        "symbol": "$EKH",
+        "decimals": 18
+    },
+    "website": "https://ekaash.biz",
+    "icon": null
+}

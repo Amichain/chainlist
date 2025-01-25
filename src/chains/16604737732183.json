@@ -1,0 +1,23 @@
+{
+    "chainId": 16604737732183,
+    "name": "Flame Testnet",
+    "rpc": [
+        "https://rpc.flame.dawn-1.astria.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.flame.dawn-1.astria.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "TIA",
+        "symbol": "TIA",
+        "decimals": 18
+    },
+    "website": "https://astria.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

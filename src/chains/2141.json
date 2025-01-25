@@ -1,0 +1,24 @@
+{
+    "chainId": 2141,
+    "name": "Oneness TestNet",
+    "rpc": [
+        "https://rpc.testnet.onenesslabs.io/",
+        "https://2141.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "oneness-testnet",
+            "url": "https://scan.testnet.onenesslabs.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "BTC",
+        "symbol": "BTC",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

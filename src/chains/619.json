@@ -1,0 +1,21 @@
+{
+    "chainId": 619,
+    "name": "Skynet",
+    "rpc": [
+        "http://rpc.skynet.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "tracehawk",
+            "url": "http://explorer.skynet.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SkyUSD",
+        "symbol": "sUSD",
+        "decimals": 18
+    },
+    "website": "http://explorer.skynet.io",
+    "icon": null
+}

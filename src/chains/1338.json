@@ -1,0 +1,31 @@
+{
+    "chainId": 1338,
+    "name": "Elysium Testnet",
+    "rpc": [
+        "https://rpc.atlantischain.network",
+        "https://1338.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://elysium-test-rpc.vulcanforged.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Atlantis explorer",
+            "url": "https://blockscout.atlantischain.network"
+        },
+        {
+            "name": "Elysium testnet explorer",
+            "url": "https://elysium-explorer.vulcanforged.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "LAVA",
+        "symbol": "LAVA",
+        "decimals": 18
+    },
+    "website": "https://elysiumscan.vulcanforged.com",
+    "icon": "1338.png",
+    "testnet": true,
+    "faucets": [
+        "https://faucet.atlantischain.network"
+    ]
+}

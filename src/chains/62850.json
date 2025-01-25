@@ -1,0 +1,26 @@
+{
+    "chainId": 62850,
+    "name": "LAOS Sigma Testnet",
+    "rpc": [
+        "https://rpc.laossigma.laosfoundation.io",
+        "https://62850.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://rpc.laossigma.laosfoundation.io"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://sigma.explorer.laosnetwork.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SIGMA",
+        "symbol": "SIGMA",
+        "decimals": 18
+    },
+    "website": "https://laosnetwork.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

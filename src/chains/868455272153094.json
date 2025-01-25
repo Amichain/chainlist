@@ -1,0 +1,25 @@
+{
+    "chainId": 868455272153094,
+    "name": "Godwoken Testnet (V1)",
+    "rpc": [
+        "https://godwoken-testnet-web3-v1-rpc.ckbapp.dev"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "GWScan Block Explorer",
+            "url": "https://v1.aggron.gwscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CKB",
+        "symbol": "CKB",
+        "decimals": 8
+    },
+    "website": "https://www.nervos.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://homura.github.io/light-godwoken"
+    ]
+}

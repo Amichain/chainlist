@@ -1,0 +1,16 @@
+{
+    "chainId": 3141,
+    "name": "Filecoin - Hyperspace testnet",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "testnet filecoin",
+        "symbol": "tFIL",
+        "decimals": 18
+    },
+    "website": "https://filecoin.io",
+    "icon": "3141.png",
+    "testnet": true,
+    "faucets": []
+}

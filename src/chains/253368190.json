@@ -1,0 +1,21 @@
+{
+    "chainId": 253368190,
+    "name": "Flame",
+    "rpc": [
+        "https://rpc.flame.astria.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.flame.astria.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "TIA",
+        "symbol": "TIA",
+        "decimals": 18
+    },
+    "website": "https://astria.org",
+    "icon": null
+}

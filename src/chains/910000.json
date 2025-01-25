@@ -1,0 +1,26 @@
+{
+    "chainId": 910000,
+    "name": "Posichain Testnet Shard 0",
+    "rpc": [
+        "https://api.s0.t.posichain.org",
+        "https://910000.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Posichain Explorer Testnet",
+            "url": "https://explorer-testnet.posichain.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Posichain Native Token",
+        "symbol": "POSI",
+        "decimals": 18
+    },
+    "website": "https://posichain.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.posichain.org/"
+    ]
+}

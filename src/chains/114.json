@@ -1,0 +1,36 @@
+{
+    "chainId": 114,
+    "name": "Flare Testnet Coston2",
+    "rpc": [
+        "https://coston2-api.flare.network/ext/C/rpc",
+        "https://flare-testnet-coston2.rpc.thirdweb.com",
+        "https://flaretestnet-bundler.etherspot.io",
+        "https://01-gravelines-005-01.rpc.tatum.io/ext/bc/C/rpc",
+        "https://02-chicago-005-02.rpc.tatum.io/ext/bc/C/rpc",
+        "https://02-tokyo-005-03.rpc.tatum.io/ext/bc/C/rpc",
+        "https://coston2.enosys.global/ext/C/rpc",
+        "https://114.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://coston2-explorer.flare.network"
+        },
+        {
+            "name": "Routescan",
+            "url": "https://coston2.testnet.flarescan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Coston2 Flare",
+        "symbol": "C2FLR",
+        "decimals": 18
+    },
+    "website": "https://flare.network",
+    "icon": "114.png",
+    "testnet": true,
+    "faucets": [
+        "https://faucet.flare.network"
+    ]
+}

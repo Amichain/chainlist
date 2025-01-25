@@ -1,0 +1,24 @@
+{
+    "chainId": 12890,
+    "name": "Quantum Chain Testnet",
+    "rpc": [
+        "https://testnet-rpc.quantumscan.org",
+        "https://12890.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Quantum Scan Testnet",
+            "url": "https://testnet.quantumscan.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Quantum Chain",
+        "symbol": "tQNET",
+        "decimals": 18
+    },
+    "website": "https://quantumnetwork.gg",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

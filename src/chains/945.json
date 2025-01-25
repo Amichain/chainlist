@@ -1,0 +1,23 @@
+{
+    "chainId": 945,
+    "name": "Subtensor EVM Testnet",
+    "rpc": [
+        "https://test.chain.opentensor.ai"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Subtensor EVM Explorer",
+            "url": "https://evm-testscan.dev.opentensor.ai"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "testTAO",
+        "symbol": "TAO",
+        "decimals": 18
+    },
+    "website": "https://bittensor.com/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

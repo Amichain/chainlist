@@ -1,0 +1,32 @@
+{
+    "chainId": 998,
+    "name": "Hyperliquid EVM Testnet",
+    "rpc": [
+        "https://api.hyperliquid-testnet.xyz/evm",
+        "https://998.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.luckynetwork.org",
+        "https://rpc.lnscan.org"
+    ],
+    "ws": [
+        "wss://ws.lnscan.org"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.luckynetwork.org"
+        },
+        {
+            "name": "expedition",
+            "url": "https://lnscan.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Lucky",
+        "symbol": "L99",
+        "decimals": 18
+    },
+    "website": "https://luckynetwork.org",
+    "icon": "998.png",
+    "testnet": true,
+    "faucets": []
+}

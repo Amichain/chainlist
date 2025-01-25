@@ -1,0 +1,17 @@
+{
+    "chainId": 1614,
+    "name": "QI0305I1 Testnet",
+    "rpc": [
+        "https://1614.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0305I1 Testnet Token",
+        "symbol": "PDC",
+        "decimals": 18
+    },
+    "icon": "1614.svg",
+    "testnet": true
+}

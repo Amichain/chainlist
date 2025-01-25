@@ -1,0 +1,17 @@
+{
+    "chainId": 28596,
+    "name": "QR0715S1TS",
+    "rpc": [
+        "https://28596.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qr0715s1ts-f9cf4.avax-test.network/ext/bc/2Y3tY5z3xtrjv3PyKsgK7mQ5XNiQMcV71SVWyifirbTjnyY5fX/rpc?token=c9517b8f6efa8e63ff559ec29d189e9c6c71fe6f9e2baf2767d4881dad5d15ed"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0715S1TS Token",
+        "symbol": "XPQ",
+        "decimals": 18
+    },
+    "icon": "28596.svg",
+    "testnet": true
+}

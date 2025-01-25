@@ -1,0 +1,27 @@
+{
+    "chainId": 8408,
+    "name": "Zenchain Testnet",
+    "rpc": [
+        "https://zenchain-testnet.api.onfinality.io/public"
+    ],
+    "ws": [
+        "wss://zenchain-testnet.api.onfinality.io/public-ws"
+    ],
+    "explorers": [
+        {
+            "name": "zentrace",
+            "url": "https://zentrace.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ZCX",
+        "symbol": "ZCX",
+        "decimals": 18
+    },
+    "website": "https://zenchain.io",
+    "icon": "8408.png",
+    "testnet": true,
+    "faucets": [
+        "https://facuet.zenchain.io"
+    ]
+}

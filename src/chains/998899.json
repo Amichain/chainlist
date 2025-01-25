@@ -1,0 +1,26 @@
+{
+    "chainId": 998899,
+    "name": "Supernet Testnet",
+    "rpc": [
+        "https://testnet-rpc.supernet.chaingames.io/",
+        "https://998899.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "supernet-testnet-explorer",
+            "url": "https://testnet-explorer.supernet.chaingames.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CHAIN",
+        "symbol": "CHAIN",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.chaingames.io"
+    ]
+}

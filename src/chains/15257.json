@@ -1,0 +1,26 @@
+{
+    "chainId": 15257,
+    "name": "Poodl Testnet",
+    "rpc": [
+        "https://testnet-rpc.poodl.org",
+        "https://15257.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Poodl Testnet Explorer",
+            "url": "https://testnet.poodl.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Poodl",
+        "symbol": "POODL",
+        "decimals": 18
+    },
+    "website": "https://poodl.org",
+    "icon": "15257.png",
+    "testnet": true,
+    "faucets": [
+        "https://faucet.poodl.org"
+    ]
+}

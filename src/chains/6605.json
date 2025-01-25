@@ -1,0 +1,23 @@
+{
+    "chainId": 6605,
+    "name": "test",
+    "rpc": [
+        "https://6605.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-test-uypjh07bt1.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "test Explorer",
+            "url": "https://explorer-test-uypjh07bt1.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://thirdweb.com/6605",
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,30 @@
+{
+    "chainId": 3799,
+    "name": "Tangle Testnet",
+    "rpc": [
+        "https://testnet-rpc.tangle.tools",
+        "https://testnet-rpc-archive.tangle.tools",
+        "https://3799.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://testnet-rpc.tangle.tools",
+        "wss://testnet-rpc-archive.tangle.tools"
+    ],
+    "explorers": [
+        {
+            "name": "ttntscan",
+            "url": "https://testnet-explorer.tangle.tools"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Testnet Tangle Network Token",
+        "symbol": "tTNT",
+        "decimals": 18
+    },
+    "website": "https://docs.tangle.tools",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.tangle.tools"
+    ]
+}

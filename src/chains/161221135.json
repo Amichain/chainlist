@@ -1,0 +1,26 @@
+{
+    "chainId": 161221135,
+    "name": "Plume Testnet",
+    "rpc": [
+        "https://161221135.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-rpc.plumenetwork.xyz/http"
+    ],
+    "ws": [
+        "wss://testnet-rpc.plumenetwork.xyz/ws"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://testnet-explorer.plumenetwork.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Plume Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://plumenetwork.xyz/",
+    "icon": "161221135.png",
+    "testnet": true,
+    "faucets": []
+}

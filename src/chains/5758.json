@@ -1,0 +1,26 @@
+{
+    "chainId": 5758,
+    "name": "SatoshiChain Testnet",
+    "rpc": [
+        "https://testnet-rpc.satoshichain.io",
+        "https://5758.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "SatoshiChain Testnet Explorer",
+            "url": "https://testnet.satoshiscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SatoshiChain Coin",
+        "symbol": "SATS",
+        "decimals": 18
+    },
+    "website": "https://satoshichain.net",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.satoshichain.io"
+    ]
+}

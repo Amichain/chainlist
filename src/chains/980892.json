@@ -1,0 +1,17 @@
+{
+    "chainId": 980892,
+    "name": "QR0530T1TS",
+    "rpc": [
+        "https://980892.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0530t1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0530T1TS Token",
+        "symbol": "OXQ",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

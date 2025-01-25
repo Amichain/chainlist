@@ -1,0 +1,22 @@
+{
+    "chainId": 37003,
+    "name": "crtr-testnet",
+    "rpc": [
+        "https://37003.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-crtr-testnet-mev0ni0xlx.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorerl2new-crtr-testnet-mev0ni0xlx.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "CRTR",
+        "symbol": "CRTR",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

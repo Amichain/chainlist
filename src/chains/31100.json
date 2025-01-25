@@ -1,0 +1,18 @@
+{
+    "chainId": 31100,
+    "name": "QR1022T2TS",
+    "rpc": [
+        "https://31100.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qr1022t2ts-w0f87.avax-test.network/ext/bc/inkeMdiVWu6KsqqSGiraZSA8UdSkGx612sti9dPJBJMsEJZrV/rpc?token=02cc36e09f4c51d97b70538ea5581fce6417cd3bc495cdf0107dbe44f8600ef3"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR1022T2TS Token",
+        "symbol": "SPOOKY",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,28 @@
+{
+    "chainId": 9007,
+    "name": "Shido Testnet Block",
+    "rpc": [
+        "https://rpc-testnet-nodes.shidoscan.com",
+        "https://9007.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://wss-testnet-nodes.shidoscan.com"
+    ],
+    "explorers": [
+        {
+            "name": "Shidoblock Testnet Explorer",
+            "url": "https://testnet.shidoscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Shido Testnet Token",
+        "symbol": "SHIDO",
+        "decimals": 18
+    },
+    "website": "https://www.nexablock.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://testnet.shidoscan.com/faucet"
+    ]
+}

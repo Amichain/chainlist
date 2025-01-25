@@ -1,0 +1,25 @@
+{
+    "chainId": 712,
+    "name": "Birdee-2",
+    "rpc": [
+        "https://evm-rpc.birdee-2.tucana.zone"
+    ],
+    "ws": [
+        "wss://evm-ws.birdee-2.tucana.zone"
+    ],
+    "explorers": [
+        {
+            "name": "Birdee-2 Explorer",
+            "url": "https://explorer.birdee-2.tucana.zone"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Tucana",
+        "symbol": "TUC",
+        "decimals": 18
+    },
+    "website": "https://tucana.zone",
+    "icon": "712.png",
+    "testnet": true,
+    "faucets": []
+}

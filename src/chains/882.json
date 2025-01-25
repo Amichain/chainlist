@@ -1,0 +1,22 @@
+{
+    "chainId": 882,
+    "name": "Hypr Testnet",
+    "rpc": [
+        "https://882.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-testnet.hypr.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Explorer",
+            "url": "https://explorer-testnet.hypr.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": "882.png",
+    "testnet": true
+}

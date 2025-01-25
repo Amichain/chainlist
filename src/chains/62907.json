@@ -1,0 +1,18 @@
+{
+    "chainId": 62907,
+    "name": "colossal-lavender-rodent",
+    "rpc": [
+        "https://62907.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-colossalla-b5c09.avax-test.network/ext/bc/rW9CNguZ9vQZaR7eakQ4a4aUfsvRvKuCKXqN3i8cLkEXAiJ95/rpc?token=c0433c52c5749158ca063ce695ad30461d7e6226961f0000b09866a68bc0bfac"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "colossal-lavender-rodent Token",
+        "symbol": "YXX",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null,
+    "testnet": true
+}

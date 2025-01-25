@@ -1,0 +1,21 @@
+{
+    "chainId": 150887,
+    "name": "MAXIMO",
+    "rpc": [
+        "https://150887.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.maximoscan.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Blockexplorer",
+            "url": "https://maximochain.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "MAXIMO",
+        "symbol": "MAX",
+        "decimals": 18
+    },
+    "icon": null
+}

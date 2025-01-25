@@ -1,0 +1,17 @@
+{
+    "chainId": 94171,
+    "name": "QaUser1828",
+    "rpc": [
+        "https://94171.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser1828 Token",
+        "symbol": "GGY",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

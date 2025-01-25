@@ -1,0 +1,17 @@
+{
+    "chainId": 5456,
+    "name": "QIE2408021",
+    "rpc": [
+        "https://5456.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://testnet-qie2408021-d75c4.avax-test.network/ext/bc/BYicPtv7bJPKMdmD8VWPT5qeSTwq6pP3Jve4pWBCz7sz4ayXU/rpc?token=32c1ce1f09a80d3f85c8722b89bea8b17edf1c9d79aab9b664086005b0b66562"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QIE2408021 Token",
+        "symbol": "DJW",
+        "decimals": 18
+    },
+    "icon": "5456.svg",
+    "testnet": true
+}

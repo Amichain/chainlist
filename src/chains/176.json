@@ -1,0 +1,24 @@
+{
+    "chainId": 176,
+    "name": "DC Mainnet",
+    "rpc": [
+        "https://rpc.dcnetio.cloud",
+        "https://176.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://ws.dcnetio.cloud"
+    ],
+    "explorers": [
+        {
+            "name": "dcscan",
+            "url": "https://exp.dcnetio.cloud"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "DC Native Token",
+        "symbol": "DCT",
+        "decimals": 18
+    },
+    "website": "https://www.dcnetio.cloud",
+    "icon": null
+}

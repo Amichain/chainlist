@@ -1,0 +1,27 @@
+{
+    "chainId": 503129905,
+    "name": "Deprecated SKALE Nebula Hub Testnet",
+    "rpc": [
+        "https://staging-v3.skalenodes.com/v1/staging-faint-slimy-achird"
+    ],
+    "ws": [
+        "wss://staging-v3.skalenodes.com/v1/ws/staging-faint-slimy-achird"
+    ],
+    "explorers": [
+        {
+            "name": "Blockscout",
+            "url": "https://staging-faint-slimy-achird.explorer.staging-v3.skalenodes.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+    },
+    "website": "https://nebulachain.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://sfuel.dirtroad.dev/staging"
+    ]
+}

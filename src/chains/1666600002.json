@@ -1,0 +1,21 @@
+{
+    "chainId": 1666600002,
+    "name": "Harmony Mainnet Shard 2",
+    "rpc": [
+        "https://api.s2.t.hmny.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Harmony Block Explorer",
+            "url": "https://explorer.harmony.one/blocks/shard/2"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ONE",
+        "symbol": "ONE",
+        "decimals": 18
+    },
+    "website": "https://www.harmony.one/",
+    "icon": null
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 91735,
+    "name": "QI1228I2",
+    "rpc": [
+        "https://91735.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avacloud-dev.io/f51649a9-3420-4636-bb44-206f63998951"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI1228I2 Token",
+        "symbol": "ZMY",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

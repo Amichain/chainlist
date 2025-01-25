@@ -1,0 +1,25 @@
+{
+    "chainId": 79479957,
+    "name": "SX Toronto Rollup",
+    "rpc": [
+        "https://rpc.sx-rollup-testnet.t.raas.gelato.cloud",
+        "https://79479957.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "SX Toronto L2 Explorer",
+            "url": "https://explorerl2.toronto.sx.technology"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "SX Network",
+        "symbol": "SX",
+        "decimals": 18
+    },
+    "website": "https://www.sx.technology",
+    "icon": "79479957.png",
+    "faucets": [
+        "https://faucet.toronto.sx.technology"
+    ]
+}

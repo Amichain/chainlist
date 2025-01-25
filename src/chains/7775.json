@@ -1,0 +1,24 @@
+{
+    "chainId": 7775,
+    "name": "GDCC TESTNET",
+    "rpc": [
+        "https://testnet-rpc1.gdccscan.io",
+        "https://7775.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "GDCC",
+            "url": "https://testnet.gdccscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "GDCC",
+        "symbol": "GDCC",
+        "decimals": 18
+    },
+    "website": "https://gdcchain.com",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

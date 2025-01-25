@@ -1,0 +1,22 @@
+{
+    "chainId": 1248,
+    "name": "Dogether Mainnet",
+    "rpc": [
+        "https://rpc.dogether.dog/",
+        "https://1248.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "DogetherExplorer",
+            "url": "https://explorer.dogether.dog"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Dogether",
+        "symbol": "dogeth",
+        "decimals": 18
+    },
+    "website": "https://www.dogether.dog/",
+    "icon": null
+}

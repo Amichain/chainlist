@@ -1,0 +1,24 @@
+{
+    "chainId": 2358,
+    "name": "Kroma Sepolia",
+    "rpc": [
+        "https://api.sepolia.kroma.network",
+        "https://2358.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://blockscout.sepolia.kroma.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://kroma.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

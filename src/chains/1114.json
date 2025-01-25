@@ -1,0 +1,25 @@
+{
+    "chainId": 1114,
+    "name": "Core Blockchain Testnet2",
+    "rpc": [
+        "https://rpc.test2.btcs.network/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Core Scan Testnet2",
+            "url": "https://scan.test2.btcs.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Core Blockchain Testnet2 Native Token",
+        "symbol": "tCORE2",
+        "decimals": 18
+    },
+    "website": "https://www.coredao.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://scan.test2.btcs.network/faucet"
+    ]
+}

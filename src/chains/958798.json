@@ -1,0 +1,17 @@
+{
+    "chainId": 958798,
+    "name": "QR0513T1TS",
+    "rpc": [
+        "https://958798.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0513t1ts/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QR0513T1TS Token",
+        "symbol": "PME",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,24 @@
+{
+    "chainId": 555666,
+    "name": "Eclipse Testnet",
+    "rpc": [
+        "https://subnets.avax.network/eclipsecha/testnet/rpc",
+        "https://555666.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ECLIPSE Explorer",
+            "url": "https://subnets-test.avax.network/eclipsecha"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Eclipse",
+        "symbol": "ECLPS",
+        "decimals": 18
+    },
+    "website": "http://eclipsenet.io",
+    "icon": "555666.svg",
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 80375,
+    "name": "qr0103y1s",
+    "rpc": [
+        "https://80375.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/qr0103y1s/testnet/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "qr0103y1s Token",
+        "symbol": "IJB",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

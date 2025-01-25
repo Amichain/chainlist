@@ -1,0 +1,24 @@
+{
+    "chainId": 103454,
+    "name": "Masa Testnet",
+    "rpc": [
+        "https://subnets.avax.network/masatestne/testnet/rpc",
+        "https://103454.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Masa Testnet Explorer",
+            "url": "https://subnets-test.avax.network/masatestnet"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Masa Token",
+        "symbol": "MASA",
+        "decimals": 18
+    },
+    "website": "https://masa.finance",
+    "icon": "103454.png",
+    "testnet": true,
+    "faucets": []
+}

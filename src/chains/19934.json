@@ -1,0 +1,22 @@
+{
+    "chainId": 19934,
+    "name": "B4",
+    "rpc": [
+        "https://19934.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://b4-testnet.rpc.caldera.xyz/http"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Block Explorer",
+            "url": "https://b4-testnet.explorer.caldera.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "icon": "19934.png",
+    "testnet": true
+}

@@ -1,0 +1,17 @@
+{
+    "chainId": 77572,
+    "name": "QaUser0993 Testnet",
+    "rpc": [
+        "https://77572.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser0993 Testnet Token",
+        "symbol": "JOE",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 1149,
+    "name": "Symplexia Smart Chain",
+    "rpc": [
+        "https://plex-rpc.plexfinance.us",
+        "https://1149.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Plexchain Explorer",
+            "url": "https://explorer.plexfinance.us"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Plex Native Token",
+        "symbol": "PLEX",
+        "decimals": 18
+    },
+    "website": "https://plexfinance.us/",
+    "icon": null
+}

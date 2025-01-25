@@ -1,0 +1,22 @@
+{
+    "chainId": 2712939583089000,
+    "name": "Creepy Monkeys",
+    "rpc": [
+        "https://2712939583089000.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://creepymonkeys-2712939583089000-1.jsonrpc.testnet.sagarpc.io"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "creepymonkeys explorer",
+            "url": "https://creepymonkeys-2712939583089000-1.testnet.sagaexplorer.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "MNKY",
+        "symbol": "MNKY",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

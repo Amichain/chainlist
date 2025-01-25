@@ -1,0 +1,21 @@
+{
+    "chainId": 805,
+    "name": "Evoz Mainnet",
+    "rpc": [
+        "https://rpc.evozscan.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "evozscan",
+            "url": "https://evozscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Evoz Mainnet",
+        "symbol": "EVOZ",
+        "decimals": 18
+    },
+    "website": "https://rpc.evozscan.com",
+    "icon": null
+}

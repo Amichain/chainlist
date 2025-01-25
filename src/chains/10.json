@@ -1,0 +1,44 @@
+{
+    "chainId": 10,
+    "name": "OP Mainnet",
+    "rpc": [
+        "https://mainnet.optimism.io",
+        "https://optimism-rpc.publicnode.com",
+        "https://optimism.gateway.tenderly.co",
+        "https://optimism.drpc.org",
+        "https://10.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://optimism-mainnet.infura.io/v3/${INFURA_API_KEY}",
+        "https://optimism.publicnode.com"
+    ],
+    "ws": [
+        "wss://optimism-rpc.publicnode.com",
+        "wss://optimism.gateway.tenderly.co",
+        "wss://optimism.drpc.org",
+        "wss://optimism.publicnode.com"
+    ],
+    "explorers": [
+        {
+            "name": "etherscan",
+            "url": "https://optimistic.etherscan.io"
+        },
+        {
+            "name": "blockscout",
+            "url": "https://optimism.blockscout.com"
+        },
+        {
+            "name": "dexguru",
+            "url": "https://optimism.dex.guru"
+        },
+        {
+            "name": "Routescan",
+            "url": "https://mainnet.superscan.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://optimism.io",
+    "icon": "10.svg"
+}

@@ -1,0 +1,29 @@
+{
+    "chainId": 59902,
+    "name": "Metis Sepolia Testnet",
+    "rpc": [
+        "https://sepolia.metisdevops.link",
+        "https://metis-sepolia-rpc.publicnode.com",
+        "https://59902.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://metis-sepolia-rpc.publicnode.com"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://sepolia-explorer.metisdevops.link"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "tMetis",
+        "symbol": "tMETIS",
+        "decimals": 18
+    },
+    "website": "https://www.metis.io",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://sepolia.faucet.metisdevops.link"
+    ]
+}

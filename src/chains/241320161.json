@@ -1,0 +1,14 @@
+{
+    "chainId": 241320161,
+    "name": "XMTP Sepolia",
+    "rpc": [],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18
+    },
+    "website": "https://xmtp.org",
+    "icon": null
+}

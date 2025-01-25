@@ -1,0 +1,19 @@
+{
+    "chainId": 90001,
+    "name": "F(x)Core Testnet Network",
+    "rpc": [
+        "https://testnet-fx-json-web3.functionx.io:8545",
+        "https://90001.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Function X",
+        "symbol": "FX",
+        "decimals": 18
+    },
+    "website": "https://functionx.io/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

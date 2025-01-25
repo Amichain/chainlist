@@ -1,0 +1,25 @@
+{
+    "chainId": 48899,
+    "name": "Zircuit Testnet",
+    "rpc": [
+        "https://zircuit1-testnet.p2pify.com/",
+        "https://48899.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "http://zircuit1-testnet.p2pify.com/"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Zircuit",
+            "url": "https://explorer.testnet.zircuit.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://www.zircuit.com/",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,28 @@
+{
+    "chainId": 3,
+    "name": "Ropsten",
+    "rpc": [
+        "https://ropsten.infura.io/v3/${INFURA_API_KEY}"
+    ],
+    "ws": [
+        "wss://ropsten.infura.io/ws/v3/${INFURA_API_KEY}"
+    ],
+    "explorers": [
+        {
+            "name": "etherscan",
+            "url": "https://ropsten.etherscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ropsten Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://github.com/ethereum/ropsten",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "http://fauceth.komputing.org?chain=3&address=${ADDRESS}",
+        "https://faucet.ropsten.be?${ADDRESS}"
+    ]
+}

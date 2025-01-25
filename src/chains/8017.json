@@ -1,0 +1,21 @@
+{
+    "chainId": 8017,
+    "name": "iSunCoin Mainnet",
+    "rpc": [
+        "https://mainnet.isuncoin.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "iSunCoin Explorer",
+            "url": "https://baifa.io/app/chains/8017"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ISC",
+        "symbol": "ISC",
+        "decimals": 18
+    },
+    "website": "https://isuncoin.com",
+    "icon": null
+}

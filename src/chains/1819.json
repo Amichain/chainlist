@@ -1,0 +1,34 @@
+{
+    "chainId": 1819,
+    "name": "Cube Chain Testnet",
+    "rpc": [
+        "https://http-testnet.cube.network",
+        "https://http-testnet-sg.cube.network",
+        "https://http-testnet-jp.cube.network",
+        "https://http-testnet-us.cube.network",
+        "https://1819.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://ws-testnet.cube.network",
+        "wss://ws-testnet-sg.cube.network",
+        "wss://ws-testnet-jp.cube.network",
+        "wss://ws-testnet-us.cube.network"
+    ],
+    "explorers": [
+        {
+            "name": "cubetest-scan",
+            "url": "https://testnet.cubescan.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Cube Chain Test Native Token",
+        "symbol": "CUBET",
+        "decimals": 18
+    },
+    "website": "https://www.cube.network",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://faucet.cube.network"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "chainId": 12345678,
+    "name": "This is a test",
+    "rpc": [
+        "https://12345678.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-rollup-test-5dvpfcvmnw.t.conduit.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "This is a test Explorer",
+            "url": "https://explorer-rollup-test-5dvpfcvmnw.t.conduit.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://thirdweb.com/12345678",
+    "icon": null,
+    "testnet": true
+}

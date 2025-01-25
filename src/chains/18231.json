@@ -1,0 +1,25 @@
+{
+    "chainId": 18231,
+    "name": "unreal-old",
+    "rpc": [
+        "https://rpc.unreal.gelato.digital"
+    ],
+    "ws": [
+        "wss://ws.unreal.gelato.digital"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://unreal.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "unreal Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://raas.gelato.network/rollups/details/public/unreal",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

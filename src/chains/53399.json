@@ -1,0 +1,17 @@
+{
+    "chainId": 53399,
+    "name": "QI0603I4",
+    "rpc": [
+        "https://53399.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QI0603I4 Token",
+        "symbol": "UQI",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

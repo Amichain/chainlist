@@ -1,0 +1,22 @@
+{
+    "chainId": 721529,
+    "name": "ERAM Mainnet",
+    "rpc": [
+        "https://mainnet-rpc.eramscan.com",
+        "https://721529.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Eramscan",
+            "url": "https://eramscan.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "ERAM",
+        "symbol": "ERAM",
+        "decimals": 18
+    },
+    "website": "http://doc.eramscan.com/",
+    "icon": "721529.png"
+}

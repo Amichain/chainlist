@@ -1,0 +1,17 @@
+{
+    "chainId": 24867,
+    "name": "QaUser45 Testnet",
+    "rpc": [
+        "https://24867.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "QaUser45 Testnet Token",
+        "symbol": "ZAG",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

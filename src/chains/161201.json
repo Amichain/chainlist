@@ -1,0 +1,23 @@
+{
+    "chainId": 161201,
+    "name": "Openledger Testnet",
+    "rpc": [
+        "https://rpctn.openledger.xyz"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Openledger Testnet Explorer",
+            "url": "https://scantn.openledger.xyz"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Openledger",
+        "symbol": "OPN",
+        "decimals": 18
+    },
+    "website": "https://www.openledger.xyz",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

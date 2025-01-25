@@ -1,0 +1,34 @@
+{
+    "chainId": 7001,
+    "name": "ZetaChain Testnet",
+    "rpc": [
+        "https://zetachain-athens-evm.blockpi.network/v1/rpc/public",
+        "https://zetachain-testnet.public.blastapi.io",
+        "https://zetachain-athens.g.allthatnode.com/archive/evm",
+        "https://7001.rpc.thirdweb.com",
+        "https://zeta-chain-testnet.drpc.org",
+        "https://7001.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "ZetaScan",
+            "url": "https://athens.explorer.zetachain.com"
+        },
+        {
+            "name": "Blockscout",
+            "url": "https://zetachain-athens-3.blockscout.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Zeta",
+        "symbol": "ZETA",
+        "decimals": 18
+    },
+    "website": "https://zetachain.com/docs",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://www.zetachain.com/docs/reference/apps/get-testnet-zeta/"
+    ]
+}

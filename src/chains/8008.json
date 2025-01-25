@@ -1,0 +1,22 @@
+{
+    "chainId": 8008,
+    "name": "Polynomial",
+    "rpc": [
+        "https://rpc.polynomial.fi",
+        "https://8008.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Polynomial Explorer",
+            "url": "https://polynomialscan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://polynomial.fi",
+    "icon": null
+}

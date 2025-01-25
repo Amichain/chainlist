@@ -1,0 +1,22 @@
+{
+    "chainId": 1008,
+    "name": "Eurus Mainnet",
+    "rpc": [
+        "https://mainnet.eurus.network/",
+        "https://1008.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "eurusexplorer",
+            "url": "https://explorer.eurus.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Eurus",
+        "symbol": "EUN",
+        "decimals": 18
+    },
+    "website": "https://eurus.network",
+    "icon": null
+}

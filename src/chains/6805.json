@@ -1,0 +1,22 @@
+{
+    "chainId": 6805,
+    "name": "RACE Mainnet",
+    "rpc": [
+        "https://racemainnet.io/",
+        "https://6805.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://racescan.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+    },
+    "website": "https://race.foundation/",
+    "icon": null
+}

@@ -1,0 +1,23 @@
+{
+    "chainId": 2910,
+    "name": "Devnet",
+    "rpc": [
+        "https://2910.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc-devnet.toggens.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Devnet Explorer",
+            "url": "https://devnet.toggens.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Toggen",
+        "symbol": "TGN",
+        "decimals": 18
+    },
+    "website": "https://thirdweb.com/2910",
+    "icon": "2910.png",
+    "testnet": true
+}

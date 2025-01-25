@@ -1,0 +1,24 @@
+{
+    "chainId": 333331,
+    "name": "Aves Testnet",
+    "rpc": [
+        "https://test.rpc.avescoin.io",
+        "https://333331.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "avescan",
+            "url": "https://testnet.avescoin.io"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "AvesT",
+        "symbol": "AVST",
+        "decimals": 18
+    },
+    "website": "https://ethereum.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

@@ -1,0 +1,22 @@
+{
+    "chainId": 5151706,
+    "name": "Loot Chain Mainnet",
+    "rpc": [
+        "https://5151706.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://rpc.lootchain.com/http "
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Explorer",
+            "url": "https://explorer.lootchain.com/"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "AGLD",
+        "symbol": "AGLD",
+        "decimals": 18
+    },
+    "icon": null,
+    "testnet": true
+}

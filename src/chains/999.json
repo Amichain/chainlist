@@ -1,0 +1,24 @@
+{
+    "chainId": 999,
+    "name": "Wanchain Testnet",
+    "rpc": [
+        "https://gwan-ssl.wandevs.org:46891/",
+        "https://999.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "wanscan",
+            "url": "https://testnet.wanscan.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Wancoin",
+        "symbol": "WAN",
+        "decimals": 18
+    },
+    "website": "https://testnet.wanscan.org",
+    "icon": "999.png",
+    "testnet": true,
+    "faucets": []
+}

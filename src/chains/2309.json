@@ -1,0 +1,16 @@
+{
+    "chainId": 2309,
+    "name": "Arevia",
+    "rpc": [
+        "https://2309.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "Arev",
+        "symbol": "ARÉV",
+        "decimals": 18
+    },
+    "website": "",
+    "icon": null
+}

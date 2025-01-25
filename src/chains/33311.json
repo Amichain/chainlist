@@ -1,0 +1,17 @@
+{
+    "chainId": 33311,
+    "name": "feature",
+    "rpc": [
+        "https://33311.rpc.thirdweb.com/${THIRDWEB_API_KEY}",
+        "https://mainnet-feature-f9df4.avax.network/ext/bc/txbozTNfyRgJJxtHmsbpvwTTWTHU739z7pX7qKdhJVxHC2MAk/rpc?token=5aeb19b196a4bd1afc8757fa07b206cb6f31f70952e4ce42ecb4dc35fd18e2da"
+    ],
+    "ws": [],
+    "explorers": [],
+    "nativeCurrency": {
+        "name": "feature Token",
+        "symbol": "FTR",
+        "decimals": 18
+    },
+    "website": "https://avacloud.io",
+    "icon": null
+}

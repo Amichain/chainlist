@@ -1,0 +1,27 @@
+{
+    "chainId": 245022940,
+    "name": "Neon EVM TestNet",
+    "rpc": [
+        "https://testnet.neonevm.org"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "native",
+            "url": "https://testnet.explorer.neon-labs.org"
+        },
+        {
+            "name": "neonscan",
+            "url": "https://testnet.neonscan.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Neon",
+        "symbol": "NEON",
+        "decimals": 18
+    },
+    "website": "https://neon-labs.org",
+    "icon": null,
+    "testnet": true,
+    "faucets": []
+}

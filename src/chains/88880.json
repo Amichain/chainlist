@@ -1,0 +1,25 @@
+{
+    "chainId": 88880,
+    "name": "Chiliz Scoville Testnet",
+    "rpc": [
+        "https://scoville-rpc.chiliz.com"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "scoville-explorer",
+            "url": "https://scoville-explorer.chiliz.com"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Chiliz",
+        "symbol": "CHZ",
+        "decimals": 18
+    },
+    "website": "https://www.chiliz.com/en/chain",
+    "icon": null,
+    "testnet": true,
+    "faucets": [
+        "https://scoville-faucet.chiliz.com"
+    ]
+}

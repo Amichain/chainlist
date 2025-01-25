@@ -1,0 +1,24 @@
+{
+    "chainId": 800001,
+    "name": "OctaSpace",
+    "rpc": [
+        "https://rpc.octa.space",
+        "https://800001.rpc.thirdweb.com/${THIRDWEB_API_KEY}"
+    ],
+    "ws": [
+        "wss://rpc.octa.space"
+    ],
+    "explorers": [
+        {
+            "name": "blockscout",
+            "url": "https://explorer.octa.space"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "OctaSpace",
+        "symbol": "OCTA",
+        "decimals": 18
+    },
+    "website": "https://octa.space",
+    "icon": null
+}

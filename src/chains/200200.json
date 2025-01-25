@@ -1,0 +1,25 @@
+{
+    "chainId": 200200,
+    "name": "Zoo Mainnet",
+    "rpc": [
+        "https://api.zoo.network"
+    ],
+    "ws": [],
+    "explorers": [
+        {
+            "name": "Zoo Network Explorer",
+            "url": "https://explore.zoo.network"
+        },
+        {
+            "name": "Zoo Network Explorer",
+            "url": "https://explore.zoo-test.network"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "Zoo",
+        "symbol": "ZOO",
+        "decimals": 18
+    },
+    "website": "https://zoo.network",
+    "icon": null
+}
