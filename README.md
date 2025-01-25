@@ -20,8 +20,14 @@ import chainlist from '@amichain/chainlist'
 ### Vanilla JS (not recommended)
 
 ```html
-<script src="/path/to/lib/dist/chainlist.umd.cjs"></script>
+<script src="https://cdn.staticdelivr.com/npm/@amichain/chainlist@0.1.0/dist/chainlist.umd.cjs"></script>
+<script>
+	// You can access to `chainlist` here
+    console.log(chainlist.getChain(1)) // Example
+</script>
 ```
+
+In this example, we are using [staticdelivr CDN service](https://staticdelivr.com) (jsdelivr.net doesn't handle .cjs mimeType properly).
 
 ## Usage
 
