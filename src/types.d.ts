@@ -17,11 +17,8 @@ export type Chain = {
 	faucets?: string[];
 	deprecated?: boolean;
 	icon: string | null;
-} & (
-	{ testnet: true; faucets: string[] } |
-	{ testnet?: false | undefined; faucets?: string[] }
-)
+} & ({ testnet: true; faucets: string[] } | { testnet?: false | undefined; faucets?: string[] });
 
 export const chains: Chain[];
-export const getChain: (chainId: number | string) => Chain
-export const getIconUrl: (chainId: number | string) => string
+export const getChain: (chainId: number | string) => Chain;
+export const getIconUrl: (chainId: number | string) => string;
