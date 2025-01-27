@@ -1,9 +1,9 @@
 {
   "name": "@amichain/chainlist",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "scripts": {
-    "build": "tsc && vite build && cp src/types.d.ts dist/types.d.ts"
+    "build": "tsc && vite build && rm dist/types.d.ts && cp src/types.d.ts dist/types.d.ts"
   },
   "devDependencies": {
     "typescript": "~5.6.2",
