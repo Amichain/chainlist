@@ -23,3 +23,5 @@ export type Chain = {
 )
 
 export const chains: Chain[];
+export const getChain: (chainId: number | string) => Chain
+export const getIconUrl: (chainId: number | string) => string
