@@ -1,0 +1,23 @@
+{
+    "name": "Amichain",
+    "rpc": [
+        "https://rpc.amichain.org"
+    ],
+    "ws": [
+        "wss://rpc-ws.amichain.org"
+    ],
+    "explorers": [
+        {
+            "name": "Amichain Explorer",
+            "url": "https://explorer.amichain.org"
+        }
+    ],
+    "nativeCurrency": {
+        "name": "AMI",
+        "symbol": "AMI",
+        "decimals": 18
+    },
+    "website": "https://amichain.org/",
+    "chainId": 588785742,
+    "icon": "588785741.svg"
+}
