@@ -1,15 +1,27 @@
 {
     "name": "Amichain",
     "rpc": [
-        "https://rpc.amichain.org"
+        "https://rpc.amichain.org",
+        "https://rpc-2.amichain.org",
+        "https://rpc-3.amichain.org",
+        "https://rpc-4.amichain.org",
+        "https://rpc-5.amichain.org"
     ],
     "ws": [
-        "wss://rpc-ws.amichain.org"
+        "wss://rpc-ws.amichain.org",
+        "wss://rpc-ws-2.amichain.org",
+        "wss://rpc-ws-3.amichain.org",
+        "wss://rpc-ws-4.amichain.org",
+        "wss://rpc-ws-5.amichain.org"
     ],
     "explorers": [
         {
             "name": "Amichain Explorer",
             "url": "https://explorer.amichain.org"
+        },
+        {
+            "name": "Routescan",
+            "url": "https://devnet.routescan.io/?rpc=https://rpc.amichain.org"
         }
     ],
     "nativeCurrency": {
